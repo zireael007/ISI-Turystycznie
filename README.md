@@ -13,9 +13,22 @@ Wyszukiwarka turystyczna
  * [lodash](https://github.com/lodash/lodash)
  * [nodemw](https://github.com/macbre/nodemw)
 
+###Instalation
 
-###Downloaded links from:
- * miasta Polski
- * lista uzdrowisk w Polsce
+To install nodejs:
+```bash  
+  sudo apt-get install nodejs
+```
 
+To install nodemw and lodash:
+```bash
+  cd MediaWiki
+  npm install nodemw
+  nom install lodash
+```
+###How to use:
 
+To download the links from wikipedia:
+```bash
+  node getArticlesLinks.js
+```
