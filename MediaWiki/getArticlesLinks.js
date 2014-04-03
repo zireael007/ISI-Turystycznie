@@ -12,7 +12,7 @@ var client = new bot({
 var numberOfFiles = 0;
 var numberOfLinks = 0;
 
-fs.writeFile('links', '', function(){console.log('Zawartośc pliku links została usunieta')})
+fs.writeFile('links', '', function(){console.log('Zawartośc pliku links została usunieta')});
 
 var writeToFile = function(dataName, data, cb) {
 	//write links to file
@@ -52,7 +52,7 @@ var getArticleLinks = function (articleName, deepStep) {
 
 var getCategoryLinks = function (categoryName, deepStep) {
 	client.getPagesInCategory(categoryName, function(data) {
-		console.log('sciągam kategorie' + categoryName);
+		console.log('sciągam kategorie ' + categoryName);
 		data = _.pluck(data, 'title');
 		if (deepStep != 0) {
 			_.each(data, function(val){
@@ -84,13 +84,22 @@ var articles =
 	},{
 		article: 'Organizacje_turystyczne_w_Polsce',
 		deepStep: 0
+	},{
+		article: 'Multikino',
+		deepStep: 0
+	},{
+		article: 'Silver_Screen',
+		deepStep: 0
+	},{
+		article: 'Cinema City',
+		deepStep: 0
 	}];
 
 for (var elem in articles) {
 	getArticleLinks(articles[elem].article.replace(/\s/g, "_"), articles[elem].deepStep);
 }
 
-var categories = ['Turystyka w Polsce', 'Kina w Polsce'];
+var categories = ['Turystyka w Polsce', 'Kina w Polsce', 'Teatry w Polsce', 'Obiekty_sportowe_w_Polsce', 'Pomniki_według_roku_odsłonięcia', 'Pomniki historii'];
 
 for (var category in categories) {
 	getCategoryLinks(categories[category].replace(/\s/g, "_"), 3);
