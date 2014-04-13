@@ -9,26 +9,32 @@ var client = new bot({
 });
 
 
-var numberOfFiles = 0;
-var numberOfLinks = 0;
+var numberOfPages = 0;
+var allLinks = [];
 
 fs.writeFile('links', '', function(){console.log('Zawartośc pliku links została usunieta')});
 
 var writeToFile = function(dataName, data, cb) {
 	//write links to file
-	fs.appendFile('links', data + '\n', function(err) {
-    	if(err) {
-	        console.log(err);
-    	} else {
-        	if (cb) {
-        		cb();
+	if (data) {
+		data = _.filter(data, function(item) {
+			return item.indexOf('Kategoria') == -1;
+		});
+		var oldLinks = _.clone(allLinks);
+		allLinks = _.union(allLinks, data);
+		fs.appendFile('links', _.difference(allLinks, oldLinks).join('\n') + '\n', function(err) {
+	    	if(err) {
+		        console.log(err);
+    		} else {
+        		if (cb) {
+        			cb();
         	}
         	console.log(dataName + " gotowe!!!");
-        	console.log('Liczba artykułów ' + (numberOfFiles++) +'.');
-        	console.log('Zapisano ' + (numberOfLinks) +' linków.\n');
-    	}
-	}); 
-
+        	console.log('Liczba artykułów ' + (numberOfPages++) +'.');
+        	console.log('Zapisano ' + (allLinks.length) +' linków.\n');
+    		}
+		}); 
+	}
 };
 
 var getArticleLinks = function (articleName, deepStep) {
@@ -43,9 +49,8 @@ var getArticleLinks = function (articleName, deepStep) {
 	 		links[link] = 'http://pl.wikipedia.org/wiki/' + links[link].slice(2).slice(0,-2).replace(/\s/g, "_");
 	 	}
 	 	links = _.uniq(links);
-	 	writeToFile('akrtykuł:'+ articleName, links.sort().join('\n'), function () {
+	 	writeToFile('akrtykuł:'+ articleName, links.sort(), function () {
 	 		console.log(articleName + ' - ' + links.length);
-	 		numberOfLinks += links.length;
 	 	});
 	});
 };
@@ -65,9 +70,8 @@ var getCategoryLinks = function (categoryName, deepStep) {
 			return 'http://pl.wikipedia.org/wiki/' + elem.replace(/\s/g, "_");
 		});
 		if (data.length != 0) {
-				writeToFile('kategoria:' + categoryName, data.join('\n'), function() {
+				writeToFile('kategoria:' + categoryName, data, function() {
 				console.log(categoryName + ' - ' + data.length);
-				numberOfLinks += data.length;
 			});
 		}
 	});	
