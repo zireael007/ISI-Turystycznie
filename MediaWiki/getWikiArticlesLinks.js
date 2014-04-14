@@ -8,32 +8,34 @@ var client = new bot({
 	"debug": false
 });
 
-
 var numberOfPages = 0;
 var allLinks = [];
 
-fs.writeFile('links', '', function(){console.log('Zawartośc pliku links została usunieta')});
+fs.writeFile('wikiLinks', '', function(){console.log('Zawartośc pliku links została usunieta')});
 
 var writeToFile = function(dataName, data, cb) {
 	//write links to file
-	if (data) {
+	if (!_.isEmpty(data)) {
 		data = _.filter(data, function(item) {
-			return item.indexOf('Kategoria') == -1;
+			return item.itemndexOf('Kategoria') == -1;
 		});
 		var oldLinks = _.clone(allLinks);
 		allLinks = _.union(allLinks, data);
-		fs.appendFile('links', _.difference(allLinks, oldLinks).join('\n') + '\n', function(err) {
-	    	if(err) {
-		        console.log(err);
-    		} else {
-        		if (cb) {
-        			cb();
-        	}
-        	console.log(dataName + " gotowe!!!");
-        	console.log('Liczba artykułów ' + (numberOfPages++) +'.');
-        	console.log('Zapisano ' + (allLinks.length) +' linków.\n');
-    		}
-		}); 
+		var diff = _.difference(allLinks, oldLinks);
+		if (!_.isEmpty(diff)) {
+			fs.appendFile('wikiLinks', diff.join('\n') + '\n', function(err) {
+	    		if(err) {
+		        	console.log(err);
+    			} else {
+        			console.log(dataName + " gotowe!!!");
+        			console.log('Liczba artykułów ' + (numberOfPages++) +'.');
+        			console.log('Zapisano ' + (allLinks.length) +' linków.\n');
+        			if (cb) {
+        				cb();
+        			}        			
+    			}
+			});
+		}
 	}
 };
 
