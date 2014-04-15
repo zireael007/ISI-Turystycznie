@@ -1,0 +1,3398 @@
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:svg="http://www.w3.org/2000/svg" lang="pl">
+<head>
+    <title>Baza muzeów w Polsce</title>
+    <base href="http://www.nimoz.pl/" />
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link href="public/design/frontend/css/modules.php" rel="stylesheet" type="text/css" />
+        <!--[if IE]>
+    <link href="public/design/frontend/css/ie.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 7]>
+    <link href="public/design/frontend/css/ie7.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 8]>
+    
+	<style type="text/css">
+    	#menu_t_r{
+        	margin-top:5px;
+            }
+    </style>
+    
+	<![endif]-->
+
+<style type="text/css">
+ #lewa h1.h1, #lewa p a, #lewa table a, #lewa span.lp, #lewa div.column h2 a, #lewa select.years, .h2 sub_title{
+    
+            color: #86B318;
+            
+ }
+</style>
+
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/mootools/1.3.2/mootools-yui-compressed.js"></script>
+
+</head><body>
+<div id="cookies" class="cookieInformation">
+	<div class="innerCookies">
+		<a class="close" href="#">Zamknij</a>
+		<p>Korzystamy z plików cookies i umożliwiamy zamieszczanie ich osobom trzecim. Pliki cookie pozwalają na poznanie twoich preferencji na podstawie zachowań w serwisie. Uznajemy, że jeżeli kontynuujesz korzystanie z serwisu, wyrażasz na to zgodę. Poznaj szczegóły i możliwości zmiany ustawień w <a class="more" href="">Polityce Cookies</a></p>
+	</div>
+</div><div id="center">
+	<div class="container">
+		<div id="header">
+            
+    <h2><a href="/" id="logo">Narodowy Instytut Muzealnictwa i Ochrony Zbiorów</a></h2>
+            <div id="pasek_top">&nbsp;</div>
+            <div class="toparticles">
+    <div id="scrollbox">
+	   <div id="newsbox">
+            <div id="topnews">
+                                <div class="one " onclick="window.location = 'http://www.nimoz.pl/pl/aktualnosci/informacje/prawo-ochrony-zabytkow'" >
+                    <img src="upload/modules/header/content/385x271/prawo_ochroy_zabytkow_rot.jpg" alt="news one"/>
+                    <div class="tab_background" style="background-color:#B10068"></div>
+                    <dl class="topnews_one">
+                        						<dt class="title"><a href="http://www.nimoz.pl/pl/aktualnosci/informacje/prawo-ochrony-zabytkow">Prawo ochrony zabytków</a></dt>
+                        						<dd class="art">
+						  <p class="orange"><p>red. Kamil Zeidler</p></p>
+                                                    <a class="cw_scroll" href="http://www.nimoz.pl/pl/aktualnosci/informacje/prawo-ochrony-zabytkow">Czytaj więcej</a>
+                          						</dd>
+                    </dl>
+				</div>
+                                <div class="one hide" onclick="window.location = 'http://www.nimoz.pl/pl/aktualnosci/informacje/dzien-wolnej-sztuki'" >
+                    <img src="upload/modules/header/content/385x271/wolna_sztuka_rot001.jpg" alt="news one"/>
+                    <div class="tab_background" style="background-color:#D30021"></div>
+                    <dl class="topnews_one">
+                        						<dt class="title"><a href="http://www.nimoz.pl/pl/aktualnosci/informacje/dzien-wolnej-sztuki">Dzień Wolnej Sztuki</a></dt>
+                        						<dd class="art">
+						  <p class="orange"><p>26 kwietnia 2014<br />
+Zapraszamy muzea do udziału!</p></p>
+                                                    <a class="cw_scroll" href="http://www.nimoz.pl/pl/aktualnosci/informacje/dzien-wolnej-sztuki">Czytaj więcej</a>
+                          						</dd>
+                    </dl>
+				</div>
+                                <div class="one hide" onclick="window.location = 'http://www.nimoz.pl/pl/aktualnosci/informacje/nodem-2014-zaproszenie'" >
+                    <img src="upload/modules/header/content/385x271/nodem_baner_rot.png" alt="news one"/>
+                    <div class="tab_background" style="background-color:#E7810C"></div>
+                    <dl class="topnews_one">
+                        						<dt class="title"><a href="http://www.nimoz.pl/pl/aktualnosci/informacje/nodem-2014-zaproszenie">NODEM 2014 - zaproszenie</a></dt>
+                        						<dd class="art">
+						  <p class="orange"><p>Propozycje referatów <br />
+do 30 kwietnia2014 r.</p></p>
+                                                    <a class="cw_scroll" href="http://www.nimoz.pl/pl/aktualnosci/informacje/nodem-2014-zaproszenie">Czytaj więcej</a>
+                          						</dd>
+                    </dl>
+				</div>
+                                <div class="one hide" onclick="window.location = 'http://www.nimoz.pl/pl/dzialalnosc/digitalizacja/polska-cyfrowa/projekty-krajowych-programow-operacyjnych-przyjete-przez-rm'" >
+                    <img src="upload/modules/header/content/385x271/piksele_baner_rot.png" alt="news one"/>
+                    <div class="tab_background" style="background-color:#B10068"></div>
+                    <dl class="topnews_one">
+                        						<dt class="title"><a href="http://www.nimoz.pl/pl/dzialalnosc/digitalizacja/polska-cyfrowa/projekty-krajowych-programow-operacyjnych-przyjete-przez-rm">Projekty krajowych programów operacyjnych</a></dt>
+                        						<dd class="art">
+						  <p class="orange"><p>&nbsp;przyjęte przez Radę Ministrów</p></p>
+                                                    <a class="cw_scroll" href="http://www.nimoz.pl/pl/dzialalnosc/digitalizacja/polska-cyfrowa/projekty-krajowych-programow-operacyjnych-przyjete-przez-rm">Czytaj więcej</a>
+                          						</dd>
+                    </dl>
+				</div>
+                                <div class="one hide" onclick="window.location = 'http://www.nimoz.pl/pl/aktualnosci/informacje/europejska-nagroda-muzealna-emya-2015'" >
+                    <img src="upload/modules/header/content/385x271/emya15rot.jpg" alt="news one"/>
+                    <div class="tab_background" style="background-color:#D30021"></div>
+                    <dl class="topnews_one">
+                        						<dt class="title"><a href="http://www.nimoz.pl/pl/aktualnosci/informacje/europejska-nagroda-muzealna-emya-2015">Europejska Nagroda Muzealna EMYA 2015</a></dt>
+                        						<dd class="art">
+						  <p class="orange"><p>zgłoszenia do <br />
+20 czerwca 2014</p></p>
+                                                    <a class="cw_scroll" href="http://www.nimoz.pl/pl/aktualnosci/informacje/europejska-nagroda-muzealna-emya-2015">Czytaj więcej</a>
+                          						</dd>
+                    </dl>
+				</div>
+                                <div class="one hide" onclick="window.location = 'pl/aktualnosci/informacje/stanowisko-nimoz'" >
+                    <img src="upload/modules/header/content/385x271/paragrafy.jpg" alt="news one"/>
+                    <div class="tab_background" style="background-color:#000000"></div>
+                    <dl class="topnews_one">
+                        						<dt class="title"><a href="pl/aktualnosci/informacje/stanowisko-nimoz">STANOWISKO NIMOZ</a></dt>
+                        						<dd class="art">
+						  <p class="orange"><p><b style="mso-bidi-font-weight:normal">dotyczy wdrażania dyrektywy o otwartym dostępie </b><b style="mso-bidi-font-weight:normal">do Informacji Sektora Publicznego</b></p>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Version>14.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->      <!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>PL</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="--"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="0" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:Standardowy;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+</style>
+<![endif]--></p>
+                                                    <a class="cw_scroll" href="pl/aktualnosci/informacje/stanowisko-nimoz">Czytaj więcej</a>
+                          						</dd>
+                    </dl>
+				</div>
+                                <div class="one hide" onclick="window.location = 'http://www.nimoz.pl/pobierz/770.html'" >
+                    <img src="upload/modules/header/content/385x271/rr.jpg" alt="news one"/>
+                    <div class="tab_background" style="background-color:#D30021"></div>
+                    <dl class="topnews_one">
+                        						<dt class="title"><a href="http://www.nimoz.pl/pobierz/770.html">Raport NIMOZ 2013</a></dt>
+                        						<dd class="art">
+						  <p class="orange"><p>zapraszamy</p></p>
+                                                    <a class="cw_scroll" href="http://www.nimoz.pl/pobierz/770.html">Czytaj więcej</a>
+                          						</dd>
+                    </dl>
+				</div>
+                                <div class="one hide" onclick="window.location = 'http://www.nimoz.pl/pl/aktualnosci/informacje/all-our-yesterdays-wystawa-partnerow-projektu-europeanaphotography'" >
+                    <img src="upload/modules/header/content/385x271/euphot_logo_rot.jpg" alt="news one"/>
+                    <div class="tab_background" style="background-color:#E7810C"></div>
+                    <dl class="topnews_one">
+                        						<dt class="title"><a href="http://www.nimoz.pl/pl/aktualnosci/informacje/all-our-yesterdays-wystawa-partnerow-projektu-europeanaphotography">All Our Yesterdays </a></dt>
+                        						<dd class="art">
+						  <p class="orange"><p>&ndash; wystawa partnerów projektu EuropeanaPhotography</p></p>
+                                                    <a class="cw_scroll" href="http://www.nimoz.pl/pl/aktualnosci/informacje/all-our-yesterdays-wystawa-partnerow-projektu-europeanaphotography">Czytaj więcej</a>
+                          						</dd>
+                    </dl>
+				</div>
+                            </div>
+            <ul id="newsPager">
+                				<li><a href="#">1</a></li>
+                				<li><a href="#">2</a></li>
+                				<li><a href="#">3</a></li>
+                				<li><a href="#">4</a></li>
+                				<li><a href="#">5</a></li>
+                				<li><a href="#">6</a></li>
+                				<li><a href="#">7</a></li>
+                				<li><a href="#">8</a></li>
+                            </ul>
+			<a id="box_prev" href="#">&lt;</a>
+			<a id="box_next" href="#">&gt;</a>
+        </div>
+    </div>
+</div>            <div id="menu_top_wrap">
+<img id="menu_t_l" src="public/design/frontend/images/menu_t_l.gif" />
+<ul class="horizontalUl clearfix" id="menu_top">
+	    <li class="  color-B10068">
+<a href="/pl/instytut" class="">Instytut</a>
+<ul class="verticalUl podmenu  color-B10068" >
+<li class="  color-B10068">
+<a href="/pl/instytut/podstawy-prawne-2" class="">Podstawy prawne</a>
+</li>
+<li class="  color-B10068" style="display: none;">
+</li>
+<li class="  color-B10068">
+<a href="/pl/instytut/rada-programowa" class="">Rada Programowa</a>
+</li>
+<li class="  color-B10068">
+<a href="/pl/instytut/kontakt" class="">Kontakt</a>
+<ul class="verticalUl podmenu  color-B10068" >
+<li class=" color-B10068" style="display: none;">
+</li>
+</ul></li>
+<li class=" color-B10068">
+	<a href="/pl/instytut/parnerzy" class="">Partnerzy</a>
+</li>
+<li class="  color-B10068">
+<a href="/pl/instytut/przetargi-i-ogloszenia" class="">Przetargi i ogłoszenia</a>
+</li>
+<li class="  color-B10068">
+<a href="/pl/instytut/bip-1" class="">BIP</a>
+</li>
+<li class="  color-B10068" style="display: none;">
+<ul class="verticalUl podmenu  color-B10068" >
+<li class=" color-B10068" style="display: none;">
+</li>
+<li class=" color-B10068" style="display: none;">
+</li>
+</ul></li>
+<li class=" color-B10068" style="display: none;">
+</li>
+</ul></li>
+<li class="  color-E7810C">
+<a href="/pl/dzialalnosc" class="">Działalność</a>
+<ul class="verticalUl podmenu color-E7810C" >
+<li class="  color-E7810C">
+<a href="/pl/dzialalnosc/strategia-rozwoju-muzealnictwa" class="">Strategia Rozwoju Muzealnictwa</a>
+<ul class="verticalUl podmenu  color-E7810C" >
+<li class=" color-E7810C" style="display: none;">
+</li>
+<li class=" color-E7810C" style="display: none;">
+</li>
+<li class=" color-E7810C" style="display: none;">
+</li>
+</ul></li>
+<li  class=" color-E7810C" >
+<a href="/pl/dzialalnosc/sybilla" class="">Sybilla</a>
+<ul class="verticalUl podmenu color-E7810C" >
+<li class=" color-E7810C" style="display: none;">
+</li>
+</ul></li>
+<li class=" color-E7810C">
+	<a href="/pl/dzialalnosc/muzeum-widzialne" class="">Muzeum Widzialne</a>
+</li>
+<li class="  color-E7810C">
+<a href="/pl/dzialalnosc/heritage-plus" class="">Heritage Plus</a>
+</li>
+<li class="  color-E7810C" style="display: none;">
+</li>
+<li class="  color-E7810C">
+<a href="/pl/dzialalnosc/programy" class="">Programy</a>
+<ul class="verticalUl podmenu  color-E7810C" >
+<li class=" color-E7810C">
+<a href="/pl/dzialalnosc/programy/wspieranie-dzialan-muzealnych-1" class="">Wspieranie działań muzealnych</a>
+</li>
+<li class=" color-E7810C">
+<a href="/pl/dzialalnosc/programy/kolekcje-muzealne-1" class="">Kolekcje muzealne</a>
+</li>
+<li class=" color-E7810C">
+<a href="/pl/dzialalnosc/programy/ochrona-i-cyfryzacja-dziedzictwa-kulturowego-1" class="">Ochrona i cyfryzacja dziedzictwa kulturowego</a>
+</li>
+<li class=" color-E7810C">
+<a href="/pl/dzialalnosc/programy/beneficjenci" class="">Beneficjenci</a>
+</li>
+<li class=" color-E7810C">
+<a href="/pl/dzialalnosc/programy/przewodnik-po-programach-ministra-kultury-i-dziedzictwa-narodowego" class="">Przewodnik po Programach Ministra Kultury i Dziedzictwa Narodowego</a>
+</li>
+</ul></li>
+<li  class=" color-E7810C" >
+<a href="/pl/dzialalnosc/digitalizacja" class="">Digitalizacja</a>
+<ul class="verticalUl podmenu color-E7810C" >
+<li class=" color-E7810C">
+<a href="/pl/dzialalnosc/digitalizacja/polska-cyfrowa" class="">Polska Cyfrowa </a>
+</li>
+<li class=" color-E7810C">
+<a href="/pl/dzialalnosc/digitalizacja/centrum-kompetencji" class="">Centrum Kompetencji</a>
+</li>
+<li class=" color-E7810C" style="display: none;">
+</li>
+<li class=" color-E7810C" style="display: none;">
+</li>
+<li class=" color-E7810C" style="display: none;">
+</li>
+<li class=" color-E7810C" style="display: none;">
+</li>
+</ul></li>
+<li  class=" color-E7810C" >
+<a href="/pl/dzialalnosc/edukacja" class="">Edukacja</a>
+<ul class="verticalUl podmenu color-E7810C" >
+<li class=" color-E7810C">
+<a href="/pl/dzialalnosc/edukacja/raport-o-stanie-edukacji-muzealnej" class="">Raport o stanie edukacji muzealnej</a>
+</li>
+<li class=" color-E7810C" style="display: none;">
+</li>
+</ul></li>
+<li class=" color-E7810C">
+	<a href="/pl/dzialalnosc/konferencje" class="">Konferencje</a>
+</li>
+<li class="  color-E7810C">
+<a href="/pl/dzialalnosc/szkolenia" class="">Szkolenia</a>
+<ul class="verticalUl podmenu  color-E7810C" >
+<li class="  color-E7810C">
+<a href="/pl/dzialalnosc/szkolenia/oferta-szkolen-narodowego-instytutu-muzealnictwa-i-ochrony-zbiorow" class="">Oferta szkoleń Narodowego Instytutu Muzealnictwa i Ochrony Zbiorów</a>
+<ul class="verticalUl podmenu  color-E7810C" >
+<li class="  color-E7810C" style="display: none;">
+<ul class="verticalUl podmenu  color-E7810C" >
+<li class=" color-E7810C" style="display: none;">
+</li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li  class=" color-E7810C" >
+<a href="/pl/dzialalnosc/metody-i-techniki-ochronne" class="">Metody i techniki ochronne</a>
+<ul class="verticalUl podmenu color-E7810C" >
+<li class=" color-E7810C">
+<a href="/pl/dzialalnosc/metody-i-techniki-ochronne/zabezpieczenie-muzeow" class="">Ochrona muzeów</a>
+</li>
+<li class=" color-E7810C">
+<a href="/pl/dzialalnosc/metody-i-techniki-ochronne/zabezpieczenie-obiektow-sakralnych" class="">Ochrona obiektów zabytkowych</a>
+</li>
+<li class=" color-E7810C">
+<a href="/pl/dzialalnosc/metody-i-techniki-ochronne/zabezpieczenia-techniczne" class="">Zabezpieczenia techniczne</a>
+</li>
+</ul></li>
+<li  class=" color-E7810C" >
+<a href="/pl/dzialalnosc/technologie-w-muzeum" class="">Technologie w muzeum</a>
+<ul class="verticalUl podmenu color-E7810C" >
+<li class=" color-E7810C" style="display: none;">
+</li>
+<li class=" color-E7810C">
+<a href="/pl/dzialalnosc/technologie-w-muzeum/baza-pracowni-konserwatorskich-w-muzeach-2" class="">Baza pracowni konserwatorskich w muzeach</a>
+</li>
+</ul></li>
+<li  class=" color-E7810C" >
+<a href="/pl/dzialalnosc/straty-zabytkow-i-wykaz-zabytkow-skradzionych" class="">Straty zabytków</a>
+<ul class="verticalUl podmenu color-E7810C" >
+<li class=" color-E7810C" style="display: none;">
+</li>
+<li class="  color-E7810C" style="display: none;">
+<ul class="verticalUl podmenu  color-E7810C" >
+<li class=" color-E7810C" style="display: none;">
+</li>
+<li class=" color-E7810C" style="display: none;">
+</li>
+<li class=" color-E7810C" style="display: none;">
+</li>
+<li class=" color-E7810C" style="display: none;">
+</li>
+</ul></li>
+<li class=" color-E7810C" style="display: none;">
+</li>
+</ul></li>
+<li class=" color-E7810C">
+	<a href="/pl/dzialalnosc/badania-proweniencji" class="">Badania proweniencji</a>
+</li>
+<li class="  color-E7810C">
+<a href="/pl/dzialalnosc/wywoz-zabytkow-zagranice" class="">Wywóz zabytków za granicę</a>
+</li>
+<li class="  color-E7810C">
+<a href="/pl/dzialalnosc/odznaczenia-i-nagroda-mkidn-1" class="">Odznaczenia i nagroda MKiDN</a>
+</li>
+<li class="  color-E7810C">
+<a href="/pl/dzialalnosc/statystyka-muzeow-2" class="">Statystyka muzeów</a>
+</li>
+</ul></li>
+<li class=" activ  color-86B318">
+<a href="/pl/bazy-danych" class=" activ">Bazy danych</a>
+<ul class="verticalUl podmenu color-86B318" >
+<li class="  color-86B318">
+<a href="/pl/bazy-danych/akty-prawne" class="">Akty prawne</a>
+<ul class="verticalUl podmenu  color-86B318" >
+<li class=" color-86B318">
+<a href="/pl/bazy-danych/akty-prawne/akty-prawne-ochrona-zbiorow" class="">Akty prawne - ochrona zbiorów</a>
+</li>
+<li class=" color-86B318">
+<a href="/pl/bazy-danych/akty-prawne/akty-prawne-muzea" class="">Akty prawne - muzea</a>
+</li>
+</ul></li>
+<li  class=" activ color-86B318" >
+<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce" class=" activ">Wykaz muzeów w Polsce</a>
+<ul class="verticalUl podmenu color-86B318" >
+<li class=" activ color-86B318">
+<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce" class=" activ">Baza muzeów w Polsce</a>
+</li>
+<li class=" color-86B318">
+<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/wykaz-muzeow-prowadzony-przez-mkidn" class="">Wykaz muzeów prowadzony przez MKiDN</a>
+</li>
+<li class=" color-86B318">
+<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/panstwowy-rejestr-muzeow-mkidn" class="">Państwowy Rejestr Muzeów MKiDN</a>
+</li>
+<li class=" color-86B318">
+<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/muzea-wspolprowadzone-przez-mkidn" class="">Muzea współprowadzone przez MKiDN</a>
+</li>
+<li class=" color-86B318">
+<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/mapa-instytucji-kultury-mkidn" class="">Mapa Instytucji Kultury MKiDN</a>
+</li>
+</ul></li>
+<li class=" color-86B318">
+	<a href="/pl/bazy-danych/baza-dobrych-praktyk" class="">Baza dobrych praktyk</a>
+</li>
+<li class="  color-86B318">
+<a href="/pl/bazy-danych/baza-pracowni-konserwatorskich-w-muzeach-3" class="">Baza pracowni konserwatorskich w muzeach</a>
+</li>
+<li class="  color-86B318">
+<a href="/pl/bazy-danych/krajowy-wykaz-zabytkow-skradzionych" class="">Krajowy wykaz zabytków skradzionych</a>
+</li>
+<li class="  color-86B318">
+<a href="/pl/bazy-danych/katalog-strat-wojennych-mkidn" class="">Katalog strat wojennych MKiDN</a>
+</li>
+<li class="  color-86B318">
+<a href="/pl/bazy-danych/wykaz-muzeow-i-zabytkow-budowlanych-sygnalizacja-pozarowa" class="">Wykaz muzeów i zabytków budowlanych - sygnalizacja pożarowa...</a>
+<ul class="verticalUl podmenu  color-86B318" >
+<li class=" color-86B318" style="display: none;">
+</li>
+</ul></li>
+<li  class=" color-86B318" >
+<a href="/pl/bazy-danych/baza-firm-instalacyjnych" class="">Baza firm instalacyjnych </a>
+<ul class="verticalUl podmenu color-86B318" >
+<li class=" color-86B318" style="display: none;">
+</li>
+</ul></li>
+<li class=" color-86B318">
+	<a href="/pl/bazy-danych/wykaz-studiow-skierowanych-do-muzealnikow-i-osob-zwiazanych-z-muzealnictwem-na-rok-201314" class="">Wykaz studiów skierowanych do muzealników i osób związanych z muzealnictwem na rok 2013/14</a>
+</li>
+<li class="  color-86B318" style="display: none;">
+</li>
+</ul></li>
+<li class="  color-D30021">
+<a href="/pl/wydawnictwa" class="">Wydawnictwa</a>
+<ul class="verticalUl podmenu color-D30021" >
+<li class="  color-D30021">
+<a href="/pl/wydawnictwa/czasopisma" class="">Czasopisma</a>
+<ul class="verticalUl podmenu  color-D30021" >
+<li class="  color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum" class="">Cenne Bezcenne Utracone archiwum</a>
+<ul class="verticalUl podmenu  color-D30021" >
+<li class=" color-D30021" style="display: none;">
+</li>
+<li class="  color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/1997" class="">1997</a>
+<ul class="verticalUl podmenu  color-D30021" >
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/1997/nr-11997" class="">nr 1/1997</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/1997/nr-21997" class="">Nr 2/1997</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/1997/nr-31997" class="">Nr 3/1997</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/1997/nr-41997" class="">Nr 4/1997</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/1997/nr-51997" class="">Nr 5/1997</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/1997/nr-61997" class="">nr 6/1997</a>
+</li>
+</ul></li>
+<li class="  color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/1998" class="">1998</a>
+<ul class="verticalUl podmenu color-D30021" >
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/1998/nr-11998" class="">nr 1/1998</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/1998/nr-21998" class="">nr 2/1998</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/1998/nr-31998" class="">nr 3/1998</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/1998/nr-41998" class="">nr 4/1998</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/1998/nr-51998" class="">nr 5/1998</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/1998/nr-61998" class="">nr 6/1998</a>
+</li>
+</ul></li>
+<li class="  color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/1999" class="">1999</a>
+<ul class="verticalUl podmenu color-D30021" >
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/1999/nr-11999" class="">nr 1/1999</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/1999/nr-21999" class="">nr 2/1999</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/1999/nr-31999" class="">nr 3/1999</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/1999/nr-41999" class="">nr 4/1999</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/1999/nr-51999" class="">nr 5/1999</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/1999/nr-61999" class="">nr 6/1999</a>
+</li>
+</ul></li>
+<li class="  color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2000" class="">2000</a>
+<ul class="verticalUl podmenu color-D30021" >
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2000/nr-12000" class="">nr 1/2000</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2000/nr-22000" class="">nr 2/2000</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2000/nr-32000" class="">nr 3/2000</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2000/nr-42000" class="">nr 4/2000</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2000/nr-52000" class="">nr 5/2000</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2000/nr-62000" class="">nr 6/2000</a>
+</li>
+</ul></li>
+<li class="  color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2001" class="">2001</a>
+<ul class="verticalUl podmenu color-D30021" >
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2001/nr-12001" class="">nr 1/2001</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2001/nr-22001" class="">nr 2/2001</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2001/nr-32001" class="">nr 3/2001</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2001/nr-42001" class="">nr 4/2001</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2001/nr-52001" class="">nr 5/2001</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2001/nr-62001" class="">nr 6/2001</a>
+</li>
+</ul></li>
+<li class="  color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2002-1" class="">2002</a>
+<ul class="verticalUl podmenu color-D30021" >
+<li class=" color-D30021" style="display: none;">
+</li>
+<li class=" color-D30021" style="display: none;">
+</li>
+<li class=" color-D30021" style="display: none;">
+</li>
+<li class=" color-D30021" style="display: none;">
+</li>
+<li class=" color-D30021" style="display: none;">
+</li>
+<li class=" color-D30021" style="display: none;">
+</li>
+<li class=" color-D30021" style="display: none;">
+</li>
+</ul></li>
+<li class="  color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2003" class="">2003</a>
+<ul class="verticalUl podmenu color-D30021" >
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2003/nr-1-22003" class="">nr 1-2/2003</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2003/nr-3-42003" class="">nr 3-4/2003</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2003/nr-52003" class="">nr 5/2003</a>
+</li>
+</ul></li>
+<li class="  color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2005-1" class="">2005</a>
+<ul class="verticalUl podmenu color-D30021" >
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2005-1/nr-1-22005" class="">nr 1-2/2005</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2005-1/nr-32005" class="">nr 3/2005</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2005-1/nr-42005" class="">nr 4/2005</a>
+</li>
+</ul></li>
+<li class="  color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2006" class="">2006</a>
+<ul class="verticalUl podmenu color-D30021" >
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2006/nr-12006" class="">nr 1/2006</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2006/nr-22006" class="">nr 2/2006</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2006/nr-32006" class="">nr 3/2006</a>
+</li>
+<li class=" color-D30021" style="display: none;">
+</li>
+</ul></li>
+<li class="  color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2007" class="">2007</a>
+<ul class="verticalUl podmenu color-D30021" >
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/czasopisma/cenne-bezcenne-utracone-archiwum/2007/nr-12007" class="">nr 1/2007</a>
+</li>
+<li class=" color-D30021" style="display: none;">
+</li>
+<li class=" color-D30021" style="display: none;">
+</li>
+<li class=" color-D30021" style="display: none;">
+</li>
+</ul></li>
+<li class="  color-D30021" style="display: none;">
+<ul class="verticalUl podmenu color-D30021" >
+<li class=" color-D30021" style="display: none;">
+</li>
+<li class=" color-D30021" style="display: none;">
+</li>
+<li class=" color-D30021" style="display: none;">
+</li>
+<li class=" color-D30021" style="display: none;">
+</li>
+</ul></li>
+<li class="  color-D30021" style="display: none;">
+<ul class="verticalUl podmenu color-D30021" >
+<li class=" color-D30021" style="display: none;">
+</li>
+<li class=" color-D30021" style="display: none;">
+</li>
+<li class=" color-D30021" style="display: none;">
+</li>
+<li class=" color-D30021" style="display: none;">
+</li>
+</ul></li>
+<li class="  color-D30021" style="display: none;">
+<ul class="verticalUl podmenu color-D30021" >
+<li class=" color-D30021" style="display: none;">
+</li>
+<li class=" color-D30021" style="display: none;">
+</li>
+<li class=" color-D30021" style="display: none;">
+</li>
+<li class=" color-D30021" style="display: none;">
+</li>
+</ul></li>
+<li class="  color-D30021" style="display: none;">
+<ul class="verticalUl podmenu color-D30021" >
+<li class=" color-D30021" style="display: none;">
+</li>
+<li class=" color-D30021" style="display: none;">
+</li>
+<li class=" color-D30021" style="display: none;">
+</li>
+<li class=" color-D30021" style="display: none;">
+</li>
+</ul></li>
+<li class="  color-D30021" style="display: none;">
+<ul class="verticalUl podmenu color-D30021" >
+<li class=" color-D30021" style="display: none;">
+</li>
+<li class=" color-D30021" style="display: none;">
+</li>
+<li class=" color-D30021" style="display: none;">
+</li>
+<li class=" color-D30021" style="display: none;">
+</li>
+</ul></li>
+</ul></li>
+<li class=" color-D30021">
+	<a href="/pl/wydawnictwa/czasopisma/muzealnictwo-archiwum" class="">Muzealnictwo archiwum</a>
+</li>
+</ul></li>
+<li class=" color-D30021">
+	<a href="/pl/wydawnictwa/reklama-i-promocja" class="">Reklama i promocja</a>
+</li>
+<li class="  color-D30021">
+<a href="/pl/wydawnictwa/wydawnictwa-nimoz" class="">Wydawnictwa NIMOZ</a>
+</li>
+<li class="  color-D30021">
+<a href="/pl/wydawnictwa/warto-przeczytac-1" class="">Warto przeczytać</a>
+<ul class="verticalUl podmenu  color-D30021" >
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/warto-przeczytac-1/ksiazki" class="">Książki</a>
+</li>
+<li class=" color-D30021">
+<a href="/pl/wydawnictwa/warto-przeczytac-1/artykuly" class="">Artykuły</a>
+</li>
+</ul></li>
+</ul></li>
+<li class="  color-936CA5">
+<a href="/pl/aktualnosci" class="">Aktualności</a>
+<ul class="verticalUl podmenu color-936CA5" >
+<li class="  color-936CA5" style="display: none;">
+</li>
+<li class="  color-936CA5" style="display: none;">
+</li>
+<li class="  color-936CA5" style="display: none;">
+</li>
+<li class="  color-936CA5" style="display: none;">
+</li>
+<li class="  color-936CA5" style="display: none;">
+</li>
+<li class="  color-936CA5" style="display: none;">
+</li>
+</ul></li>
+<li class="  color-E7810C" style="display: none;">
+<ul class="verticalUl podmenu color-E7810C" >
+<li class="  color-E7810C" style="display: none;">
+</li>
+<li class="  color-E7810C" style="display: none;">
+</li>
+<li class="  color-E7810C" style="display: none;">
+</li>
+<li class="  color-E7810C" style="display: none;">
+</li>
+<li class="  color-E7810C" style="display: none;">
+</li>
+<li class="  color-E7810C" style="display: none;">
+</li>
+<li class="  color-E7810C" style="display: none;">
+</li>
+<li class="  color-E7810C" style="display: none;">
+</li>
+<li class="  color-E7810C" style="display: none;">
+</li>
+<li class="  color-E7810C" style="display: none;">
+</li>
+<li class="  color-E7810C" style="display: none;">
+</li>
+<li class="  color-E7810C" style="display: none;">
+</li>
+<li class="  color-E7810C" style="display: none;">
+</li>
+</ul></li>
+<li class="  color-936CA5" style="display: none;">
+<ul class="verticalUl podmenu color-936CA5" >
+<li class="  color-936CA5" style="display: none;">
+</li>
+<li class="  color-936CA5" style="display: none;">
+</li>
+</ul></li>
+<li class="  color-D30021" style="display: none;">
+<ul class="verticalUl podmenu color-D30021" >
+<li class="  color-D30021" style="display: none;">
+</li>
+</ul></li>
+		
+<!-- Pozostale-->
+</ul>
+<img id="menu_t_r" src="public/design/frontend/images/menu_t_r.gif" />
+</div>            <ul id="topLinks" class="horizontalUl">
+	<li id="topHome" class="topLink"><a href="/pl/aktualnosci/wydarzenia">Wydarzenia</a></li>
+	<li id="topMap" class="topLink"><a href="/pl/instytut/dla-mediow">Dla mediów</a></li>
+	<li id="topSzukaj" class="topLink"><a href="/pl/instytut/kontakt">Kontakt</a></li>
+</ul>
+<a href="pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce/print" onclick="javascript:winopen(this.href,700,500); return false;" id="print">drukuj</a>
+<div class="left" id="fontScale">
+	<span>
+		<a id="fs_asc" href="#">A+</a>
+		<a id="fs_desc" href="#">A-</a>
+	</span>
+</div>    <a id="topHicontrast" href="pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce/?hi_contrast=yes">OKO</a>
+
+<ul class="horizontalUl" id="lang">
+	<li id="en">
+        <a href="/en/">EN</a>
+    </li>
+    <li id="pl">
+        <a href="/pl/">PL</a>
+    </li>
+    </ul>
+		</div>
+		<div class="clr"></div>
+		
+<!-- index -->		
+		<div class="clearfix" id="contents">
+				<!-- tu ładuj -->
+                <div class="clearfix" id="modHome">
+  <div id="lewa" class="left">
+   <ul class="horizontalUl clearfix" id="breadCrumbs">
+        <li><a href="/pl/">Strona Główna</a>::</li>
+    <li><a href="/pl/bazy-danych">Bazy danych</a>::</li>
+<li><a href="/pl/bazy-danych/wykaz-muzeow-w-polsce">Wykaz muzeów w Polsce</a>::</li>
+<li class="act">Baza muzeów w Polsce</li>
+
+    </ul>   <h1 class="h1">Baza muzeów w Polsce</h1>
+   	<form id="search_adv" action="" method="get">
+    	<fieldset class="left">
+        	<label>Pokaż tylko firmy zawierające ciąg znaków:</label>
+            <input class="inpat" id="search_adv_input" type="text" name="q" value="" />
+            <input id="go" class="button" type="submit" value="" />
+            <div class="clr"></div>
+            <a id="reset" href="pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce">resetuj ustawienia wyszukiwania</a>
+        </fieldset>
+        <fieldset class="right">
+      	    <label>Posortuj tabelę według:</label>
+        	<select name="sort" class="bold">
+            	<option label="Instytucja" value="nazwa">Instytucja</option>
+<option label="Województwo" value="province_id">Województwo</option>
+<option label="Powiat" value="powiat">Powiat</option>
+<option label="Gmina" value="gmina">Gmina</option>
+<option label="Miasto" value="miasto">Miasto</option>
+<option label="Status muzeum" value="status_muzeum">Status muzeum</option>
+<option label="Organizator" value="organizator">Organizator</option>
+<option label="Numer wpisu do PRM" value="numer_id">Numer wpisu do PRM</option>
+
+                
+            </select>
+        	<select name="by" class="bold">
+            	<option label="Rosnąco" value="asc">Rosnąco</option>
+<option label="Malejąco" value="desc">Malejąco</option>
+
+            </select>
+            <input id="go2" class="button" type="submit" value="" />
+        </fieldset>
+    </form>
+    <div class="clr"></div>
+    <div class="pager">
+
+			<a id="p_first" href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?" rel="first">&lt;&lt;</a>
+	
+			<a id="p_previous" href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=3" rel="prev">&lt;</a>
+	
+	
+					<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?">1</a>
+		
+	
+					<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=2">2</a>
+		
+	
+					<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=3">3</a>
+		
+	
+					<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=4" class="activ"><strong>4</strong></a>
+		
+	
+					<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=5">5</a>
+		
+	
+					<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=6">6</a>
+		
+	
+					<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=7">7</a>
+		
+	
+					<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=8">8</a>
+		
+	
+					<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=9">9</a>
+		
+	
+					<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=12">&hellip;</a>
+		
+	
+					<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=16">16</a>
+		
+	
+					<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=17">17</a>
+		
+	
+					<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=18">18</a>
+		
+	
+			<a id="p_next" href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=5" rel="next">&gt;</a>
+	
+			<a id="p_last" href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=18" rel="last">&gt;&gt;</a>
+	</div>
+<!-- .pagination --> 
+    <div class="clr"></div>
+    <table id="lista_firm" width="100%" border="0" cellspacing="2" cellpadding="2">
+                 
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td ><strong class="red">Muzeum Historii Medycyny Warszawskiego Uniwersytetu Medycznego /w organizacji/</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>mazowieckie</strong>
+        <p class="label1">Powiat</p>
+        <strong>Warszawa /miasto na prawach powiatu/</strong>
+        <p class="label1">Gmina</p>
+        <strong>Warszawa</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Warszawa</strong>
+          <p>
+                      02-091  Warszawa
+            <br />ul. Żwirki i Wigury 63
+                    </p>
+        <p>
+                                                                                                </p>
+        </td>
+        <td class="last">
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">prywatne - instytucja</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">Warszawski Uniwersytet Medyczny</p>
+                                                </td>     
+      </tr>
+      
+      
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td ><strong class="red">Muzeum Historii Polski w Warszawie  /w organizacji/</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>mazowieckie</strong>
+        <p class="label1">Powiat</p>
+        <strong>Warszawa /miasto na prawach powiatu/</strong>
+        <p class="label1">Gmina</p>
+        <strong>Warszawa</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Warszawa</strong>
+          <p>
+                      00-099  Warszawa
+            <br />Senatorska 35
+                    </p>
+        <p>
+            tel. 22 211 90 02            <br />faks 22 211 90 33                            <br /><a class="black" href="mailto:biuro@muzhp.pl">biuro@muzhp.pl</a>                                    <br /><a class="black" href="http://www.muzhp.pl">www.muzhp.pl</a>        </p>
+        </td>
+        <td class="last">
+                    <p class="label1">Dyrektor:</p>
+          <p class="muzea_p">Robert Kostro</p>
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">państwowe - MKiDN</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">Minister Kultury i Dziedzictwa Narodowego</p>
+                                                </td>     
+      </tr>
+      
+      
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td rowspan="6"><strong class="red">Muzeum Historii Polskiego Ruchu Ludowego</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>mazowieckie</strong>
+        <p class="label1">Powiat</p>
+        <strong>Warszawa /miasto na prawach powiatu/</strong>
+        <p class="label1">Gmina</p>
+        <strong>Warszawa</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Warszawa</strong>
+          <p>
+                      02-730 Warszawa
+            <br />Al. Wilanowska 204
+                    </p>
+        <p>
+            tel. 22 843 38 76; 22 843  78 73                                        <br /><a class="black" href="mailto:mhprl@mhprl.pl">mhprl@mhprl.pl</a>                                    <br /><a class="black" href="http://www.mhprl.pl">www.mhprl.pl</a>        </p>
+        </td>
+        <td class="last">
+                    <p class="label1">Dyrektor:</p>
+          <p class="muzea_p">dr Janusz Gmitruk </p>
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">samorządowe - województwo</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">Województwo Mazowieckie</p>
+                                          
+          <p class="label1">Muzeum wpisane do PRM:</p>
+          <p class="muzea_p">18.05.1998</p>
+                                
+          <p class="label1">Numer wpisu do PRM:</p>
+          <p class="muzea_p">PRM/5/98</p>
+                  </td>     
+      </tr>
+      
+      
+            <tr>
+        <th colspan="3" >Oddziały muzeum:</th>
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Muzeum Historii Polskiego Ruchu Ludowego. Oddział Piaseczno</strong></td>
+        <td><strong>Piaseczno</strong><br />
+          <p>83-123 Piaseczno<br />
+            </p>
+        <p>
+            tel. 58 535 14 29                                                    <br /><a class="black" href="mailto:m.lidzbarski@mhprl.pl">m.lidzbarski@mhprl.pl</a>                                </p>
+
+        <td class="last">
+                    <p class="label1">Kierownik oddziału:</p>
+            <p class="muzea_p">Marek Lidzbarski</p>
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Muzeum Historii Polskiego Ruchu Ludowego. Oddział Sandomierz</strong></td>
+        <td><strong>Sandomierz</strong><br />
+          <p>27-600 Sandomierz<br />
+            Rynek 9</p>
+        <p>
+            tel. 607 767 503                                                    <br /><a class="black" href="mailto:mhprlsand@neostrada.pl">mhprlsand@neostrada.pl</a>                                </p>
+
+        <td class="last">
+                    <p class="label1">Kierownik oddziału:</p>
+            <p class="muzea_p">Iga Zamojska</p>
+                </td>    
+      </tr>
+            
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="last"></td>
+      </tr>
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td ><strong class="red">Muzeum Historii Przemysłu</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>wielkopolskie</strong>
+        <p class="label1">Powiat</p>
+        <strong>kaliski</strong>
+        <p class="label1">Gmina</p>
+        <strong>Opatówek</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Opatówek</strong>
+          <p>
+                      62-860 Opatówek
+            <br />Kościelna 1
+                    </p>
+        <p>
+            tel. 62 761 86 26            <br />faks 62 761 80 78                            <br /><a class="black" href="mailto:muzeum@opatowek.pl">muzeum@opatowek.pl</a>                                    <br /><a class="black" href="http://www.muzeum.opatowek.pl">www.muzeum.opatowek.pl</a>        </p>
+        </td>
+        <td class="last">
+                    <p class="label1">Dyrektor:</p>
+          <p class="muzea_p">Jerzy Marciniak</p>
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">samorządowe - powiat</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">Rada Powiatu Kaliskiego </p>
+                                          
+          <p class="label1">Muzeum wpisane do PRM:</p>
+          <p class="muzea_p">28.12.1998</p>
+                                
+          <p class="label1">Numer wpisu do PRM:</p>
+          <p class="muzea_p">PRM/45/98</p>
+                  </td>     
+      </tr>
+      
+      
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td ><strong class="red">Muzeum Historii Twierdzy Świnoujście</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>zachodniopomorskie</strong>
+        <p class="label1">Powiat</p>
+        <strong>Świnoujście /miasto na prawach powiatu/</strong>
+        <p class="label1">Gmina</p>
+        <strong>Świnoujście</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Świnoujście</strong>
+          <p>
+                      72-600 Świnoujście
+            <br />Fort Zachodni, ul. Jachtowa 1
+                    </p>
+        <p>
+            tel. 508 738 118                                        <br /><a class="black" href="mailto:westbatterie@wp.pl">westbatterie@wp.pl</a>                                    <br /><a class="black" href="http://www.okretywojenne.pl/pefu/westbatterie/html/museum.htm">www.okretywojenne.pl/pefu/westbatterie/html/museum.htm</a>        </p>
+        </td>
+        <td class="last">
+                    <p class="label1">Dyrektor:</p>
+          <p class="muzea_p">Piotr Laskowski</p>
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">prywatne - instytucja</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">Stowarzyszenie Miłośników Fortów w Świnoujściu "Reduta"</p>
+                                                </td>     
+      </tr>
+      
+      
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td ><strong class="red">Muzeum Historii Ziemi Kamieńskiej</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>zachodniopomorskie</strong>
+        <p class="label1">Powiat</p>
+        <strong>kamieński</strong>
+        <p class="label1">Gmina</p>
+        <strong>Kamień Pomorski</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Kamień Pomorski</strong>
+          <p>
+                      72-400 Kamień Pomorski
+            <br />pl. Katedralny 7/7
+                    </p>
+        <p>
+            tel. 91 382 23 73; 601 585 323                                        <br /><a class="black" href="mailto:archeokam@wp.pl">archeokam@wp.pl</a>                                    <br /><a class="black" href="http://www.mhzk.eu">www.mhzk.eu</a>        </p>
+        </td>
+        <td class="last">
+                    <p class="label1">Dyrektor:</p>
+          <p class="muzea_p">Grzegorz Kurka</p>
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">samorządowe - gmina</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">Gmina Kamień Pomorski </p>
+                                                </td>     
+      </tr>
+      
+      
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td ><strong class="red">Muzeum Historii Żydów Polskich</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>mazowieckie</strong>
+        <p class="label1">Powiat</p>
+        <strong>Warszawa /miasto na prawach powiatu/</strong>
+        <p class="label1">Gmina</p>
+        <strong>Warszawa</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Warszawa</strong>
+          <p>
+                      00-040  Warszawa
+            <br />Warecka 4/6
+                    </p>
+        <p>
+            tel. 22 471 03 00            <br />faks 22 832 20 43                            <br /><a class="black" href="mailto:arudzinska@jewishmuzeum.org.pl">arudzinska@jewishmuzeum.org.pl</a>                                    <br /><a class="black" href="http://www.jewishmuseum.org.pl">www.jewishmuseum.org.pl</a>        </p>
+        </td>
+        <td class="last">
+                    <p class="label1">Dyrektor:</p>
+          <p class="muzea_p">prof. Dariusz Stola</p>
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">samorządowe - powiat</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">Miasto Stołeczne Warszawa</p>
+                                                </td>     
+      </tr>
+      
+      
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td ><strong class="red">Muzeum Historyczne - Pałac w Dukli</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>podkarpackie</strong>
+        <p class="label1">Powiat</p>
+        <strong>krośnieński</strong>
+        <p class="label1">Gmina</p>
+        <strong>Dukla</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Dukla</strong>
+          <p>
+                      38-450 Dukla
+            <br />Trakt Węgierski 5
+                    </p>
+        <p>
+            tel. 13 433 00 85            <br />faks 13 433 02 36                             <br /><a class="black" href="mailto:muzeum@dukla.pl">muzeum@dukla.pl</a>                                    <br /><a class="black" href="http://www.muzeumdukla.pl">www.muzeumdukla.pl</a>        </p>
+        </td>
+        <td class="last">
+                    <p class="label1">Dyrektor:</p>
+          <p class="muzea_p">Waldemar Półchłopek</p>
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">samorządowe - powiat</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">Rada Powiatu Krośnieńskiego</p>
+                                                </td>     
+      </tr>
+      
+      
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td ><strong class="red">Muzeum Historyczne "Frontu Wschodniego" /w organizacji/</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>mazowieckie</strong>
+        <p class="label1">Powiat</p>
+        <strong>legionowski</strong>
+        <p class="label1">Gmina</p>
+        <strong>Legionowo</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Legionowo</strong>
+          <p>
+                      05-120 Legionowo
+            <br />ul. Krucza 27
+                    </p>
+        <p>
+                                                                                                </p>
+        </td>
+        <td class="last">
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">prywatne -  osoba</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">osoba fizyczna</p>
+                                                </td>     
+      </tr>
+      
+      
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td ><strong class="red">Muzeum Historyczne "Gryf" /w organizacji/</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>pomorskie</strong>
+        <p class="label1">Powiat</p>
+        <strong>kartuski</strong>
+        <p class="label1">Gmina</p>
+        <strong>Żukowo</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Żukowo</strong>
+          <p>
+                      83-330 Żukowo
+            <br />ul. Armii Krajowej 1D
+                    </p>
+        <p>
+            tel. 516 008 085; 604 384 891                                        <br /><a class="black" href="mailto:kontakt@muzeumgryf.pl">kontakt@muzeumgryf.pl</a>                                    <br /><a class="black" href="http://www.muzeumgryf.pl">www.muzeumgryf.pl</a>        </p>
+        </td>
+        <td class="last">
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">prywatne -  osoba</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">osoba fizyczna</p>
+                                                </td>     
+      </tr>
+      
+      
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td ><strong class="red">Muzeum Historyczne "Skarb" w Policach</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>zachodniopomorskie</strong>
+        <p class="label1">Powiat</p>
+        <strong>policki</strong>
+        <p class="label1">Gmina</p>
+        <strong>Police</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Police</strong>
+          <p>
+                      72-010  Police
+            <br />Spółdzielcza 31
+                    </p>
+        <p>
+            tel. 509 842 074; 516 196 128                                        <br /><a class="black" href="mailto:skarb@police.pl">skarb@police.pl</a>                                    <br /><a class="black" href="http://www.skarb.police.pl">www.skarb.police.pl</a>        </p>
+        </td>
+        <td class="last">
+                    <p class="label1">Dyrektor:</p>
+          <p class="muzea_p">Jacek Stasiak</p>
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">prywatne - instytucja</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">Stowarzyszenie Przyjaciół Ziemi Polickiej "Skarb" w Policach</p>
+                                                </td>     
+      </tr>
+      
+      
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td ><strong class="red">Muzeum Historyczne im. 7 Pułku Lansjerów Nadwiślańskich /w organizacji/</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>mazowieckie</strong>
+        <p class="label1">Powiat</p>
+        <strong>miński</strong>
+        <p class="label1">Gmina</p>
+        <strong>Halinów</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Halinów</strong>
+          <p>
+                      05-074 Halinów
+            <br />ul. Okuniewska 114
+                    </p>
+        <p>
+            tel.  22 783 61 69                                        <br /><a class="black" href="mailto:nitrox100@onet.eu">nitrox100@onet.eu</a>                                    <br /><a class="black" href="http://7pln.eu">7pln.eu</a>        </p>
+        </td>
+        <td class="last">
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">prywatne - instytucja</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">Stowarzyszenie Historyczno-Edukacyjne  im. 7 Pułku Lansjerów Nadwiślańskich</p>
+                                                </td>     
+      </tr>
+      
+      
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td rowspan="16"><strong class="red">Muzeum Historyczne m.st. Warszawy</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>mazowieckie</strong>
+        <p class="label1">Powiat</p>
+        <strong>Warszawa /miasto na prawach powiatu/</strong>
+        <p class="label1">Gmina</p>
+        <strong>Warszawa</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Warszawa</strong>
+          <p>
+                      00-272 Warszawa
+            <br />Rynek Starego Miasta 28-42
+                    </p>
+        <p>
+            tel. 22 635 16 25            <br />faks 22 831 94 91                            <br /><a class="black" href="mailto:sekretariat@mhw.pl">sekretariat@mhw.pl</a>                                    <br /><a class="black" href="http://www.mhw.pl">www.mhw.pl</a>        </p>
+        </td>
+        <td class="last">
+                    <p class="label1">Dyrektor:</p>
+          <p class="muzea_p">Ewa Nekanda-Trepka</p>
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">samorządowe - powiat</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">Miasto Stołeczne Warszawa </p>
+                                          
+          <p class="label1">Muzeum wpisane do PRM:</p>
+          <p class="muzea_p">14.12.2001</p>
+                                
+          <p class="label1">Numer wpisu do PRM:</p>
+          <p class="muzea_p">PRM/66/01</p>
+                  </td>     
+      </tr>
+      
+      
+            <tr>
+        <th colspan="3" >Oddziały muzeum:</th>
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Muzeum – Miejsce Pamięci Palmiry</strong></td>
+        <td><strong>Palmiry</strong><br />
+          <p>05-152 Palmiry<br />
+            </p>
+        <p>
+            tel. 22 720 81 14                                                                            <br /><a class="black" href="http://www.palmiry.mhw.pl">www.palmiry.mhw.pl</a>        </p>
+
+        <td class="last">
+        &nbsp;
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Muzeum Drukarstwa Warszawskiego</strong></td>
+        <td><strong>Warszawa</strong><br />
+          <p>00-074 Warszawa<br />
+            Trębacka 3</p>
+        <p>
+            tel. 22 620 60 42            <br />faks 22 620 60 42                                        <br /><a class="black" href="mailto:muzeum.drukarstwa@mhw.pl">muzeum.drukarstwa@mhw.pl</a>                        <br /><a class="black" href="http://www.muzeumdrukarstwa.mhw.pl">www.muzeumdrukarstwa.mhw.pl</a>        </p>
+
+        <td class="last">
+        &nbsp;
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Muzeum Farmacji im. mgr Antoniny Leśniewskiej</strong></td>
+        <td><strong>Warszawa</strong><br />
+          <p>00-265  Warszawa<br />
+            Piwna 31/33</p>
+        <p>
+            tel. 22 831 71 79            <br />faks 22 831 71 79                                        <br /><a class="black" href="mailto:muzeum.farmacji@mhw.pl">muzeum.farmacji@mhw.pl</a>                        <br /><a class="black" href="http://www.muzeumfarmacji.mhw.pl">www.muzeumfarmacji.mhw.pl</a>        </p>
+
+        <td class="last">
+        &nbsp;
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Muzeum Ordynariatu Polowego </strong></td>
+        <td><strong>Warszawa</strong><br />
+          <p>00-238 Warszawa<br />
+            Długa 13/15</p>
+        <p>
+            tel. 22 498 02 43; 22 792 76 37; 695 645 463                                                       <br /><a class="black" href="mailto:muzeum.ordynariatu@mhw.pl">muzeum.ordynariatu@mhw.pl</a>                            <br /><a class="black" href="mailto:j.macyszyn@mhw.pl">j.macyszyn@mhw.pl</a>                        <br /><a class="black" href="http://www.odynariat.mhw.pl">www.odynariat.mhw.pl</a>        </p>
+
+        <td class="last">
+                    <p class="label1">Kierownik oddziału:</p>
+            <p class="muzea_p">Jacek Macyszyn</p>
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Muzeum Warszawskiej Pragi /w organizacji/</strong></td>
+        <td><strong>Warszawa</strong><br />
+          <p>03-736 Warszawa<br />
+            Ząbkowska 23/25</p>
+        <p>
+            tel. 22 818 10 77; 695 645 501; 665 645 644            <br />faks 22 818 10 77                                        <br /><a class="black" href="mailto:muzeum.pragi@mhw.pl">muzeum.pragi@mhw.pl</a>                            <br /><a class="black" href="mailto:j.wisniewska@mhw.pl">j.wisniewska@mhw.pl</a>                        <br /><a class="black" href="http://www.muzeumpragi.mhw.pl">www.muzeumpragi.mhw.pl</a>        </p>
+
+        <td class="last">
+                    <p class="label1">Kierownik oddziału:</p>
+            <p class="muzea_p">Jolanta Wiśniewska</p>
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Muzeum Woli</strong></td>
+        <td><strong>Warszawa</strong><br />
+          <p>00-810  Warszawa<br />
+            Srebrna 12</p>
+        <p>
+            tel. 22 624 90 21; 22 624 37 33; 22 624 38 7            <br />faks 22 624 90 21                                        <br /><a class="black" href="mailto:muzeumwoli@poczta.onet.pl">muzeumwoli@poczta.onet.pl</a>                        <br /><a class="black" href="http://www.muzeumwoli.mhw.pl">www.muzeumwoli.mhw.pl</a>        </p>
+
+        <td class="last">
+                    <p class="label1">Kierownik oddziału:</p>
+            <p class="muzea_p">Wiesław Kaczmarek</p>
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Ośrodek Dokumentacji i Badań KORCZAKIANUM</strong></td>
+        <td><strong>Warszawa</strong><br />
+          <p>01-202 Warszawa<br />
+            Jaktorowska 6</p>
+        <p>
+            tel. 22 632 30 27            <br />faks 22 632 30 27                                        <br /><a class="black" href="mailto:korczakianum@mhw.pl">korczakianum@mhw.pl</a>                            <br /><a class="black" href="mailto:m.ciesielska@mhw.pl">m.ciesielska@mhw.pl</a>                        <br /><a class="black" href="http://www.korczakianum.mhw.pl">www.korczakianum.mhw.pl</a>        </p>
+
+        <td class="last">
+                    <p class="label1">Kierownik oddziału:</p>
+            <p class="muzea_p">Marta Ciesielsk</p>
+                </td>    
+      </tr>
+            
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="last"></td>
+      </tr>
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td rowspan="16"><strong class="red">Muzeum Historyczne Miasta Gdańska</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>pomorskie</strong>
+        <p class="label1">Powiat</p>
+        <strong>Gdańsk /miasto na prawach powiatu/</strong>
+        <p class="label1">Gmina</p>
+        <strong>Gdańsk</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Gdańsk</strong>
+          <p>
+                      80-831 Gdańsk
+            <br />Długa 46/47
+                    </p>
+        <p>
+            tel. 58 767 91 00; 58 767 91 28; 58 767 91 43             <br />faks 58 767 91 02                            <br /><a class="black" href="mailto:kancelaria@mhmg.pl">kancelaria@mhmg.pl</a>                                    <br /><a class="black" href="http://www.mhmg.gda.pl">www.mhmg.gda.pl</a>        </p>
+        </td>
+        <td class="last">
+                    <p class="label1">Dyrektor:</p>
+          <p class="muzea_p">Adam Koperkiewicz</p>
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">samorządowe - gmina</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">Gmina Miasto Gdańsk</p>
+                                                </td>     
+      </tr>
+      
+      
+            <tr>
+        <th colspan="3" >Oddziały muzeum:</th>
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Dom Uphagena</strong></td>
+        <td><strong>Gdańsk</strong><br />
+          <p> Gdańsk<br />
+            Długa 12</p>
+        <p>
+            tel. 58 301 23 71                                                    <br /><a class="black" href="mailto:dom.uphagena@mhmg.pl">dom.uphagena@mhmg.pl</a>                                </p>
+
+        <td class="last">
+        &nbsp;
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Dwór Artusa</strong></td>
+        <td><strong>Gdańsk</strong><br />
+          <p> Gdańsk<br />
+            Długi Targ 43/44</p>
+        <p>
+            tel. 58 767 91 00                                                    <br /><a class="black" href="mailto:dwor.artusa@mhmg.pl">dwor.artusa@mhmg.pl</a>                                </p>
+
+        <td class="last">
+        &nbsp;
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Muzeum Bursztynu</strong></td>
+        <td><strong>Gdańsk</strong><br />
+          <p> Gdańsk<br />
+            Zespół Przedbramia ulicy Długiej</p>
+        <p>
+            tel. 58 301 47 33                                                    <br /><a class="black" href="mailto:bursztyn@mhmg.pl">bursztyn@mhmg.pl</a>                                </p>
+
+        <td class="last">
+        &nbsp;
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Muzeum Poczty Polskiej</strong></td>
+        <td><strong>Gdańsk</strong><br />
+          <p> Gdańsk<br />
+            Obrońców Poczty Polskiej 1/2</p>
+        <p>
+            tel. 58 301 76 11                                                    <br /><a class="black" href="mailto:muzeum.poczty@mhmg.pl">muzeum.poczty@mhmg.pl</a>                                </p>
+
+        <td class="last">
+        &nbsp;
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Muzeum Zegarów Wieżowych</strong></td>
+        <td><strong>Gdańsk</strong><br />
+          <p> Gdańsk<br />
+            Wielkie Młyny</p>
+        <p>
+            tel. 58 305 64 92                                                    <br /><a class="black" href="mailto:zegary@mhmg.pl">zegary@mhmg.pl</a>                                </p>
+
+        <td class="last">
+        &nbsp;
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Twierdza Wisłoujście</strong></td>
+        <td><strong>Gdańsk</strong><br />
+          <p> Gdańsk<br />
+            Stara Twierdza 1</p>
+        <p>
+            tel. 58 343 14 05                                                    <br /><a class="black" href="mailto:twierdza@mhmg.pl">twierdza@mhmg.pl</a>                                </p>
+
+        <td class="last">
+        &nbsp;
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Wartownia Nr 1 na Westerplatte</strong></td>
+        <td><strong>Gdańsk</strong><br />
+          <p> Gdańsk<br />
+            Mjr. H. Sucharskiego</p>
+        <p>
+            tel. 58 343 69 72                                                    <br /><a class="black" href="mailto:westerplatte@mhmg.pl">westerplatte@mhmg.pl</a>                                </p>
+
+        <td class="last">
+        &nbsp;
+                </td>    
+      </tr>
+            
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="last"></td>
+      </tr>
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td rowspan="30"><strong class="red">Muzeum Historyczne Miasta Krakowa</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>małopolskie</strong>
+        <p class="label1">Powiat</p>
+        <strong>Kraków /miasto na prawach powiatu/</strong>
+        <p class="label1">Gmina</p>
+        <strong>Kraków</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Kraków</strong>
+          <p>
+                      31-011 Kraków
+            <br />Rynek Główny 35
+                    </p>
+        <p>
+            tel. 12 422 32 64; 12 619 23 02            <br />faks 12 422 32 64                            <br /><a class="black" href="mailto:dyrekcja@mhk.pl">dyrekcja@mhk.pl</a>                            <br /><a class="black" href="mailto:m.niezabitowski@mhk.pl">m.niezabitowski@mhk.pl</a>                                    <br /><a class="black" href="http://mhk.pl">mhk.pl</a>        </p>
+        </td>
+        <td class="last">
+                    <p class="label1">Dyrektor:</p>
+          <p class="muzea_p">Michał Niezabitowski</p>
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">samorządowe - gmina</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">Gmina Miejska Kraków </p>
+                                          
+          <p class="label1">Muzeum wpisane do PRM:</p>
+          <p class="muzea_p">21.09.2005</p>
+                                
+          <p class="label1">Numer wpisu do PRM:</p>
+          <p class="muzea_p">PRM/84/05</p>
+                  </td>     
+      </tr>
+      
+      
+            <tr>
+        <th colspan="3" >Oddziały muzeum:</th>
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Apteka pod Orłem</strong></td>
+        <td><strong>Kraków</strong><br />
+          <p>30-547 Kraków<br />
+            pl. Bohaterów Getta 18</p>
+        <p>
+            tel. 12 656 56 25                                                    <br /><a class="black" href="mailto:apteka@mhk.pl">apteka@mhk.pl</a>                                </p>
+
+        <td class="last">
+                    <p class="label1">Kierownik oddziału:</p>
+            <p class="muzea_p">Monika Bednarek</p>
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Barbakan</strong></td>
+        <td><strong>Kraków</strong><br />
+          <p>30-547 Kraków<br />
+            Basztowa</p>
+        <p>
+            tel. 12 422 98 77; 12 619 23 20                                                     <br /><a class="black" href="mailto:edukacja@mhk.pl">edukacja@mhk.pl</a>                                </p>
+
+        <td class="last">
+                    <p class="label1">Kierownik oddziału:</p>
+            <p class="muzea_p">Piotr Hapanowicz</p>
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Celestat</strong></td>
+        <td><strong>Kraków</strong><br />
+          <p>31-504 Kraków<br />
+            Lubicz 16</p>
+        <p>
+            tel. 12 429 37 91            <br />faks 12 429 37 91                                        <br /><a class="black" href="mailto:celestat@mhk.pl">celestat@mhk.pl</a>                                </p>
+
+        <td class="last">
+                    <p class="label1">Kierownik oddziału:</p>
+            <p class="muzea_p">Małgorzata Niechaj</p>
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Dom pod Krzyżem</strong></td>
+        <td><strong>Kraków</strong><br />
+          <p>31-024 Kraków<br />
+            Szpitalna 21</p>
+        <p>
+            tel. 12 422 68 64; 12 431 29 61                                                    <br /><a class="black" href="mailto:teatr@mhk.pl">teatr@mhk.pl</a>                                </p>
+
+        <td class="last">
+                    <p class="label1">Kierownik oddziału:</p>
+            <p class="muzea_p">Małgorzata Palka</p>
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Dom Zwierzyniecki</strong></td>
+        <td><strong>Kraków</strong><br />
+          <p>30-209 Kraków<br />
+            św. Królowej Jadwigi 41</p>
+        <p>
+            tel. 12 427 30 38                                                    <br /><a class="black" href="mailto:salon@mhk.pl">salon@mhk.pl</a>                                </p>
+
+        <td class="last">
+                    <p class="label1">Kierownik oddziału:</p>
+            <p class="muzea_p">Witold Turdza</p>
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Dzieje Nowej Huty</strong></td>
+        <td><strong>Kraków</strong><br />
+          <p>31-958 Kraków<br />
+            os. Słoneczne 16</p>
+        <p>
+            tel. 12 425 97 75                                                    <br /><a class="black" href="mailto:nowahuta@mhk.pl">nowahuta@mhk.pl</a>                                </p>
+
+        <td class="last">
+                    <p class="label1">Kierownik oddziału:</p>
+            <p class="muzea_p">Paweł Jagło</p>
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Fabryka Schindlera</strong></td>
+        <td><strong>Kraków</strong><br />
+          <p>30-702 Kraków<br />
+            Lipowa 4</p>
+        <p>
+            tel. 12 257 10 17; 12 257 00 95; 12 257 00 96            <br />faks 12 257 00 96                                        <br /><a class="black" href="mailto:fabrykaschindlera@mhk.pl">fabrykaschindlera@mhk.pl</a>                                </p>
+
+        <td class="last">
+                    <p class="label1">Kierownik oddziału:</p>
+            <p class="muzea_p">Monika Bednarek</p>
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Kamienica Hipolitów</strong></td>
+        <td><strong>Kraków</strong><br />
+          <p>31-042 Kraków<br />
+            pl. Mariacki 3</p>
+        <p>
+            tel. 12 422 42 19; 12 411 99 18                                                    <br /><a class="black" href="mailto:hipolitow@mhk.pl">hipolitow@mhk.pl</a>                                </p>
+
+        <td class="last">
+                    <p class="label1">Kierownik oddziału:</p>
+            <p class="muzea_p">Witold Turdza</p>
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Mury Obronne</strong></td>
+        <td><strong>Kraków</strong><br />
+          <p>30-547 Kraków<br />
+            Pijarska</p>
+        <p>
+            tel. 12 421 13 61; 12 619 23 20                                                     <br /><a class="black" href="mailto:edukacja@mhk.pl">edukacja@mhk.pl</a>                                </p>
+
+        <td class="last">
+                    <p class="label1">Kierownik oddziału:</p>
+            <p class="muzea_p">Piotr Hapanowicz</p>
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Pałac Krzysztofory</strong></td>
+        <td><strong>Kraków</strong><br />
+          <p>31-011 Kraków<br />
+            Rynek Główny 35</p>
+        <p>
+            tel. 12 619 23 00                                                                                       </p>
+
+        <td class="last">
+        &nbsp;
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Podziemia Rynku trasa turystyczna</strong></td>
+        <td><strong>Kraków</strong><br />
+          <p>31-042 Kraków<br />
+            Rynek Główny 1</p>
+        <p>
+            tel. 12 426 50 60                                                     <br /><a class="black" href="mailto:info@mhk.pl">info@mhk.pl</a>                                </p>
+
+        <td class="last">
+        &nbsp;
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Stara Synagoga</strong></td>
+        <td><strong>Kraków</strong><br />
+          <p>31-053 Kraków<br />
+            Szeroka 24</p>
+        <p>
+            tel. 12 422 09 62,12 431 05 45            <br />faks 12 431 05 45                                        <br /><a class="black" href="mailto:starasynagoga@mhk.pl">starasynagoga@mhk.pl</a>                                </p>
+
+        <td class="last">
+                    <p class="label1">Kierownik oddziału:</p>
+            <p class="muzea_p">Eugeniusz Duda</p>
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Ulica Pomorska</strong></td>
+        <td><strong>Kraków</strong><br />
+          <p>30-039 Kraków<br />
+            Pomorska 2</p>
+        <p>
+            tel. 12 633 14 14                                                    <br /><a class="black" href="mailto:pomorska@mhk.pl">pomorska@mhk.pl</a>                                </p>
+
+        <td class="last">
+                    <p class="label1">Kierownik oddziału:</p>
+            <p class="muzea_p">Monika Bednarek</p>
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Wieża Ratuszowa</strong></td>
+        <td><strong>Kraków</strong><br />
+          <p>31-001 Kraków<br />
+            Rynek Główny 1</p>
+        <p>
+            tel. 12 619 23 18; 12 619 23 20                                                     <br /><a class="black" href="mailto:edukacja@mhk.pl">edukacja@mhk.pl</a>                                </p>
+
+        <td class="last">
+                    <p class="label1">Kierownik oddziału:</p>
+            <p class="muzea_p">Piotr Hapanowicz</p>
+                </td>    
+      </tr>
+            
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="last"></td>
+      </tr>
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td rowspan="4"><strong class="red">Muzeum Historyczne Miasta Tarnobrzega</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>podkarpackie</strong>
+        <p class="label1">Powiat</p>
+        <strong>Tarnobrzeg /miasto na prawach powiatu/</strong>
+        <p class="label1">Gmina</p>
+        <strong>Tarnobrzeg</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Tarnobrzeg</strong>
+          <p>
+                      39-400  Tarnobrzeg
+            <br />Stanisława Pawłowskiego 14
+                    </p>
+        <p>
+            tel. 15 823 79 99            <br />faks 15 823 79 99 w. 99                            <br /><a class="black" href="mailto:mhmt@onet.pl">mhmt@onet.pl</a>                                    <br /><a class="black" href="http://www.mhmt.pl">www.mhmt.pl</a>        </p>
+        </td>
+        <td class="last">
+                    <p class="label1">Dyrektor:</p>
+          <p class="muzea_p">dr Adam Wójcik </p>
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">samorządowe - gmina</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">Gmina Tarnobrzeg </p>
+                                                </td>     
+      </tr>
+      
+      
+            <tr>
+        <th colspan="3" >Oddziały muzeum:</th>
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Zamek w Dzikowie /w trakcie rewaloryzacji/</strong></td>
+        <td><strong>Tarnobrzeg</strong><br />
+          <p>39-400 Tarnobrzeg<br />
+            Sandomierska 27</p>
+        <p>
+            tel. 503 161 400                                                                                    </p>
+
+        <td class="last">
+        &nbsp;
+                </td>    
+      </tr>
+            
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="last"></td>
+      </tr>
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td ><strong class="red">Muzeum Historyczne przy PBG SA w Wysogotowie</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>wielkopolskie</strong>
+        <p class="label1">Powiat</p>
+        <strong>poznański</strong>
+        <p class="label1">Gmina</p>
+        <strong>Tarnowo Podgórne</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Wysogotowo /poczta Przeźmierow</strong>
+          <p>
+                      62-081  Wysogotowo /poczta Przeźmierow
+            <br />Skórzewska 35
+                    </p>
+        <p>
+                                                                                                </p>
+        </td>
+        <td class="last">
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">prywatne - instytucja</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">PBG spółka akcyjna z siedzibą w Wysogotowie</p>
+                                                </td>     
+      </tr>
+      
+      
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td rowspan="8"><strong class="red">Muzeum Historyczne w Bielsku-Białej</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>śląskie</strong>
+        <p class="label1">Powiat</p>
+        <strong>Bielsko-Biała /miasto na prawach powiatu/</strong>
+        <p class="label1">Gmina</p>
+        <strong>Bielsko-Biała </strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Bielsko-Biała</strong>
+          <p>
+                      43-300 Bielsko-Biała
+            <br />Wzgórze 16
+                    </p>
+        <p>
+            tel. 33 822 06 56            <br />faks 33 811 10 35                            <br /><a class="black" href="mailto:info@muzeum.bielsko.pl">info@muzeum.bielsko.pl</a>                                    <br /><a class="black" href="http://www.muzeum.bielsko.pl">www.muzeum.bielsko.pl</a>        </p>
+        </td>
+        <td class="last">
+                    <p class="label1">Dyrektor:</p>
+          <p class="muzea_p">Iwona Purzycka</p>
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">samorządowe - województwo</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">Województwo Śląskie </p>
+                                                </td>     
+      </tr>
+      
+      
+            <tr>
+        <th colspan="3" >Oddziały muzeum:</th>
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Dom Tkacza</strong></td>
+        <td><strong>Bielsko-Biała</strong><br />
+          <p>43-300  Bielsko-Biała<br />
+            ul. Sobieskiego 51</p>
+        <p>
+            tel. 33 811 74 06                                                    <br /><a class="black" href="mailto:domtkacza@muzeum.bielsko.pl">domtkacza@muzeum.bielsko.pl</a>                                </p>
+
+        <td class="last">
+        &nbsp;
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Fałatówka </strong></td>
+        <td><strong>Bystra Śląska</strong><br />
+          <p>43-360  Bystra Śląska<br />
+            ul. Fałata 34</p>
+        <p>
+            tel. 33 817 13 61; sztuka@muzeum.bielsko.pl                                                    <br /><a class="black" href="mailto:historia@muzeum.bielsko.pl">historia@muzeum.bielsko.pl</a>                            <br /><a class="black" href="mailto:"></a>                                </p>
+
+        <td class="last">
+        &nbsp;
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Stara Fabryka</strong></td>
+        <td><strong>Bielsko-Biała</strong><br />
+          <p>43-300 Bielsko-Biała<br />
+            pl. Żwirki i Wigury 8</p>
+        <p>
+            tel. 33 812 23 67; 33 811 04 25                                                    <br /><a class="black" href="mailto:mtiw@muzeum.bielsko.pl">mtiw@muzeum.bielsko.pl</a>                                </p>
+
+        <td class="last">
+                    <p class="label1">Kierownik oddziału:</p>
+            <p class="muzea_p">Piotr Kenig</p>
+                </td>    
+      </tr>
+            
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="last"></td>
+      </tr>
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td ><strong class="red">Muzeum Historyczne w Bytomiu</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>śląskie</strong>
+        <p class="label1">Powiat</p>
+        <strong>Bytom /miato na prawach powiatu/</strong>
+        <p class="label1">Gmina</p>
+        <strong>Bytom</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Bytom</strong>
+          <p>
+                      41-902 Bytom
+            <br />ul. Prusa 14/5
+                    </p>
+        <p>
+                                                                                        <br /><a class="black" href="http://https://pl-pl.facebook.com/MuzeumHistoryczneBytom">https://pl-pl.facebook.com/MuzeumHistoryczneBytom</a>        </p>
+        </td>
+        <td class="last">
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">prywatne - instytucja</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">Fundacja im. Mieczysława Dumnickiegu</p>
+                                                </td>     
+      </tr>
+      
+      
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td ><strong class="red">Muzeum Historyczne w Ełku</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>warmińsko-mazurskie</strong>
+        <p class="label1">Powiat</p>
+        <strong>ełcki</strong>
+        <p class="label1">Gmina</p>
+        <strong>Ełk</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Ełk</strong>
+          <p>
+                      19-300 Ełk
+            <br />Małeckich 3 
+                    </p>
+        <p>
+                                                                                                </p>
+        </td>
+        <td class="last">
+                    <p class="label1">Dyrektor:</p>
+          <p class="muzea_p">Kazimierz Bogusz</p>
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">samorządowe - gmina</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">Miasto Ełk</p>
+                                                </td>     
+      </tr>
+      
+      
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td ><strong class="red">Muzeum Historyczne w Legionowie</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>mazowieckie</strong>
+        <p class="label1">Powiat</p>
+        <strong>legionowski</strong>
+        <p class="label1">Gmina</p>
+        <strong>Legionowo</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Legionowo</strong>
+          <p>
+                      05-120 Legionowo
+            <br />Adama Mickiewicza 23
+                    </p>
+        <p>
+            tel. 22 774 21 66                                        <br /><a class="black" href="mailto:jacek.szczepanski@muzeum.legionowo.pl">jacek.szczepanski@muzeum.legionowo.pl</a>                                    <br /><a class="black" href="http://muzeum.legionowo.pl">muzeum.legionowo.pl</a>        </p>
+        </td>
+        <td class="last">
+                    <p class="label1">Dyrektor:</p>
+          <p class="muzea_p">dr Jacek Szczepański</p>
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">samorządowe - gmina</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">Gmina Legionowo </p>
+                                                </td>     
+      </tr>
+      
+      
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td ><strong class="red">Muzeum Historyczne w Przasnyszu /w organizacji/</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>mazowieckie</strong>
+        <p class="label1">Powiat</p>
+        <strong>przasnyski</strong>
+        <p class="label1">Gmina</p>
+        <strong>Przasnysz</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Przasnysz</strong>
+          <p>
+                      06-300 Przasnysz
+            <br />ul. Jana Kilińśkiego 2
+                    </p>
+        <p>
+            tel. 29 752 28 66                                         <br /><a class="black" href="mailto:przasnysz@muzeum.ostroleka.pl">przasnysz@muzeum.ostroleka.pl</a>                                    <br /><a class="black" href="http://www.muzeum.tpzp.xip.pl/">www.muzeum.tpzp.xip.pl/</a>        </p>
+        </td>
+        <td class="last">
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">samorządowe - gmina</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">Miasto Przasnysz</p>
+                                                </td>     
+      </tr>
+      
+      
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td ><strong class="red">Muzeum Historyczne w Sanoku</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>podkarpackie</strong>
+        <p class="label1">Powiat</p>
+        <strong>sanocki</strong>
+        <p class="label1">Gmina</p>
+        <strong>Sanok</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Sanok</strong>
+          <p>
+                      38-500  Sanok
+            <br />Zamkowa 2
+                    </p>
+        <p>
+            tel. 13 463 06 09            <br />faks 13 463 06 09                            <br /><a class="black" href="mailto:muzeum@muzeum.sanok.pl">muzeum@muzeum.sanok.pl</a>                            <br /><a class="black" href="mailto:mhsbanach@interia.pl">mhsbanach@interia.pl</a>                                    <br /><a class="black" href="http://www.muzeum.sanok.pl">www.muzeum.sanok.pl</a>        </p>
+        </td>
+        <td class="last">
+                    <p class="label1">Dyrektor:</p>
+          <p class="muzea_p">Wiesław Banach</p>
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">samorządowe - powiat</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">Rada Powiatu Sanockiego</p>
+                                                </td>     
+      </tr>
+      
+      
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td ><strong class="red">Muzeum Historyczne w Sulejówku</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>mazowieckie</strong>
+        <p class="label1">Powiat</p>
+        <strong>miński</strong>
+        <p class="label1">Gmina</p>
+        <strong>Sulejówek</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Sulejówek</strong>
+          <p>
+                      05-071 Sulejówek
+            <br />ul. Szosowa 26
+                    </p>
+        <p>
+            tel. 606 456 175                                        <br /><a class="black" href="mailto:robert@muzeumsulejowek.pl">robert@muzeumsulejowek.pl</a>                                            </p>
+        </td>
+        <td class="last">
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">prywatne -  osoba</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">osoba fizyczna</p>
+                                                </td>     
+      </tr>
+      
+      
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td rowspan="4"><strong class="red">Muzeum Historyczno-Archeologiczne w Ostrowcu Świętokrzyskim</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>świętokrzyskie</strong>
+        <p class="label1">Powiat</p>
+        <strong>ostrowiecki</strong>
+        <p class="label1">Gmina</p>
+        <strong>Ostrowiec Świętokrzyski</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Ostrowiec Świętokrzyski</strong>
+          <p>
+                      27-400  Ostrowiec Świętokrzyski
+            <br />Świętokrzyska 37
+                    </p>
+        <p>
+            tel. 41 265 36 51; 41 248 47 00            <br />faks 41 265 36 51                            <br /><a class="black" href="mailto:biuro@muzeumostrowiec.pl">biuro@muzeumostrowiec.pl</a>                            <br /><a class="black" href="mailto:dyrektor@muzeumostrowiec.pl">dyrektor@muzeumostrowiec.pl</a>                                    <br /><a class="black" href="http://www.muzeumostrowiec.pl">www.muzeumostrowiec.pl</a>        </p>
+        </td>
+        <td class="last">
+                    <p class="label1">Dyrektor:</p>
+          <p class="muzea_p">Włodzimierz Szczałuba</p>
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">samorządowe - powiat</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">Powiat Ostrowiecki</p>
+                                          
+          <p class="label1">Muzeum wpisane do PRM:</p>
+          <p class="muzea_p">14.12.2001</p>
+                                
+          <p class="label1">Numer wpisu do PRM:</p>
+          <p class="muzea_p">PRM/68/01</p>
+                  </td>     
+      </tr>
+      
+      
+            <tr>
+        <th colspan="3" >Oddziały muzeum:</th>
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Rezerwat Archeologiczny i Muzeum Neolitycznego Górnictwa w Krzemionkach</strong></td>
+        <td><strong>Krzemionki</strong><br />
+          <p>27-400 Ostrowiec Świętokrzyski Krzemionki<br />
+            </p>
+        <p>
+            tel. 41 262 09 78                                                     <br /><a class="black" href="mailto:biuro@krzemionki.pl">biuro@krzemionki.pl</a>                        <br /><a class="black" href="http://www.krzemionki.pl">www.krzemionki.pl</a>        </p>
+
+        <td class="last">
+        &nbsp;
+                </td>    
+      </tr>
+            
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="last"></td>
+      </tr>
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td rowspan="6"><strong class="red">Muzeum Historyczno-Etnograficzne im. Juliana Rydzykowskiego w Chojnicach </strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>pomorskie</strong>
+        <p class="label1">Powiat</p>
+        <strong>chojnicki</strong>
+        <p class="label1">Gmina</p>
+        <strong>Chojnice</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Chojnice</strong>
+          <p>
+                      89-600 Chojnice
+            <br />Podmurna 15
+                    </p>
+        <p>
+            tel. 52 397 43 92; 52 397 36 52            <br />faks 52 397 23 19                            <br /><a class="black" href="mailto:muzeum@chojnicemuzeum.pl">muzeum@chojnicemuzeum.pl</a>                                    <br /><a class="black" href="http://chojnicemuzeum.pl">chojnicemuzeum.pl</a>        </p>
+        </td>
+        <td class="last">
+                    <p class="label1">Dyrektor:</p>
+          <p class="muzea_p">Barbara Zagórska </p>
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">samorządowe - powiat</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">Starostwo Powiatowe w Chojnicach </p>
+                                          
+          <p class="label1">Muzeum wpisane do PRM:</p>
+          <p class="muzea_p">15.07.2011</p>
+                                
+          <p class="label1">Numer wpisu do PRM:</p>
+          <p class="muzea_p">PRM/107/11</p>
+                  </td>     
+      </tr>
+      
+      
+            <tr>
+        <th colspan="3" >Oddziały muzeum:</th>
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Chata podcieniowa w Silnie </strong></td>
+        <td><strong>Silno</strong><br />
+          <p>89-661 Silno<br />
+            Główna 49a</p>
+        <p>
+            tel. 52 398 76 97                                                                                    </p>
+
+        <td class="last">
+        &nbsp;
+                </td>    
+      </tr>
+            <tr>
+        <td class="firmy_table_line solid" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><strong>Kręgi kamienne w Odrach. Rezerwat archeologiczno-przyrodniczy.</strong></td>
+        <td><strong>Odry /poczta Gotelp/</strong><br />
+          <p>89-651 Odry /poczta Gotelp/<br />
+            Długa 2  </p>
+        <p>
+            tel. 52 397 23 19; 52 397 43 92; 606 930 635                                                                                    </p>
+
+        <td class="last">
+        &nbsp;
+                </td>    
+      </tr>
+            
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="last"></td>
+      </tr>
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td ><strong class="red">Muzeum Historyczno-Etnograficzne w Andrychowie</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>małopolskie</strong>
+        <p class="label1">Powiat</p>
+        <strong>wadowicki</strong>
+        <p class="label1">Gmina</p>
+        <strong>Andrychów</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Andrychów</strong>
+          <p>
+                      34-120 Andrychów
+            <br />Podgórska 3
+                    </p>
+        <p>
+            tel. 33 875 24 88; 602 723 139            <br />faks 33 875 24 88                            <br /><a class="black" href="mailto:ziemianstwo@poczta.onet.pl">ziemianstwo@poczta.onet.pl</a>                                            </p>
+        </td>
+        <td class="last">
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">prywatne - osoba </p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">osoba fizyczna</p>
+                                                </td>     
+      </tr>
+      
+      
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td ><strong class="red">Muzeum Historyczno-Przyrodnicze "Pamiątka"</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>mazowieckie</strong>
+        <p class="label1">Powiat</p>
+        <strong>legionowski</strong>
+        <p class="label1">Gmina</p>
+        <strong>Nieporęt</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Izabelin</strong>
+          <p>
+                      05-080 Izabelin
+            <br />ul. 3 Maja 19
+                    </p>
+        <p>
+            tel. 502 672 562                                        <br /><a class="black" href="mailto:Muzeumpamiatka@wp.pl">Muzeumpamiatka@wp.pl</a>                                    <br /><a class="black" href="http://muzeumpamiatka.wordpress.com/">muzeumpamiatka.wordpress.com/</a>        </p>
+        </td>
+        <td class="last">
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">prywatne -  osoba</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">osoba fizyczna</p>
+                                                </td>     
+      </tr>
+      
+      
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td ><strong class="red">Muzeum Humoru i Absurdu w Poznaniu /w organizacji/</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>wielkopolskie</strong>
+        <p class="label1">Powiat</p>
+        <strong>poznański</strong>
+        <p class="label1">Gmina</p>
+        <strong>Poznań</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Poznań</strong>
+          <p>
+                      61-309 Poznań
+            <br />Bodawska 11 
+                    </p>
+        <p>
+                                                                                                </p>
+        </td>
+        <td class="last">
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">prywatne -  osoba</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">osoba fizyczna</p>
+                                                </td>     
+      </tr>
+      
+      
+            
+                
+          <tr><td colspan="4" class="firmy_table_line"></td></tr>
+      <tr>
+        <td ><strong class="red">Muzeum Hutnictwa Doliny Małej Panwi</strong>
+          <p>
+            
+          </p>
+        </td>
+        <td>
+        <p class="label1">Województwo</p>
+        <strong>opolskie</strong>
+        <p class="label1">Powiat</p>
+        <strong>opolski</strong>
+        <p class="label1">Gmina</p>
+        <strong>Ozimek</strong>
+        
+        </td>
+        <td>
+        <p class="label1">Adres i kontakt:</p>
+        <strong>Ozimek</strong>
+          <p>
+                      46-040 Ozimek
+            <br />ul. Hutnicza 1
+                    </p>
+        <p>
+            tel.  77 402 66 28                                        <br /><a class="black" href="mailto:biuro@sdmp.pl">biuro@sdmp.pl</a>                                    <br /><a class="black" href="http://www.sdmp.pl/">www.sdmp.pl/</a>        </p>
+        </td>
+        <td class="last">
+                              <p class="label1">Status muzeum:</p>
+          <p class="muzea_p">prywatne - instytucja</p>
+                              <p class="label1">Organizator:</p>
+          <p class="muzea_p">Stowarzyszenie Dolina Małej Panwi</p>
+                                                </td>     
+      </tr>
+      
+      
+            
+      
+      
+      
+
+  </table>
+<div class="pager">
+
+			<a id="p_first" href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?" rel="first">&lt;&lt;</a>
+	
+			<a id="p_previous" href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=3" rel="prev">&lt;</a>
+	
+	
+					<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?">1</a>
+		
+	
+					<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=2">2</a>
+		
+	
+					<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=3">3</a>
+		
+	
+					<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=4" class="activ"><strong>4</strong></a>
+		
+	
+					<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=5">5</a>
+		
+	
+					<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=6">6</a>
+		
+	
+					<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=7">7</a>
+		
+	
+					<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=8">8</a>
+		
+	
+					<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=9">9</a>
+		
+	
+					<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=12">&hellip;</a>
+		
+	
+					<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=16">16</a>
+		
+	
+					<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=17">17</a>
+		
+	
+					<a href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=18">18</a>
+		
+	
+			<a id="p_next" href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=5" rel="next">&gt;</a>
+	
+			<a id="p_last" href="/pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce?page=18" rel="last">&gt;&gt;</a>
+	</div>
+<!-- .pagination --> 
+
+        
+        <a href="pl/bazy-danych/wykaz-muzeow-w-polsce/baza-muzeow-w-polsce/print" onclick="javascript:winopen(this.href,720,500); return false;" class="do_druku"> Wersja do druku</a>
+    <a href="public/baza-muzeow-w-polsce.pdf" class="do_pdf"> Pobierz w PDF</a>
+  
+  </div>
+  <div id="prawa" class="right">
+        <!-- wyszukiwarka-->
+<div id="boxSearch">
+	<form id="search" action="/pl/szukaj" method="post">
+		<fieldset>
+			<input name="q" id="szukaj" type="text" class="inpat" value="Szukaj"
+            onfocus="if(this.value=='Szukaj') this.value='';" onblur="if(this.value=='') this.value='Szukaj';"
+             />
+             
+			<input  type="submit" class="button" value=" " />
+		</fieldset>
+	</form>
+
+</div>
+                        <script type="text/javascript">
+
+/*You can also place this code in a separate file and link to it like epoch_classes.js*/
+  var bas_cal;      
+window.onload = function () {
+    
+    bas_cal = new Epoch('epoch_basic','basic_container','aktualnosci/kalendarz/?date=', 'pl');
+    
+    bas_cal.addDates(["2011-05-09","2011-05-10","2011-05-14","2011-05-17","2011-05-18","2011-05-25","2011-05-29","2011-05-30","2011-05-31","2011-06-01","2011-06-02","2011-06-03","2011-06-04","2011-06-08","2011-06-10","2011-06-13","2011-06-14","2011-06-15","2011-06-16","2011-06-18","2011-06-19","2011-06-27","2011-06-29","2011-07-04","2011-07-05","2011-07-07","2011-07-13","2011-07-15","2011-07-16","2011-07-17","2011-07-19","2011-07-20","2011-07-22","2011-07-23","2011-08-02","2011-08-04","2011-08-05","2011-08-12","2011-08-16","2011-08-23","2011-08-25","2011-08-28","2011-08-31","2011-09-03","2011-09-09","2011-09-10","2011-10-04","2011-10-05","2011-10-06","2011-10-07","2011-10-10","2011-10-11","2011-10-12","2011-10-14","2011-10-15","2011-10-17","2011-10-18","2011-10-20","2011-10-21","2011-10-24","2011-10-27","2011-11-03","2011-11-10","2011-11-12","2011-11-14","2011-11-16","2011-11-22","2011-11-23","2011-11-24","2011-12-01","2011-12-02","2011-12-06","2011-12-09","2012-01-13","2012-01-15","2012-01-18","2012-01-19","2012-01-20","2012-01-27","2012-01-28","2012-02-04","2012-02-08","2012-02-09","2012-02-10","2012-02-12","2012-02-13","2012-02-16","2012-02-17","2012-02-18","2012-02-19","2012-02-22","2012-02-23","2012-02-24","2012-02-25","2012-03-02","2012-03-07","2012-03-15","2012-03-21","2012-03-26","2012-03-31","2012-04-01","2012-04-04","2012-04-13","2012-04-14","2012-04-15","2012-04-16","2012-04-18","2012-04-19","2012-04-20","2012-04-25","2012-04-26","2012-04-27","2012-05-01","2012-05-03","2012-05-08","2012-05-10","2012-05-12","2012-05-15","2012-05-16","2012-05-18","2012-05-19","2012-05-20","2012-05-21","2012-05-22","2012-05-23","2012-05-24","2012-05-31","2012-06-01","2012-06-02","2012-06-03","2012-06-10","2012-06-18","2012-06-23","2012-06-26","2012-06-27","2012-06-28","2012-06-29","2012-06-30","2012-07-02","2012-07-04","2012-07-05","2012-07-06","2012-07-07","2012-07-08","2012-07-09","2012-07-10","2012-07-11","2012-07-12","2012-07-14","2012-07-17","2012-07-20","2012-07-23","2012-07-25","2012-07-26","2012-07-27","2012-07-28","2012-08-03","2012-08-07","2012-08-08","2012-08-09","2012-08-11","2012-08-15","2012-08-16","2012-08-18","2012-08-23","2012-08-26","2012-08-31","2012-09-02","2012-09-04","2012-09-05","2012-09-06","2012-09-08","2012-09-10","2012-09-12","2012-09-13","2012-09-14","2012-09-15","2012-09-16","2012-09-18","2012-09-19","2012-09-20","2012-09-21","2012-09-26","2012-09-27","2012-09-29","2012-10-04","2012-10-05","2012-10-07","2012-10-08","2012-10-10","2012-10-11","2012-10-12","2012-10-13","2012-10-15","2012-10-18","2012-10-20","2012-10-21","2012-10-22","2012-10-24","2012-10-25","2012-10-26","2012-10-28","2012-11-08","2012-11-09","2012-11-10","2012-11-11","2012-11-12","2012-11-13","2012-11-15","2012-11-16","2012-11-17","2012-11-23","2012-11-24","2012-11-26","2012-11-29","2012-11-30","2012-12-01","2012-12-02","2012-12-03","2012-12-05","2012-12-06","2012-12-09","2012-12-10","2012-12-12","2012-12-14","2012-12-16","2012-12-17","2012-12-19","2012-12-29","2013-01-07","2013-01-09","2013-01-10","2013-01-11","2013-01-12","2013-01-14","2013-01-18","2013-01-19","2013-01-21","2013-01-22","2013-01-23","2013-01-25","2013-01-26","2013-01-27","2013-01-31","2013-02-01","2013-02-02","2013-02-03","2013-02-04","2013-02-07","2013-02-10","2013-02-14","2013-02-15","2013-02-17","2013-02-20","2013-02-21","2013-02-22","2013-02-23","2013-02-25","2013-02-26","2013-03-02","2013-03-03","2013-03-05","2013-03-08","2013-03-09","2013-03-10","2013-03-12","2013-03-13","2013-03-14","2013-03-15","2013-03-16","2013-03-18","2013-03-20","2013-03-22","2013-03-23","2013-04-04","2013-04-08","2013-04-09","2013-04-10","2013-04-12","2013-04-18","2013-04-19","2013-04-22","2013-04-23","2013-04-25","2013-04-26","2013-04-28","2013-04-30","2013-05-04","2013-05-10","2013-05-14","2013-05-15","2013-05-18","2013-06-01","2013-06-06","2013-06-08","2013-06-14","2013-06-15","2013-06-19","2013-06-20","2013-06-21","2013-06-28","2013-07-01","2013-07-02","2013-07-04","2013-07-06","2013-07-09","2013-07-10","2013-07-11","2013-07-12","2013-07-13","2013-07-20","2013-07-21","2013-07-30","2013-08-01","2013-08-06","2013-08-08","2013-08-11","2013-08-14","2013-08-21","2013-08-22","2013-08-24","2013-08-28","2013-08-31","2013-09-17","2013-09-19","2013-09-25","2013-09-28","2013-10-05","2013-10-14","2013-10-18","2013-10-24","2013-10-29","2013-11-04","2013-11-09","2013-11-13","2013-11-14","2013-11-15","2013-11-17","2013-11-18","2013-11-20","2013-11-22","2013-12-01","2013-12-02","2013-12-05","2013-12-11","2013-12-12","2013-12-13","2013-12-15","2013-12-19","2013-12-20","2014-01-21","2014-02-20","2014-02-25","2014-04-16","2014-05-22","2014-10-20","2014-11-19","2014-11-20"]);
+    bas_cal.starting();
+    
+    bas_cal.goToMonth(2014,4-1);//Y,m  
+};
+
+</script>
+<div id="basic_container"></div>
+<div style="height:5px"></div><div class="line"></div><div id="banners_right">
+	<ul class="verticalUl">
+                
+    	<li>
+        	<a href="http://www.nimoz.pl/pl/dzialalnosc/heritage-plus" title="Heritage Plus" target="_blank">
+                <img src="upload/modules/banner/200x200/hplus_rekl.jpg" alt="Heritage Plus" />
+            </a>
+
+        </li>
+                
+    	<li>
+        	<a href="http://www.nimoz.pl/pl/rocznik-muzealnictwo" title="Rocznik "Muzealnictwo"" target="_blank">
+                <img src="upload/modules/banner/200x200/muzz.jpg" alt="Rocznik "Muzealnictwo"" />
+            </a>
+
+        </li>
+                
+    	<li>
+        	<a href="http://digitalizacja.nimoz.pl/" title="Centrum Kompetencji ds. digitalizacji w muzeach" target="_blank">
+                <img src="upload/modules/banner/200x200/nimoz_ckdm_banner_visual.gif" alt="Centrum Kompetencji ds. digitalizacji w muzeach" />
+            </a>
+
+        </li>
+                
+    	<li>
+        	<a href="http://muzealnictwo.com/" title="muzealnictwo.com" target="_blank">
+                <img src="upload/modules/banner/200x200/io(2).jpg" alt="muzealnictwo.com" />
+            </a>
+
+        </li>
+                
+    	<li>
+        	<a href="http://konkurssybilla.nimoz.pl/" title="Sybilla" target="_blank">
+                <img src="upload/modules/banner/200x200/baner_sybilla.jpg" alt="Sybilla" />
+            </a>
+
+        </li>
+                
+    	<li>
+        	<a href="http://www.nimoz.pl/pl/dzialalnosc/statystyka-muzeow-2" title="statystyka muzeów" target="_blank">
+                <img src="upload/modules/banner/200x200/sttastyka.jpg" alt="statystyka muzeów" />
+            </a>
+
+        </li>
+                
+    	<li>
+        	<a href="http://salonksiazkimuzealnej.pl/" title="Salon Książki Muzealnej" target="_blank">
+                <img src="upload/modules/banner/200x200/sallon.jpg" alt="Salon Książki Muzealnej" />
+            </a>
+
+        </li>
+                
+    	<li>
+        	<a href="http://architektura.nimoz.pl/" title="Architektura Muzeów" target="_blank">
+                <img src="upload/modules/banner/200x200/amm.jpg" alt="Architektura Muzeów" />
+            </a>
+
+        </li>
+                
+    	<li>
+        	<a href="http://biblioteka.nimoz.pl/" title="Biblioteka" target="_blank">
+                <img src="upload/modules/banner/200x200/biblioteka3.jpg" alt="Biblioteka" />
+            </a>
+
+        </li>
+        </ul>
+    
+</div>
+  </div>
+
+</div>
+				<!-- koniec ładowania -->				
+		</div>
+<!-- //index -->	
+		
+	</div>
+</div>
+<!-- footer -->
+    <div id="footer_wrap" style="background: #C5C5C7">
+		<div id="footer" style="margin:auto; width:960px">
+            <div id="copyr_l">
+	<div class="row">
+        <dl>
+            <dt>Instytut</dt>
+            			            <dd><a href="/pl/instytut/podstawy-prawne-2">Podstawy prawne</a></dd>
+															            <dd><a href="/pl/instytut/rada-programowa">Rada Programowa</a></dd>
+									            <dd><a href="/pl/instytut/kontakt">Kontakt</a></dd>
+									            <dd><a href="/pl/instytut/parnerzy">Partnerzy</a></dd>
+									            <dd><a href="/pl/instytut/przetargi-i-ogloszenia">Przetargi i ogłoszenia</a></dd>
+									            <dd><a href="/pl/instytut/bip-1">BIP</a></dd>
+																		        </dl>
+        <dl>
+            <dt>Działalność</dt>
+						            <dd><a href="/pl/dzialalnosc/strategia-rozwoju-muzealnictwa">Strategia Rozwoju Muzealnictwa</a></dd>
+									            <dd><a href="/pl/dzialalnosc/sybilla">Sybilla</a></dd>
+									            <dd><a href="/pl/dzialalnosc/muzeum-widzialne">Muzeum Widzialne</a></dd>
+									            <dd><a href="/pl/dzialalnosc/heritage-plus">Heritage Plus</a></dd>
+															            <dd><a href="/pl/dzialalnosc/programy">Programy</a></dd>
+									            <dd><a href="/pl/dzialalnosc/digitalizacja">Digitalizacja</a></dd>
+									            <dd><a href="/pl/dzialalnosc/edukacja">Edukacja</a></dd>
+									            <dd><a href="/pl/dzialalnosc/konferencje">Konferencje</a></dd>
+									            <dd><a href="/pl/dzialalnosc/szkolenia">Szkolenia</a></dd>
+									            <dd><a href="/pl/dzialalnosc/metody-i-techniki-ochronne">Metody i techniki ochronne</a></dd>
+									            <dd><a href="/pl/dzialalnosc/technologie-w-muzeum">Technologie w muzeum</a></dd>
+									            <dd><a href="/pl/dzialalnosc/straty-zabytkow-i-wykaz-zabytkow-skradzionych">Straty zabytków</a></dd>
+									            <dd><a href="/pl/dzialalnosc/badania-proweniencji">Badania proweniencji</a></dd>
+									            <dd><a href="/pl/dzialalnosc/wywoz-zabytkow-zagranice">Wywóz zabytków za granicę</a></dd>
+									            <dd><a href="/pl/dzialalnosc/odznaczenia-i-nagroda-mkidn-1">Odznaczenia i nagroda MKiDN</a></dd>
+									            <dd><a href="/pl/dzialalnosc/statystyka-muzeow-2">Statystyka muzeów</a></dd>
+						        </dl>
+        <dl>
+            <dt>Bazy danych</dt>
+            			            <dd><a href="/pl/bazy-danych/akty-prawne">Akty prawne</a></dd>
+									            <dd><a href="/pl/bazy-danych/wykaz-muzeow-w-polsce">Wykaz muzeów w Polsce</a></dd>
+									            <dd><a href="/pl/bazy-danych/baza-dobrych-praktyk">Baza dobrych praktyk</a></dd>
+									            <dd><a href="/pl/bazy-danych/baza-pracowni-konserwatorskich-w-muzeach-3">Baza pracowni konserwatorskich w muzeach</a></dd>
+									            <dd><a href="/pl/bazy-danych/krajowy-wykaz-zabytkow-skradzionych">Krajowy wykaz zabytków skradzionych</a></dd>
+									            <dd><a href="/pl/bazy-danych/katalog-strat-wojennych-mkidn">Katalog strat wojennych MKiDN</a></dd>
+									            <dd><a href="/pl/bazy-danych/wykaz-muzeow-i-zabytkow-budowlanych-sygnalizacja-pozarowa">Wykaz muzeów i zabytków budowlanych - sygnalizacja pożarowa...</a></dd>
+									            <dd><a href="/pl/bazy-danych/baza-firm-instalacyjnych">Baza firm instalacyjnych </a></dd>
+									            <dd><a href="/pl/bazy-danych/wykaz-studiow-skierowanych-do-muzealnikow-i-osob-zwiazanych-z-muzealnictwem-na-rok-201314">Wykaz studiów skierowanych do muzealników i osób związanych z muzealnictwem na rok 2013/14</a></dd>
+												        </dl>
+    </div>
+    <div class="clr"></div>
+    <div class="row">
+        <dl>
+            <dt>Wydawnictwa</dt>
+            			            <dd><a href="/pl/wydawnictwa/czasopisma">Czasopisma</a></dd>
+									            <dd><a href="/pl/wydawnictwa/reklama-i-promocja">Reklama i promocja</a></dd>
+									            <dd><a href="/pl/wydawnictwa/wydawnictwa-nimoz">Wydawnictwa NIMOZ</a></dd>
+									            <dd><a href="/pl/wydawnictwa/warto-przeczytac-1">Warto przeczytać</a></dd>
+						        </dl>
+        <dl>
+            <dt>Aktualności</dt>
+            																																				                    </dl>
+		
+        <div id="newsletter">
+<div class="newsletter_label">Newsletter</div>
+	<span class="zapisz_sie">
+    	Zapisz się do naszego<br />newslettera
+	</span>
+	<form id="newsletter_form"  action="" method="post">
+		<fieldset>
+        	<input class="inpat" id="name" onfocus="if(this.value=='Twoje imię') this.value='';" onblur="if(this.value=='') this.value='Twoje imię';" name="name" value="Twoje imię" />
+			<input class="inpat" id="email" type="text" onfocus="if(this.value=='Twój e-mail') this.value='';" onblur="if(this.value=='') this.value='Twój e-mail';" name="email" value="Twój e-mail" />
+			<input type="button" class="button"  value="Zapisz się" onclick="mooNewsletter();" />
+			<input type="hidden" value="1" name="newslet" />
+		</fieldset>
+	</form>
+</div>    </div>
+</div>
+<img id="footer_itm1" src="public/design/frontend/images/footer_itm1.gif" alt=" " />
+
+<div  id="copyr_r">
+  <img id="logo2" src="public/design/frontend/images/logo2.gif"  alt="Narodowy Instytut Muzealnictwa i Ochrony Zabytków" />
+	<div id="adres">
+Adres siedziby do korespondencji:
+<br /><br />
+ul. Goraszewska 7<br />
+02-910 Warszawa<br />
+tel. (+48-22) 25 69 600<br />
+fax: (+48-22) 25-69-650<br />
+mail: <a href="mailto:biuro@nimoz.pl">biuro@nimoz.pl</a>
+    </div>
+    <div id="socials">
+    	<span>Dołącz do naszej społeczności:</span>
+    	<a href="http://www.facebook.com/pages/Narodowy-Instytut-Muzealnictwa-i-Ochrony-Zbiorów/226248514068698?sk=app_173514926039482"><img src="public/design/frontend/images/fb.gif" class="inline" style="margin-right:8px;" alt="Facebook" /></a>    	<a href="http://www.youtube.com/nimioz"><img src="public/design/frontend/images/yt.gif" class="inline" alt="YouTube" /></a>    </div>
+    <div id="copyr">
+    	<span>&copy; 2014 NIMOZ</span>
+    	<a href="http://www.thestory.pl" target="_blank"><img src="public/design/frontend/images/thestory.gif" alt="Produced by TheStory" /></a>
+    </div>
+</div>
+					</div>
+        
+    </div>    
+		
+<!-- //footer -->
+
+<script type="text/javascript" src="public/scripts/callendar.js"></script>
+<script type="text/javascript" src="public/scripts/mootools/mootools-more-1.3.2.1.js"></script>
+<script type="text/javascript" src="public/scripts/mootools/messageBox/message.js"></script>
+
+<script type="text/javascript" src="public/scripts/swfobject.js" ></script>
+<script type="text/javascript" src="public/scripts/mootools/slideshow/slideshow.js"></script>
+<script type="text/javascript" src="public/scripts/mootools/smoothbox/smoothbox.js"></script>
+<script type="text/javascript" src="public/scripts/mootools/slimbox/slimbox.js"></script>
+
+
+<script type="text/javascript" src="public/scripts/mootools/MenuMatic/js/MenuMatic_0.68.3.js"></script>
+<script type="text/javascript" src="public/scripts/frontend/mootools.custom.js"></script>
+
+
+<script type="text/javascript">
+    window.addEvent('domready', function() {  
+         
+		 
+  var originalFontSize = $('lewa').getStyle('font-size');
+  /*
+    $("resetFont").addEvent('click',function(){
+    $('html').setStyle('font-size', originalFontSize);
+	 $('html').setStyle('line-height', 'normal');
+  });
+  */
+  // Increase Font Size
+  $("fs_asc").addEvent('click',function(e){
+    var currentFontSize = $('lewa').getStyle('font-size');
+    var currentFontSizeNum = parseFloat(currentFontSize, 10);
+    var newFontSize = currentFontSizeNum*1.2;
+    $('lewa').setStyle('font-size', newFontSize);
+	$('lewa').setStyle('line-height', 'normal');
+	e.stop();
+    return false;
+  });
+  // Decrease Font Size
+  $("fs_desc").addEvent('click',function(e){
+    var currentFontSize = $('lewa').getStyle('font-size');
+    var currentFontSizeNum = parseFloat(currentFontSize, 10);
+    var newFontSize = currentFontSizeNum*0.8;
+    $('lewa').setStyle('font-size', newFontSize);
+	$('lewa').setStyle('line-height', 'normal');
+	e.stop();
+    return false;
+  });
+
+    //menu
+    new MenuMatic({'id':'menu_top'}); 
+
+    
+	
+    
+     if ($('mapkakontakt')) {
+        var lat = document.getElementById('google_lat').value;
+        var lng = document.getElementById('google_long').value;
+            
+        var latlng = new google.maps.LatLng(lat, lng);
+        var myOptions = {
+            zoom: 16,
+            center: latlng,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+        var map = new google.maps.Map(document.getElementById("mapkakontakt"), myOptions);
+                        
+        var marker = new google.maps.Marker({
+            position: latlng, 
+            map: map, 
+            title:"Lokalizacja siedziby"
+        });
+    }
+	
+		if ($('cookies')) {
+			
+			if (!Cookie.read('accepted_cookies')) {
+				$('cookies').show();
+				Cookie.write('accepted_cookies', 1, {
+					duration: 365
+				});
+			}
+			
+			$$('#cookies .close').addEvent('click', function (e) {
+				$('cookies').hide();
+				e.stop();
+			});
+		}
+	
+    });
+    
+    var base_uri     = function(uri){var uri2 = (uri.substr(0,1)=='/') ? uri.substr(1) : uri;  return 'http://www.nimoz.pl/'+uri2;}
+    var current_lang = 'pl';
+    
+
+	
+	
+</script>
+
+
+
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+    var pageTracker = _gat._getTracker("UA-23378425-1"); 
+    pageTracker._initData();
+    pageTracker._trackPageview();
+</script>
+
+</body>
+</html>
