@@ -1,0 +1,663 @@
+<!DOCTYPE html>
+<html lang="pl" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width" /><!-- fixes CSS query min/max width on mobile -->
+<meta property="og:image" content='http://93.159.33.89/imgResize.php?scale=4&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAwOC5qcGc=' />
+<meta property="og:title" content="Giecz-grodzisko" />
+<meta property="og:description" content="Giecz-grodzisko" /> 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="Zabytki" />
+<meta name="description" content="NID Main Site" />
+<link href="/bitrix/js/main/core/css/core.css?1354612059" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/components/bitrix/menu/nid_horizontal_multilevel/style.css?1348129813" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/.default/components/bitrix/breadcrumb/.default/style.css?1333627633" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/styles.css?1389950861" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/template_styles.css?1389950861" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/bitrix/js/main/core/core.js?1390241314"></script>
+<script type="text/javascript">BX.message({'LANGUAGE_ID':'en','FORMAT_DATE':'DD/MM/YYYY','FORMAT_DATETIME':'DD/MM/YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','USER_ID':'','SERVER_TIME':'1397919366','SERVER_TZ_OFFSET':'7200','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'0e8bb390285c75249d650e2a17aadb18','SITE_ID':'10','JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In'})</script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ajax.js?1390241314"></script>
+<script type="text/javascript" src="/bitrix/js/main/session.js?1390241314"></script>
+<script type="text/javascript">
+bxSession.Expand(1440, '0e8bb390285c75249d650e2a17aadb18', false, 'd054338aa4d5ee1a6bc77777ed7e8e41');
+</script>
+<link rel="shortcut icon" href="/nid.ico" />
+<link href="/styles/lightbox.css" rel="stylesheet" />
+
+<!--[if lt IE 9]><script>;(function(e){for(var i=0;e[i]; i++){document.createElement(e[i]);}})("abbr,article,aside,audio,canvas,datalist,details,summary,figure,figcaption,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(','));</script><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="Zabytki" />
+<meta name="description" content="NID Main Site" />
+<link href="/bitrix/js/main/core/css/core.css?1354612059" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/components/bitrix/menu/nid_horizontal_multilevel/style.css?1348129813" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/.default/components/bitrix/breadcrumb/.default/style.css?1333627633" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/styles.css?1389950861" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/template_styles.css?1389950861" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/bitrix/js/main/core/core.js?1390241314"></script>
+<script type="text/javascript">BX.message({'LANGUAGE_ID':'en','FORMAT_DATE':'DD/MM/YYYY','FORMAT_DATETIME':'DD/MM/YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','USER_ID':'','SERVER_TIME':'1397919366','SERVER_TZ_OFFSET':'7200','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'0e8bb390285c75249d650e2a17aadb18','SITE_ID':'10','JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In'})</script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ajax.js?1390241314"></script>
+<script type="text/javascript" src="/bitrix/js/main/session.js?1390241314"></script>
+<script type="text/javascript">
+bxSession.Expand(1440, '0e8bb390285c75249d650e2a17aadb18', false, 'd054338aa4d5ee1a6bc77777ed7e8e41');
+</script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+
+
+</head>
+<body> 
+<div id="panel"></div>
+ 	
+<div id="main"> 		
+  <div class="skiplinks"><a href="#contentMain" >skocz do treści</a></div>
+ 		<hr/> 		<header id="header"> 			<hgroup> 				
+      <h1><a href="/" ><img width="180" height="70" alt="Portal Mapowy" src="/gfx/logoPortalMapowy.png"  /></a></h1>
+     				
+      <h2><a href="http://www.zabytek.pl" ><img width="275" height="73" alt="Narodowy Instytut Dziedzictwa" src="/gfx/logoNID.png"  /></a></h2>
+     			</hgroup> 			<nav class="nav"> 				
+
+<script src="/bitrix/templates/NID Informacja o zabytku/components/bitrix/menu/nid_horizontal_multilevel/script.js?1390241310" type="text/javascript"></script>
+<ul class="topnav">
+	<li class="strona-glowna "><a href="/" >Strona główna</a></li>    
+	
+		
+	
+	
+		
+							<li class="nowosci "><a href="/Nowosci/">Nowości</a></li>
+			
+		
+	
+	
+		
+	
+	
+		
+							<li class="o-portalu "><a href="/O_portalu/">O portalu</a></li>
+			
+		
+	
+	
+		
+	
+	
+					<li class="przewodnik "><a href="/Przewodnik/">Przewodnik</a>
+				<ul class="subnav">
+		
+	
+	
+		
+	
+	
+		
+												<li class="repo"><a href="/Przewodnik/Zrodla_danych/">Źródła danych</a></li>
+							
+		
+	
+	
+		
+	
+	
+		
+												<li class="mapy"><a href="http://geoportal.nid.pl/SDIPortal/" target="_blank" >Metadane</a></li>
+							
+		
+	
+	
+		
+	
+	
+		
+												<li class="repo"><a href="/Przewodnik/Wspolpraca/">Współpraca</a></li>
+							
+		
+	
+	
+		
+	
+	
+		
+												<li class="repo"><a href="/Przewodnik/Dokumentacja/">Dokumentacja</a></li>
+							
+		
+	
+	
+		
+	
+	
+		
+												<li class="repo"><a href="/Przewodnik/Faq/">FAQ</a></li>
+							
+		
+	
+	
+		
+			</ul></li>	
+	
+		
+							<li class="kalendarium "><a href="/Kalendarium/">Kalendarium</a></li>
+			
+		
+	
+	
+		
+	
+	
+		
+							<li class="sluzba-ochrony-zabytkow "><a href="/Sluzba_Ochrony_Zabytkow/">Służby konserwatorskie</a></li>
+			
+		
+	
+	
+		
+	
+	
+		
+							<li class="regulamin "><a href="/Regulamin/">Regulamin</a></li>
+			
+		
+	
+	
+		
+	
+	
+		
+							<li class="kontakt "><a href="/Kontakt/">Kontakt</a></li>
+			
+		
+	
+	
+
+
+</ul>
+<div class="menu-clear-left"></div>
+
+
+       		 		 
+        <div style="display: none;"> 			 
+          <div id="inline_popup" style="color: rgb(255, 255, 255);"> 
+			<div class="regulamin-pop">
+						<div class="m-20"><img src="/gfx/akceptacja_war.png" alt="" /></div>
+						<div class="ml-20 fs-13">Zapoznałem się z regulaminem, zgadzam się na jego warunki.</div>
+						<div class="mt-32">
+						   <div class="fl ml-20 mt-20"><a target="_blank" href="/Regulamin/">Przeczytaj regulamin</a></div>
+						   <div class="fl ml-20"><a target="_blank" href="http://geoportal.nid.pl"><img src="/gfx/yes_pop.png" alt="" /></a></div>
+						   <div class="fl ml-20"><a href="/"><img src="/gfx/no_pop.png" alt="" /></a></div>
+						   <div class="clr"></div>
+						</div>
+			</div>
+          </div>
+        </div>
+     			</nav> 			<form class="fo1" method="get" action="/Szukaj/"> 				<fieldset> 					<legend><span class="h0">Wyszukiwarka</span></legend> 					
+        <div> 						<label class="h0" for="FS-query">Szukana fraza</label> 						<input type="search" placeholder="Szukaj" id="FS-query" name="q" /> 					</div>
+       				</fieldset> 				
+      <div class="submit"> 					<input type="image" title="Szukaj" alt="Szukaj" src="/gfx/btnSearch.png" name="s" /> 				</div>
+     			</form> 		</header> 		<hr/> 
+
+<div style="background-image:url('/gfx/bgmc.jpg');background-repeat:repeat-x;background-position:bottom; ">				
+  <div id="contentWrapper">
+  
+  
+  
+  <div id="contentMain"><nav id="breadcrumbs"> Portal e-zabytek &gt; <span class="fat">Zabytek</span> </nav>
+ <hr/> 
+	<article class="pg3" itemscope="itemscope" itemtype="http://schema.org/LandmarksOrHistoricalBuildings">
+
+
+
+		
+		    <script language="javascript">
+    			document.title = "e-zabytek - Giecz-grodzisko";
+   			 </script>
+
+
+		<header class="pg3-lc">
+			<hgroup> 						 
+				<h2><img width="383" height="57" alt="Informacja o zabytku" src="/gfx/hInformacjaOZabytku.png"  /></h2>
+				<h1 class="h1 E" itemprop="name">Giecz-grodzisko</h1>
+	       	</hgroup>
+		</header>
+		<section class="pg3-rc"> 					 
+			<h2 class="h1"><img width="183" height="43" alt="Og&amp;oacute;lne informacje" src="/gfx/hOgolneInformacje.png"  /></h2>
+			<dl class="ls7">
+				<dt>Typ zabytku:</dt>
+				<dd>grodzisko</dd>
+				<dt>Chronologia:</dt>
+				<dd>2 poł. IX - 1 poł. XIV w.</dd>
+				<dt>Forma ochrony:</dt>
+				<dd>rejestr zabytków</dd>
+				<dt>Lokalizacja:</dt>
+				<dd itemprop="address" itemscope="itemscope" itemtype="http://schema.org/PostalAddress">
+					<figure>
+					 						<iframe src="http://geoportal.nid.pl/SDIPortal/Map.aspx?gpm=9e29ba96-e450-4830-a87c-35b9f345bb25&navigator=false&scalebar=false&coords=false&bbox=388329.486061936,495896.625748159,388647.400347054,496223.108281113" style="border: medium none; height: 289px; width: 300px;"></iframe>
+					</figure>
+				</dd>
+				<dt>Właściciel praw autorskich:</dt>
+				<dd>Narodowy Instytut Dziedzictwa<br/>Muzeum Pierwszych Piastów na Lednicy<br/>domena publiczna<br/></dd>
+				<dt>Typ licencji:</dt>
+				<dd>CC Uznanie autorstwa-Użycie niekomercyjne-Bez utworów zależnych 3.0 Polska<br/>CC Uznanie autorstwa-Użycie niekomercyjne-Bez utworów zależnych 3.0 Polska<br/>domena publiczna<br/></dd>
+				<dt>Licencja:</dt>
+				<dd><a href="http://creativecommons.org/licenses/by-nc-nd/3.0/pl/legalcode" >http://creativecommons.org/licenses/by-nc-nd/3.0/pl/legalcode</a></dd>
+			</dl>
+			<section style="padding-bottom:15px;"> 						 
+				<h3 class="h6">Powiązane zabytki</h3>
+		        <ul class="ls8">
+		        					</ul>
+			</section>
+ 
+<div style="background:#ffffff; margin:0 0 -16px -20px; padding:30px; width:100%;"> 
+  <div class="md2 B"> 				<a href="http://geoportal.nid.pl/SDIPortal/?bbox=388329.486061936,495896.625748159,388647.400347054,496223.108281113" target="_blank"><img width="220" height="55" alt="Mapy" title="Mapy" src="/gfx/linkMapy3.png"  /></a> 			</div>
+ 
+  <div class="md2 B"> 				<a href="/Przewodnik/Repo/" target="_blank" ><img width="220" height="55" alt="Repo" title="Repo" src="/gfx/linkRepo.png"  /></a> 			</div>
+ 	 </div>
+ 	
+		</section>
+
+		<section class="md9"> 					 
+			<h2 class="h0">Galeria</h2>
+	 		<figure class="md9-img ln4">
+	 				 			<a href="/imgResize.php?scale=4&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAwOC5qcGc=" rel="lightbox" title="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne, widok z lotu ptaka, 2007 r., fot. W. Stępień."><img itemprop="image" alt="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne, widok z lotu ptaka, 2007 r., fot. W. Stępień." title="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne, widok z lotu ptaka, 2007 r., fot. W. Stępień." src="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAwOC5qcGc=" id="image-full"  /> </a>
+	 			<p id="pic_description" style="padding:10px;">Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne, widok z lotu ptaka, 2007 r., fot. W. Stępień.</p>
+	    		<h2 class="h0"> <br /></h2>
+			</figure> 					 
+	  		<div id="sliderGalleryWrapper"> 
+				<ol class="ls10" id="sliderGallery">
+					
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAwMS5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAwMS5qcGc=" alt="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne z fundamentami palatium z 1 poł. XI w. oraz pozostałościami zespołu dworskiego z XIX w., widok od południa, 1998 r." title="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne z fundamentami palatium z 1 poł. XI w. oraz pozostałościami zespołu dworskiego z XIX w., widok od południa, 1998 r."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-001.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-001.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAwMi5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAwMi5qcGc=" alt="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne z fundamentami palatium z 1 poł. XI w. oraz pozostałościami zespołu dworskiego z XIX w., widok od pd-wsch., 1998 r." title="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne z fundamentami palatium z 1 poł. XI w. oraz pozostałościami zespołu dworskiego z XIX w., widok od pd-wsch., 1998 r."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-002.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-002.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAwMy5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAwMy5qcGc=" alt="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne z fundamentami palatium z 1 poł. XI w. oraz pozostałościami zespołu dworskiego z XIX w., widok od północy, 1998 r." title="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne z fundamentami palatium z 1 poł. XI w. oraz pozostałościami zespołu dworskiego z XIX w., widok od północy, 1998 r."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-003.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-003.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAwNC5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAwNC5qcGc=" alt="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne z fundamentami palatium z 1 poł. XI w. oraz pozostałościami zespołu dworskiego z XIX w., widok od pd-zach., 1998 r." title="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne z fundamentami palatium z 1 poł. XI w. oraz pozostałościami zespołu dworskiego z XIX w., widok od pd-zach., 1998 r."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-004.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-004.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAwNS5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAwNS5qcGc=" alt="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne, widok ogólny, fot. józef Pilch, 1963 r. " title="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne, widok ogólny, fot. józef Pilch, 1963 r. "/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-005.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-005.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAwNi5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAwNi5qcGc=" alt="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne, fundamenty palatium i kaplicy z 1 poł. XI w. odsłonięte w latach 1949 – 1959, fot. Józef Pilch, 1963 r. " title="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne, fundamenty palatium i kaplicy z 1 poł. XI w. odsłonięte w latach 1949 – 1959, fot. Józef Pilch, 1963 r. "/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-006.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-006.jpg&width=60&height=60"/></li> -->
+									
+											<li><a href="/getDocument.php?doc=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAwNy5QREY=&typ=PDF"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAwNy5QREY=&typ=PDF" alt="Giecz, woj. wielkopolskie. Odpis orzeczenia władzy konserwatorskiej z 22.12.1932 r. o uznaniu za zabytek grodziska w Gieczu." title="Giecz, woj. wielkopolskie. Odpis orzeczenia władzy konserwatorskiej z 22.12.1932 r. o uznaniu za zabytek grodziska w Gieczu."  /></a></li>
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAwOS5KUEc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAwOS5KUEc=" alt="Giecz, woj. wielkopolskie. Widok z wałów grodziska na zrekonstruowaną średniowieczną osadę przygrodową; fot. T. Krysztofiak." title="Giecz, woj. wielkopolskie. Widok z wałów grodziska na zrekonstruowaną średniowieczną osadę przygrodową; fot. T. Krysztofiak."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-009.JPG&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-009.JPG&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAxMC5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAxMC5qcGc=" alt="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne, fundamenty palatium z  X/XI w.; fot. P. Namiota." title="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne, fundamenty palatium z  X/XI w.; fot. P. Namiota."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-010.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-010.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAxMS5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAxMS5qcGc=" alt="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne, badania archeologiczne przy kościele grodowym, prowadzone przez Muzeum Pierwszych Piastów na Lednicy; fot. T. Krysztofiak." title="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne, badania archeologiczne przy kościele grodowym, prowadzone przez Muzeum Pierwszych Piastów na Lednicy; fot. T. Krysztofiak."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-011.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-011.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAxMi5KUEc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAxMi5KUEc=" alt="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne, romański kościół Wniebowzięcia NMP i św. Mikołaja z XII/XIII w.; fot. T. Krysztofiak." title="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne, romański kościół Wniebowzięcia NMP i św. Mikołaja z XII/XIII w.; fot. T. Krysztofiak."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-012.JPG&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-012.JPG&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAxMy5KUEc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAxMy5KUEc=" alt="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne, paradny szyszak typu ruskiego z X/XI w.; fot. M. Jórdeczka." title="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne, paradny szyszak typu ruskiego z X/XI w.; fot. M. Jórdeczka."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-013.JPG&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-013.JPG&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAxNC5KUEc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAxNC5KUEc=" alt="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne, miecz żelazny z inskrypcją, X w.; fot. M. Jóźwikowska." title="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne, miecz żelazny z inskrypcją, X w.; fot. M. Jóźwikowska."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-014.JPG&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-014.JPG&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAxNS5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAxNS5qcGc=" alt="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne, stilus z brązu, XI-XII w.; fot. P. Namiota." title="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne, stilus z brązu, XI-XII w.; fot. P. Namiota."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-015.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-015.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAxNi5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAxNi5qcGc=" alt="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne, zbiór metalowych odważników, fot. M. Jóźwikowska." title="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne, zbiór metalowych odważników, fot. M. Jóźwikowska."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-016.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-016.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAxNy5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAxNy5qcGc=" alt="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne, naszyjnik z koralików z kryształu górskiego, XI-XII w.; fot. P. Namiota." title="Giecz, woj. wielkopolskie. Grodzisko wczesnośredniowieczne, naszyjnik z koralików z kryształu górskiego, XI-XII w.; fot. P. Namiota."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-017.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGiecz-grodzisko%2FNID-archeo-Giecz_grodzisko-017.jpg&width=60&height=60"/></li> -->
+									
+											<li><a href="/getDocument.php?doc=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAxOC5wZGY=&typ=PDF"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2llY3otZ3JvZHppc2tvL05JRC1hcmNoZW8tR2llY3pfZ3JvZHppc2tvLTAxOC5wZGY=&typ=PDF" alt="Giecz, woj. wielkopolskie. <br/>
+Tekst: Teresa Krzysztofiak, <i>Gród Piastowski w Gieczu (Oddział Muzeum Pierwszych Piastów na Lednicy) – rezerwat archeologiczny </i>." title="Giecz, woj. wielkopolskie. <br/>
+Tekst: Teresa Krzysztofiak, <i>Gród Piastowski w Gieczu (Oddział Muzeum Pierwszych Piastów na Lednicy) – rezerwat archeologiczny </i>."  /></a></li>
+													</ol>
+				<footer> 							 
+		          	<ul class="ls9"> 								 
+		            	<li class="next"><a href="#sliderGallery" ><img width="25" height="10" alt="Pokaż kolejne zdjęcia" title="Pokaż kolejne zdjęcia" src="/gfx/arrBottomRed1.png"  /></a></li>
+		           		<li class="prev"><a href="#sliderGallery" ><img width="25" height="10" alt="Pokaż poprzednie zdjęcia" title="Pokaż poprzednie zdjęcia" src="/gfx/arrTopRed1.png"  /></a></li>
+					</ul>
+				</footer>
+			</div>
+		</section>
+		<section> 					 
+			<h2 class="h6">Opis zabytku:</h2>
+	     	<div class="text B" itemprop="description">Rezerwat Archeologiczny Gród Piastowski  w Gieczu obejmuje swoją opieką pozostałości jednego z najwcześniejszych i najważniejszych grodów piastowskich. Jest on głównym historycznym miejscem usytuowanym na południowej nitce Szlaku Piastowskiego, stanowi również jeden z ważniejszych punktów na mapie Szlaku Romańskiego.<br/>
+W 1932 r. grodzisko zostało uznane za zabytek (nr rej. 6). Od końca roku 1984 rezerwat w Gieczu jest jednym z oddziałów Muzeum Pierwszych Piastów na Lednicy. <br/>
+Powierzchnia obecnego rezerwatu wynosi ok. 7 ha. Centralnym miejscem jest grodzisko o pow. ok. 3,5 ha (wraz z obwałowaniami) z przedwalem północnym i południowym oraz przylegającymi do nich od strony wschodniej podmokłymi łąkami – pozostałością po nieistniejącym już dzisiaj jeziorze. <br/>
+
+<b>Historia grodu w Gieczu</b>
+<br/>	Giecz – gród wzniesiony przez Piastów na półwyspie zachodniego brzegu obszernych rozlewisk rzeki Moskawy - jednego z prawych dopływów Warty - jest ośrodkiem, którego duże znaczenie w okresie tworzenia się państwa polskiego oraz niezaprzeczalną rangę tego ośrodka w czasach późniejszych poświadczają stosunkowo liczne źródła pisane. W „Kronice polskiej” Gall Anonim wspomina gród w Gieczu, obok Poznania, Gniezna i Włocławka, jako z najważniejszych miejsc, skąd pochodziła znaczna część drużyny Bolesława Chrobrego w liczbie 300 drużynników i 2000 tarczowników. Zajęcie Giecza przez księcia czeskiego Brzetysława podczas jego najazdu na Wielkopolskę (1038), opisane przez czeskiego dziejopisa Kosmasa w jego „Kronice”, z uwagi na okoliczności tego wydarzenia, z którym związany był brak jakiegokolwiek oporu ze strony załogi grodu, stanowi bardzo wyraźną górną granicę funkcjonowania ośrodka jako grodu książęcego. Mieszkańcy grodu oraz ludność zamieszkująca pobliskie osady została przesiedlona do Czech, a opustoszony gród został spalony. <br/>
+	Nie oznaczało to bynajmniej, że w późniejszych czasach utracił on znaczenie. Po restytucji monarchii Giecz stał się siedzibą rozległej kasztelanii, na terenie której dochodziło do spotkań książąt piastowskich, na których podejmowano ważne decyzje polityczne, z których najbardziej znaną jest podział wpływów między książętami piastowskimi na terenie Wielkopolski (1253). Swoją wymowę ma również znaczące miejsce Giecza w kościelnej strukturze administracyjnej, czego przejawem było ustanowienie kościoła grodowego kościołem tytularnym archidiakonatu poznańskiego większego (1298). <br/>
+
+<b>Opis grodu</b>
+<br/>
+Obecne grodzisko znajduje się na zachodnich obrzeżach wioski. Zajmująca powierzchnię ok. 3,6 ha pozostałość grodu sprawia i dziś imponujące wrażenie. Jego wnętrze o powierzchni ok. 1,6 ha otoczone jest owalnym pierścieniem drewniano-ziemnego nasypu wałowego wyniesionym ponad poziom otaczających je obecnie łąk i pól uprawnych na wysokość sięgającą miejscami nieco powyżej 8 m. Stulecia, jakie minęły od opuszczenia grodu w stosunkowo nieznacznym stopniu wpłynęły na przekształcenie jego wczesnośredniowiecznej postaci. <br/>
+<b>Gródek „plemienny” (2. poł. IX w. – lata 20. X w.). </b>Początki grodu w Gieczu sięgają lat 60. IX stulecia. Tak wczesna metryka wyróżnia giecki ośrodek na tle innych centrów władzy domeny piastowskiej. Najstarsza giecka warownia obejmowała swoim zasięgiem jedynie północną część półwyspu. Wykreślono ją na planie mniej lub bardziej regularnego okręgu o zewnętrznej średnicy ok. 70 m z wnętrzem o średnicy ok. 45 m. Najstarszy giecki gród pod względem wymiarów nie odbiegał od zauważalnej na obszarze całej Wielkopolski okresu przedpaństwowego tendencji do wznoszenia niedużych, a w jej centralnej części, stosunkowo rzadko rozmieszczonych, ośrodków grodowych, które zostały zniszczone planową piastowską akcją w 1. połowie X stulecia. Niewielki zakres prac wykopaliskowych przeprowadzonych do tej pory na majdanie grodu uniemożliwia na obecnym stanie badań podjęcie jakiejkolwiek próby umiejscowienia bramy grodowej, jak i ustalenia zagospodarowania wnętrza plemiennego Giecza. <br/>
+<b>Gród wczesnopaństwowy (2 ćw. X w. – lata 30. XI w.)</b> Okres przełomu, jaki dokonywał się w Wielkopolsce w 1. połowie X stulecia, a polegający na niszczeniu plemiennych struktur osadniczych opartych na licznych małych grodach z jednoczesną budową na ziemi gnieźnieńskiej nowych, obszernych założeń grodowych, nie tylko oszczędził niewielki gródek znajdujący się na półwyspie jeziora gieckiego. Wręcz przeciwnie, podjęto decyzję o włączeniu go w struktury organizacyjne formującego się państwa, przez co stał się jednym z ośrodków władzy książęcej ze wszystkimi wynikającymi z tego faktu konsekwencjami. Gród zaczął odgrywać istotną rolę polityczną, ekonomiczną, religijną oraz militarną. <br/>
+Ok. roku 925 Giecz stał się potężną dwuczłonową twierdzą. Przebudowano mały gród „wyjściowy”: powiększono jego wnętrze poprzez przesunięcie wcześniejszego zrębu umocnień na zewnątrz oraz oblicowanie zewnętrznego stoku nowego wału starannie skonstruowanym płaszczem kamiennym. Jednocześnie (lub w niewielkim odstępie czasu) dobudowano do niego od południa drewniano-ziemne konstrukcje obronne obejmujące swym zasięgiem pozostałą partię półwyspu. Powstały w ten sposób drugi człon grodu otaczał wał o szerokości podstawy ok. 16 m zbudowany z kilku stosów wzniesionych w konstrukcji rusztowej. Najniższe partie stosu zewnętrznego dodatkowo wzmacniała konstrukcja hakowa. <br/>
+W latach 80. X w., przy zachowaniu dwuczłonowego podziału warowni, powiększono jej wnętrze przesuwając linię umocnień na zewnątrz. Podstawę nasypu poszerzono do ok. 21 m. Pod koniec X stulecia grodowi w Gieczu, podobnie jak i innym grodom centralnym, nadano więc bardziej monumentalny i reprezentacyjny charakter. Dokonano tego również poprzez zagospodarowanie jej wnętrza architekturą kamienną. <br/>
+W tym czasie w południowej części grodu podjęto budowę palatium, co jednoznacznie świadczy o reprezentacyjno-rezydencjonalnej funkcji Giecza. Z nieznanych przyczyn realizację tej inwestycji przerwano już na poziomie fundamentów. Zarys budowli odpowiada planowi kamiennej rezydencji wzniesionej na niedalekim Ostrowie Lednickim. Projekt giecki przewyższa ją jednak swoim rozmachem. Niestety, imponującą w zamierzeniach budowniczych inwestycję giecką znacznie zredukowano do funkcjonującego do najazdu księcia Brzetysława (1038) drewnianej budowli sakralnej posadowionej na fundamentach rotundy – planowanej kamiennej kaplicy pałacowej. <br/>
+Na początku XI stulecia w północnym, tzw. „książęcym”, członie grodu wzniesiono natomiast kamienny kościół św. Jana Chrzciciela wyróżniający się na tle innych wczesnopiastowskich fundacji wyjątkową architekturą. Ujawnione w jego wschodniej części relikty unikatowej krypty relikwiarzowej wskazują na znaczną rangę świątyni oraz szerszy niż lokalny zasięg jej oddziaływania. Najprawdopodobniej jeszcze w okresie monarchii wczesnopiastowskiej do zachodniej ściany nawy dobudowany został imponujący trójczłonowy masyw złożony z dwóch okrągłych wież ze spiralnymi klatkami schodowymi flankującymi od północy i południa w planie prostokątne, prawie kwadratowe, pomieszczenie międzywieżowe. <br/>
+Kryzys monarchii i wiążące się z nim najazdy zewnętrzne zachwiały podstawami organizacyjnymi państwa pierwszych Piastów. Giecz odczuł je podobnie, jak inne wczesnopiastowskie ośrodki centralne. Zniszczenie grodu przez księcia czeskiego Brzetysława (1038) oraz przesiedlenie jego mieszkańców do Czech nie wpłynęło w szczególny sposób na dalsze dzieje tego ośrodka. Po restytucji monarchii został on włączony struktury odradzającego się państwa jako siedziba prężnej, rozległej kasztelanii. <br/>
+<b>Gród kasztelański (2. poł. XI w. – 1 poł. XIV w.). </b> W 2. połowie XI w. odbudowano konstrukcje obronne grodu oraz dokonano renowacji kamiennego kościoła p.w. św. Jana Chrzciciela. 
+W późniejszym okresie (XII-XIII w.) zrealizowano przy nim szereg inwestycji wzbogacających dotychczasową architekturę obiektu oraz wzniesiono w jego sąsiedztwie kolejne kamienne budowle. Zakres tych przedsięwzięć niewątpliwie wpłynął na podjęcie decyzji o niwelacji wału wewnętrznego ograniczającego zasięg przedsięwziętych inwestycji. Gród przestał istnieć w swej dwuczłonowej postaci najprawdopodobniej na przełomie XII/XIII w. lub najpóźniej w 1. poł. XIII w. Jednakże z nie do końca wyjaśnionych przyczyn w ciągu XIII stulecia Giecz powoli tracił na znaczeniu, czego pochodną było jego pominięcie w podejmowanych w tym czasie decyzji o lokacji miast. Ośrodki miejskie, powstałe w niedalekiej odległości od Giecza (np. Środa Wielkopolska, Kostrzyn) przejęły funkcje administracyjne, sądownicze i gospodarcze grodu. Znaczenie potężnej niegdyś warowni okrojone zostało do jednej funkcji. Z kościołem parafialnym św. Jana Chrzciciela opuszczone grodzisko stało się jednym z wielu lokalnych ośrodków kultu religijnego. Nazwę grodu przejmuje wieś powstała na miejscu dawnej osady targowej. Jedynie górujące nad równinną okolicą imponujące pozostałości umocnień grodowych są materialnym dowodem niegdysiejszej świetności miejsca. <br/>
+
+<b>Otoczenie grodu</b>
+<br/>
+W okolicy grodu w Gieczu znajdowały się osady otwarte. Już w okresie przedpaństwowym zauważalne jest większe zagęszczenie osadnictwa w okolicy jeziora gieckiego, niż na innych obszarach Wielkopolski centralnej. W okresie monarchii piastowskiej sieć osad wokół grodu się zagęszcza. Wcześniejsze osiedla, rozbudowane, funkcjonują nadal – teraz już w ścisłym ekonomicznym związku 
+z grodem. <br/>
+Jedną z nich była osada (o najprawdopodobniej targowym charakterze) położona po wschodniej stronie jeziora. W 2. poł. XI w. w jej centrum wzniesiono niewielki kamienny kościół Wniebowzięcia NMP i św. Mikołaja. Pod koniec XII stulecia świątynia ta została zastąpiona większą budowlą, zbudowaną z kostki granitowej, której bryła od stuleci dominuje nad obecną wioską. <br/>
+Osada ta była od lat 30. XI w. połączona z grodem dwutraktowym mostem długości ok. 150 m, który miał za zadanie nie tylko ułatwić komunikację lokalną. Przeprawa ta stała się bowiem silnie bronionym odcinkiem dalekosiężnego szlaku komunikacyjno-handlowego łączącego centrum państwa piastowskiego z jego wschodnimi rubieżami, co przyczyniło się również do dużego ekonomicznego znaczenia Giecza. <br/>
+W 2. poł. XI w. na północ od grodu, w miejscu o wcześniejszym przypuszczalnie kultowym charakterze (funkcjonującym już od VIII w.), założono cmentarz ludności zamieszkującej gród oraz jego bezpośrednie zaplecze. Nekropola ta funkcjonowała co najmniej do końca XII w. Do tej pory rozpoznana została tylko południowa część nekropoli, którą otoczono od strony grodu drewnianym płotem palisadowym. Bogaty i różnorodny zestaw przedmiotów, jaki odkryto na stanowisku wskazuje na kierunki, z których szły impulsy kształtujące kulturę elitarną ówczesnego społeczeństwa zamieszkującego gród i jego okolice. Znajduje się w nim spora grupa importów, wśród których liczny jest też zestaw znalezisk unikatowych. <br/>
+W oparciu o wyniki najnowszych badań archeologicznych zaprzeczyć należy tezie o krótkotrwałej randze grodu, ograniczonej tylko do okresu monarchii wczesnopiastowskiej. Ujawniona ciągłość dużego znaczenia ośrodka gieckiego trwającego przez cały okres panowania dynastii Piastów 
+w powiązaniu z wyjątkową, bo sięgającą okresu przedpaństwowego, genezą grodu daje podstawy do postawienia hipotezy identyfikującej Giecz z rodową siedzibą Piastów. <br/>
+
+<b>Ekspozycja muzealna</b>
+<br/>
+Po gruntownej rozbudowie przeprowadzonej w latach 2009/10 rezerwat dysponuje 2 salami ekspozycyjnymi. W pierwszej z nich, znajdującej się w budynku usytuowanym na grodzisku, mieści się wystawa stała „Terra sancta – Giecz w monarchii piastowskiej”, na której zapoznać się można 
+z historią ośrodka grodowego w Gieczu. Spośród bogatego zestawu zabytków, którymi archeologów obdarzyła giecka ziemia, wybrano fragment licznego zbioru przedmiotów o charakterze luksusowym. Jego znaczną część stanowią okazy unikatowe, których obecność nie tylko dobitnie poświadcza rangę ośrodka grodowego w Gieczu, ale też potwierdza jego wyjątkowość. <br/>
+Druga sala ekspozycyjna, znajdująca się w budynku znajdującym się na zewnątrz grodziska, na terenie podwala południowego zaadaptowanego do działalności edukacyjnej, przeznaczona jest na wystawy czasowe. W sezonie 2011/2012 eksponowana w niej jest wystawa „Kościół, który zbudowali aniołowie” poświęcona historii romańskiego kościoła Wniebowzięcia NMP i św. Mikołaja 
+w Gieczu opowiedzianej dostępnymi źródłami historycznymi, archiwalnymi rycinami oraz, przede wszystkim, przedmiotami znalezionymi podczas zakończonych już badań wykopaliskowych prowadzonych przy tym zabytku.
+<br/>
+<i>Oprac. T. Krzysztofiak</i></div>
+		</section>
+		<footer> 					 
+			<p style="margin-top:10px;"><a href="#" onclick="history.go(-1)" class="ln7" >Powr&oacute;t</a></p>
+		</footer>
+<section> 
+    <ul class="list h ls4" style="margin-top:20px;"> 						 
+      <li><a onclick="print('.pg3')" class="ln3 print" style="cursor:pointer;" >Drukuj artykuł</a></li>
+     						 
+      <li><a href="http://www.facebook.com/sharer.php?u=http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=36" class="ln3 fb" style="cursor:pointer;" >Publikuj na Facebooku</a></li>
+     						 					</ul>
+</section>
+	</article>
+
+
+	
+	
+	
+	
+	
+	
+	</div>
+  
+  
+  
+  <hr/> 		 
+  
+   		 		<hr/> 
+    <div id="sidebar2"> 			<section> 				 
+        <h1 class="h1 C"><img width="269" height="29" alt="Nowe zabytki" title="Nowe zabytki" src="/gfx/hNoweZabytki.png"  /></h1>
+       				 
+        <div id="sliderMonumetsWrapper" class="md7"> 					 
+          <div id="sliderMonumets"> 					 
+            <div class="line">
+            
+            			    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Frombork - zespół katedralny</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=60'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvRnJvbWJvcmtfLV96ZXNww7PFgl9rYXRlZHJhbG55L05JRC1wb21oaXMtRnJvbWJvcmstMDAzLmpwZw==" alt="Frombork - zespół katedralny" itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Zesp&oacute;ł katedralny we Fromborku został uznany za pomnik...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=60">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Bohoniki i Kruszyniany - mecz...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=205'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvQm9ob25pa2lfaV9LcnVzenluaWFueV8tX21lY3pldHlfaV9taXphcnkvTklELXBvbWhpcy1LcnVzenluaWFueS0wMDMuanBn" alt="Bohoniki i Kruszyniany - mecz..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Meczety i mizary (cmentarze) w Bohonikach i Kruszynianach...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=205">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Katowice - Gmach Województwa ...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=206'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS2F0b3dpY2VfLV9HbWFjaF9Xb2pld8OzZHp0d2FfaV9TZWptdV/FmmzEhXNraWVnby9OSUQtcG9taGlzLUthdG93aWNlX0dtYWNoLTAwMy5qcGc=" alt="Katowice - Gmach Województwa ..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Gmach Wojew&oacute;dztwa i Sejmu Śląskiego w Katowicach to...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=206">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Łowicz - Bazylika Katedralna ...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=207'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvxYFvd2ljel8tX0JhenlsaWthX0thdGVkcmFsbmFfKGRhd25hX0tvbGVnaWF0YV9QcnltYXNvd3NrYSlfcG9kX3dlendhbmllbV9XbmllYm93emnEmWNpYV9OYWrFm3dpxJl0c3plal9NYXJpaV9QYW5ueS9OSUQtcG9taGlzLUxvd2ljei0wMDMuanBn" alt="Łowicz - Bazylika Katedralna ..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Katedra łowicka jest zabytkiem o szczeg&oacute;lnym znaczeniu...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=207">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Sulejów - zespół opactwa cyst...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=208'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvU3VsZWrDs3dfLV96ZXNww7PFgl9vcGFjdHdhX2N5c3RlcnPDs3cvTklELXBvbWhpcy1TdWxlam93LTAwMy5qcGc=" alt="Sulejów - zespół opactwa cyst..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Klasztor obronny w Sulejowie z kościołem, zabudowaniami i...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=208">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Paczków - zespół staromiejski...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=209'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvUGFjemvDs3dfLV96ZXNww7PFgl9zdGFyb21pZWpza2lfemVfxZtyZWRuaW93aWVjem55bV9zeXN0ZW1lbV9mb3J0eWZpa2FjamkvTklELXBvbWhpcy1QYWN6a293LTAwNC5qcGc=" alt="Paczków - zespół staromiejski..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Mury Paczkowa należą do najlepiej zachowanych średniowiecznych...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=209">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Strzegom - kościół pod wezwan...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=204'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvU3RyemVnb21fLV9rb8WbY2nDs8WCX3BvZF93ZXp3YW5pZW1fxZt3Ll9BcG9zdG/FgsOzd19QaW90cmFfaV9QYXfFgmEvTklELXBvbWhpcy1TdHJ6ZWdvbS0wMDEuanBn" alt="Strzegom - kościół pod wezwan..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Strzegomski kości&oacute;ł pod wezwaniem Świętych Apostoł&oacute;w...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=204">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Warszawa - Zamek Królewski</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=201'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDAyLmpwZw==" alt="Warszawa - Zamek Królewski" itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p class="Default"><strong>Zamek średniowieczny<br /></strong>Powstanie...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=201">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Tarnowskie Góry - podziemia z...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=71'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVGFybm93c2tpZV9Hw7NyeV8tX3BvZHppZW1pYV96YWJ5dGtvd2VqX2tvcGFsbmlfcnVkX3NyZWJyb25vxZtueWNoX29yYXpfc3p0b2xuaV9DemFybmVnb19Qc3RyxIVnYS9OSUQtcG9taGlzLVRhcm5vd3NraWVfR29yeS0wMDUuanBn" alt="Tarnowskie Góry - podziemia z..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Podziemia zabytkowej kopalni rud srebronośnych oraz sztolni...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=71">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Kalwaria Zebrzydowska - krajo...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=72'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS2Fsd2FyaWFfWmVicnp5ZG93c2thXy1fa3Jham9icmF6b3d5X3plc3DDs8WCX21hbmllcnlzdHljem5lZ29fcGFya3VfcGllbGdyenlta293ZWdvL05JRC1wb21oaXMtS2Fsd2FyaWFfWmVicnp5ZG93c2thLTAwMy5qcGc=" alt="Kalwaria Zebrzydowska - krajo..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Kalwaria Zebrzydowska &ndash; unikatowe sanktuarium pasyjno-maryjne...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=72">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Twierdza Srebrnogórska - nowo...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=73'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVHdpZXJkemFfU3JlYnJub2fDs3Jza2FfLV9ub3dvxbx5dG5hX3dhcm93bmlhX2fDs3Jza2Ffel9YVklJSV93aWVrdS9OSUQtcG9taGlzLVNyZWJybmFfR29yYS0wMDcuanBn" alt="Twierdza Srebrnogórska - nowo..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Twierdza Srebrnog&oacute;rska została uznana za pomnik historii...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=73">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Kazimierz Dolny</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=74'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS2F6aW1pZXJ6X0RvbG55L05JRC1wb21oaXMtS2F6aW1pZXJ6X0RvbG55LTAwNC5qcGc=" alt="Kazimierz Dolny" itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Kazimierz Dolny &ndash; niewielka miejscowość położona w...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=74">zabytek</a></p>	
+			    	</article>
+						
+			
+            
+            </div>
+         								</div><footer> 						 
+            <ul class="list h ls3"> 							 
+              <li class="next"><a href="zabytki.html" ><img width="10" height="25" alt="Pokaż następne zabytki" title="Pokaż następne zabytki" src="/gfx/arrRightRed1.png"  /></a></li>
+             							 
+              <li class="prev"><a href="zabytki.html" ><img width="10" height="25" alt="Pokaż poprzednie zabytki" title="Pokaż poprzednie zabytki" src="/gfx/arrLeftRed1.png"  /></a></li>
+             						</ul>
+           					</footer> 	
+       			</section> 		</div>
+   
+<!-- KONIEC -->
+		 </div>
+<div style="clear:both;"></div>
+</div></div>
+ 		<hr/> 		
+
+<div style="background-color:#1a0022; min-width:1146px;">
+<footer id="footer"> 			
+    <p class="copyright">Copyright &copy; 2011 <b>Portal Mapowy</b></p>
+   <div class="nagrody"><a href="/Nowosci/news.php?ID=1202"><img src="/gfx/nagrody1.png" width="354" height="35"></a></div>						
+    <div class="line"> 				
+      <div class="unit md3" itemtype="http://schema.org/GovernmentOrganization" itemscope="itemscope"> 					
+        <h1 class="h3" itemprop="name">Narodowy Instytut Dziedzictwa</h1>
+       					
+        <div class="md3-media"> 						<img itemprop="image" width="219" height="57" alt="Narodowy Instytut Dziedzictwa" src="/gfx/logoNID2.png"  /> 					</div>
+       					
+      <p itemtype="http://schema.org/PostalAddress" itemscope="" itemprop="address"><span itemprop="streetAddress">ul. Kopernika 36/40</span>, <span itemprop="postalCode">00-924</span> <span itemprop="addressLocality">Warszawa</span></p>
+       					
+        <p>tel. <span itemprop="telephone">+48 22 826 02 39</span>, <span itemprop="telephone">22 826 92 47</span>, fax: <span itemprop="faxNumber">+48 22 826 17 14</span></p>
+ <p>e-mail. <a href="mailto:portal_mapowy@nid.pl">portal_mapowy@nid.pl</a></p>
+ <p><a href="http://www.zabytek.pl">www.zabytek.pl</a>, <a href="http://www.nid.pl">www.nid.pl</a></p>
+       				</div>
+     				
+      <div class="unit md4"> 					
+        <h1 class="h2 C"><img width="209" height="18" alt="Czekamy na TwĂłj komentarz" src="/gfx/hCzekamyNaTwojKomentarz.png"  /></h1>
+       					
+        <p>Masz uwagi co do działania portalu lub chcesz skontaktować się z nami w innej sprawie? <a href="/Kontakt/" class="ln1" >Napisz do nas</a></p>
+       				</div>
+     				
+      <ul class="unit md5"> 					
+        <li><a href="/" ><img width="116" height="45" alt="Portal Mapowy" src="/gfx/logoPM2.png"  /></a></li>
+        <li><a href="http://tnij.org/nid_apk"><img width="119" height="41" src="/gfx/google_play_logo.png" alt="Google Play"></a></li>
+        <li class="rss"><a href="/news.php" ><img alt="RSS" src="/gfx/icoRSS.png"  /></a></li>
+       				</ul>
+     			</div>
+   			
+    <div class="widget_container"> 				
+      <div class="widget_social"> 					<img src="/gfx/ico_fcb.gif" border="0" id="facebookIco"  /> 					
+        <div style="float: left; margin: 0pt;"> 						
+<script type="text/javascript" src="/js/pl_PL"></script>
+ 						
+<script	type="text/javascript">FB.init();</script>
+ 						<fb:fan height="330" width="190" logobar="1" connections="6" stream="0" profile_id="200305476647255"></fb:fan> 					</div>
+       				</div>
+     			</div>
+   			 	<div class="yt_container"><a href="http://www.youtube.com/tvNID" target="_blank" ><img src="/gfx/youtube.gif" border="0" id="YouTubeIco"  /></a></div>
+<script	type="text/javascript">
+				$('.widget_container').hover(function() {
+					$('.widget_container').css('overflow', 'visible');
+					$(this).stop().animate({
+						width: '250px'
+					}, 1000, null, function() { $('.widget_container').css('overflow', 'hidden'); });
+				}, function() {
+					$('.widget_container').css('overflow', 'hidden');
+					$(this).stop().animate({
+						width: '38px'
+					}, 1000);
+				});
+			</script>
+ 		</footer>
+<div style="background-color:#1a0022;height:70px;border-top:1px solid #CE003A;"></div> 
+</div>
+
+		</div>
+ 
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="/js/jquery.scrollTo-min.js"></script>
+
+<script src="/js/jquery.serialScroll-min.js"></script>
+ 	
+<script src="/js/sliders.js"></script>
+ 
+<script language="javascript" src="/js/jquery.printElement.min.js"></script>
+ 
+<script language="javascript" src="/js/pixastic.custom.js"></script>
+ 
+<script language="javascript" src="/js/print.js"></script>
+<script language="javascript" src="/js/lightbox.js"></script> 
+<script language="javascript" src="/js/grayScale.js"></script>
+<script language="javascript" src="/js/nid.js"></script>
+<script type="text/javascript" src="/ajax/kontakt/jquery.colorbox.js"></script>
+
+<script language="javascript">
+$(document).ready(function () {
+
+        $(".inline-pop").colorbox({inline:true, width:"413", height:"195"});
+		
+		
+});
+
+
+
+        $("ul.subnav").parent().append(""); //Only shows drop down trigger when js is enabled (Adds empty span tag after ul.subnav*)  
+      
+        $("ul.topnav li a").hover(function() { //When trigger is clicked...  
+      
+            //Following events are applied to the subnav itself (moving subnav up and down)  
+            $(this).parent().find("ul.subnav").slideDown('fast').show(); //Drop down the subnav on click  
+      
+            $(this).parent().hover(function() {  
+            }, function(){  
+                $(this).parent().find("ul.subnav").slideUp('slow'); //When the mouse hovers out of the subnav, move it back up  
+            });  
+      
+            //Following events are applied to the trigger (Hover events for the trigger)  
+            }).hover(function() {  
+                $(this).addClass("subhover"); //On hover over, add class "subhover"  
+            }, function(){  //On Hover Out  
+                $(this).removeClass("subhover"); //On hover out, remove class "subhover"  
+        });  
+
+
+</script>
+
+<script type="text/javascript">
+ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37373671-1']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
+</script>
+
+ </body>
+</html>http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=36

@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<html lang="pl" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width" /><!-- fixes CSS query min/max width on mobile -->
+<meta property="og:image" content='http://93.159.33.89/imgResize.php?scale=4&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDE2LmpwZw==' />
+<meta property="og:title" content="Maleniec - zakład metalurgiczny" />
+<meta property="og:description" content="Maleniec - zakład metalurgiczny" /> 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="Zabytki" />
+<meta name="description" content="NID Main Site" />
+<link href="/bitrix/js/main/core/css/core.css?1354612059" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/components/bitrix/menu/nid_horizontal_multilevel/style.css?1348129813" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/.default/components/bitrix/breadcrumb/.default/style.css?1333627633" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/styles.css?1389950861" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/template_styles.css?1389950861" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/bitrix/js/main/core/core.js?1390241314"></script>
+<script type="text/javascript">BX.message({'LANGUAGE_ID':'en','FORMAT_DATE':'DD/MM/YYYY','FORMAT_DATETIME':'DD/MM/YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','USER_ID':'','SERVER_TIME':'1397919397','SERVER_TZ_OFFSET':'7200','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'2f52f0e62be2b1979023757e4fdccc78','SITE_ID':'10','JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In'})</script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ajax.js?1390241314"></script>
+<script type="text/javascript" src="/bitrix/js/main/session.js?1390241314"></script>
+<script type="text/javascript">
+bxSession.Expand(1440, '2f52f0e62be2b1979023757e4fdccc78', false, '1d772baac9943c1e1cf032c56ec2e793');
+</script>
+<link rel="shortcut icon" href="/nid.ico" />
+<link href="/styles/lightbox.css" rel="stylesheet" />
+
+<!--[if lt IE 9]><script>;(function(e){for(var i=0;e[i]; i++){document.createElement(e[i]);}})("abbr,article,aside,audio,canvas,datalist,details,summary,figure,figcaption,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(','));</script><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="Zabytki" />
+<meta name="description" content="NID Main Site" />
+<link href="/bitrix/js/main/core/css/core.css?1354612059" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/components/bitrix/menu/nid_horizontal_multilevel/style.css?1348129813" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/.default/components/bitrix/breadcrumb/.default/style.css?1333627633" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/styles.css?1389950861" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/template_styles.css?1389950861" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/bitrix/js/main/core/core.js?1390241314"></script>
+<script type="text/javascript">BX.message({'LANGUAGE_ID':'en','FORMAT_DATE':'DD/MM/YYYY','FORMAT_DATETIME':'DD/MM/YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','USER_ID':'','SERVER_TIME':'1397919397','SERVER_TZ_OFFSET':'7200','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'2f52f0e62be2b1979023757e4fdccc78','SITE_ID':'10','JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In'})</script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ajax.js?1390241314"></script>
+<script type="text/javascript" src="/bitrix/js/main/session.js?1390241314"></script>
+<script type="text/javascript">
+bxSession.Expand(1440, '2f52f0e62be2b1979023757e4fdccc78', false, '1d772baac9943c1e1cf032c56ec2e793');
+</script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+
+
+</head>
+<body> 
+<div id="panel"></div>
+ 	
+<div id="main"> 		
+  <div class="skiplinks"><a href="#contentMain" >skocz do treści</a></div>
+ 		<hr/> 		<header id="header"> 			<hgroup> 				
+      <h1><a href="/" ><img width="180" height="70" alt="Portal Mapowy" src="/gfx/logoPortalMapowy.png"  /></a></h1>
+     				
+      <h2><a href="http://www.zabytek.pl" ><img width="275" height="73" alt="Narodowy Instytut Dziedzictwa" src="/gfx/logoNID.png"  /></a></h2>
+     			</hgroup> 			<nav class="nav"> 				
+
+<script src="/bitrix/templates/NID Informacja o zabytku/components/bitrix/menu/nid_horizontal_multilevel/script.js?1390241310" type="text/javascript"></script>
+<ul class="topnav">
+	<li class="strona-glowna "><a href="/" >Strona główna</a></li>    
+	
+		
+	
+	
+		
+							<li class="nowosci "><a href="/Nowosci/">Nowości</a></li>
+			
+		
+	
+	
+		
+	
+	
+		
+							<li class="o-portalu "><a href="/O_portalu/">O portalu</a></li>
+			
+		
+	
+	
+		
+	
+	
+					<li class="przewodnik "><a href="/Przewodnik/">Przewodnik</a>
+				<ul class="subnav">
+		
+	
+	
+		
+	
+	
+		
+												<li class="repo"><a href="/Przewodnik/Zrodla_danych/">Źródła danych</a></li>
+							
+		
+	
+	
+		
+	
+	
+		
+												<li class="mapy"><a href="http://geoportal.nid.pl/SDIPortal/" target="_blank" >Metadane</a></li>
+							
+		
+	
+	
+		
+	
+	
+		
+												<li class="repo"><a href="/Przewodnik/Wspolpraca/">Współpraca</a></li>
+							
+		
+	
+	
+		
+	
+	
+		
+												<li class="repo"><a href="/Przewodnik/Dokumentacja/">Dokumentacja</a></li>
+							
+		
+	
+	
+		
+	
+	
+		
+												<li class="repo"><a href="/Przewodnik/Faq/">FAQ</a></li>
+							
+		
+	
+	
+		
+			</ul></li>	
+	
+		
+							<li class="kalendarium "><a href="/Kalendarium/">Kalendarium</a></li>
+			
+		
+	
+	
+		
+	
+	
+		
+							<li class="sluzba-ochrony-zabytkow "><a href="/Sluzba_Ochrony_Zabytkow/">Służby konserwatorskie</a></li>
+			
+		
+	
+	
+		
+	
+	
+		
+							<li class="regulamin "><a href="/Regulamin/">Regulamin</a></li>
+			
+		
+	
+	
+		
+	
+	
+		
+							<li class="kontakt "><a href="/Kontakt/">Kontakt</a></li>
+			
+		
+	
+	
+
+
+</ul>
+<div class="menu-clear-left"></div>
+
+
+       		 		 
+        <div style="display: none;"> 			 
+          <div id="inline_popup" style="color: rgb(255, 255, 255);"> 
+			<div class="regulamin-pop">
+						<div class="m-20"><img src="/gfx/akceptacja_war.png" alt="" /></div>
+						<div class="ml-20 fs-13">Zapoznałem się z regulaminem, zgadzam się na jego warunki.</div>
+						<div class="mt-32">
+						   <div class="fl ml-20 mt-20"><a target="_blank" href="/Regulamin/">Przeczytaj regulamin</a></div>
+						   <div class="fl ml-20"><a target="_blank" href="http://geoportal.nid.pl"><img src="/gfx/yes_pop.png" alt="" /></a></div>
+						   <div class="fl ml-20"><a href="/"><img src="/gfx/no_pop.png" alt="" /></a></div>
+						   <div class="clr"></div>
+						</div>
+			</div>
+          </div>
+        </div>
+     			</nav> 			<form class="fo1" method="get" action="/Szukaj/"> 				<fieldset> 					<legend><span class="h0">Wyszukiwarka</span></legend> 					
+        <div> 						<label class="h0" for="FS-query">Szukana fraza</label> 						<input type="search" placeholder="Szukaj" id="FS-query" name="q" /> 					</div>
+       				</fieldset> 				
+      <div class="submit"> 					<input type="image" title="Szukaj" alt="Szukaj" src="/gfx/btnSearch.png" name="s" /> 				</div>
+     			</form> 		</header> 		<hr/> 
+
+<div style="background-image:url('/gfx/bgmc.jpg');background-repeat:repeat-x;background-position:bottom; ">				
+  <div id="contentWrapper">
+  
+  
+  
+  <div id="contentMain"><nav id="breadcrumbs"> Portal e-zabytek &gt; <span class="fat">Zabytek</span> </nav>
+ <hr/> 
+	<article class="pg3" itemscope="itemscope" itemtype="http://schema.org/LandmarksOrHistoricalBuildings">
+
+
+
+		
+		    <script language="javascript">
+    			document.title = "e-zabytek - Maleniec - zakład metalurgiczny";
+   			 </script>
+
+
+		<header class="pg3-lc">
+			<hgroup> 						 
+				<h2><img width="383" height="57" alt="Informacja o zabytku" src="/gfx/hInformacjaOZabytku.png"  /></h2>
+				<h1 class="h1 E" itemprop="name">Maleniec - zakład metalurgiczny</h1>
+	       	</hgroup>
+		</header>
+		<section class="pg3-rc"> 					 
+			<h2 class="h1"><img width="183" height="43" alt="Og&amp;oacute;lne informacje" src="/gfx/hOgolneInformacje.png"  /></h2>
+			<dl class="ls7">
+				<dt>Typ zabytku:</dt>
+				<dd>walcownia, kuźnica</dd>
+				<dt>Chronologia:</dt>
+				<dd>XVIII w.</dd>
+				<dt>Forma ochrony:</dt>
+				<dd>rejestr zabytków</dd>
+				<dt>Lokalizacja:</dt>
+				<dd itemprop="address" itemscope="itemscope" itemtype="http://schema.org/PostalAddress">
+					<figure>
+					 						<iframe src="http://geoportal.nid.pl/SDIPortal/Map.aspx?gpm=9e29ba96-e450-4830-a87c-35b9f345bb25&navigator=false&scalebar=false&coords=false&bbox=582518.900302855,369063.507496564,582718.153147893,369228.734640875" style="border: medium none; height: 289px; width: 300px;"></iframe>
+					</figure>
+				</dd>
+				<dt>Właściciel praw autorskich:</dt>
+				<dd>Narodowy Instytut Dziedzictwa<br/></dd>
+				<dt>Typ licencji:</dt>
+				<dd>Uznanie autorstwa-Użycie niekomercyjne-Bez utworów zależnych 3.0 Polska <br/></dd>
+				<dt>Licencja:</dt>
+				<dd><a href="http://creativecommons.org/licenses/by-nc-nd/3.0/pl/" >http://creativecommons.org/licenses/by-nc-nd/3.0/pl/</a></dd>
+			</dl>
+			<section style="padding-bottom:15px;"> 						 
+				<h3 class="h6">Powiązane zabytki</h3>
+		        <ul class="ls8">
+		        					</ul>
+			</section>
+ 
+<div style="background:#ffffff; margin:0 0 -16px -20px; padding:30px; width:100%;"> 
+  <div class="md2 B"> 				<a href="http://geoportal.nid.pl/SDIPortal/?bbox=582518.900302855,369063.507496564,582718.153147893,369228.734640875" target="_blank"><img width="220" height="55" alt="Mapy" title="Mapy" src="/gfx/linkMapy3.png"  /></a> 			</div>
+ 
+  <div class="md2 B"> 				<a href="/Przewodnik/Repo/" target="_blank" ><img width="220" height="55" alt="Repo" title="Repo" src="/gfx/linkRepo.png"  /></a> 			</div>
+ 	 </div>
+ 	
+		</section>
+
+		<section class="md9"> 					 
+			<h2 class="h0">Galeria</h2>
+	 		<figure class="md9-img ln4">
+	 				 			<a href="/imgResize.php?scale=4&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDE2LmpwZw==" rel="lightbox" title="Zakład metalurgiczny w Maleńcu. 
+Budynek szpadlarni i walcowni. Widok od południowego zachodu."><img itemprop="image" alt="Zakład metalurgiczny w Maleńcu. 
+Budynek szpadlarni i walcowni. Widok od południowego zachodu." title="Zakład metalurgiczny w Maleńcu. 
+Budynek szpadlarni i walcowni. Widok od południowego zachodu." src="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDE2LmpwZw==" id="image-full"  /> </a>
+	 			<p id="pic_description" style="padding:10px;">Zakład metalurgiczny w Maleńcu. 
+Budynek szpadlarni i walcowni. Widok od południowego zachodu.</p>
+	    		<h2 class="h0"> <br /></h2>
+			</figure> 					 
+	  		<div id="sliderGalleryWrapper"> 
+				<ol class="ls10" id="sliderGallery">
+					
+											<li><a href="/getDocument.php?doc=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDAxLnBkZg==&typ=PDF"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDAxLnBkZg==&typ=PDF" alt="Zakład metalurgiczny w Maleńcu. 
+Trójwymiarowy model obiektu." title="Zakład metalurgiczny w Maleńcu. 
+Trójwymiarowy model obiektu."  /></a></li>
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDAyLmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDAyLmpwZw==" alt="Maleniec, zakład metalurgiczny.
+Widok na magazyn od strony wschodniej." title="Maleniec, zakład metalurgiczny.
+Widok na magazyn od strony wschodniej."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-002.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-002.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDAzLmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDAzLmpwZw==" alt="Maleniec, zakład metalurgiczny.
+Budynek koła wodnego, widok od strony południowej." title="Maleniec, zakład metalurgiczny.
+Budynek koła wodnego, widok od strony południowej."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-003.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-003.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDA0LmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDA0LmpwZw==" alt="Maleniec. Zakład metalurgiczny.
+Budynek koła wodnego i walcowni. Widok od strony wschodniej." title="Maleniec. Zakład metalurgiczny.
+Budynek koła wodnego i walcowni. Widok od strony wschodniej."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-004.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-004.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDA1LmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDA1LmpwZw==" alt="Zakład metalurgiczny w Maleńcu. 
+Budynek walcowni, widok od strony południowo-zachodniej." title="Zakład metalurgiczny w Maleńcu. 
+Budynek walcowni, widok od strony południowo-zachodniej."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-005.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-005.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDA2LmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDA2LmpwZw==" alt="Zakład metalurgiczny w Maleńcu.
+Budynek walcowni, widok od strony południowej." title="Zakład metalurgiczny w Maleńcu.
+Budynek walcowni, widok od strony południowej."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-006.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-006.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDA3LmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDA3LmpwZw==" alt="Zakład metalurgiczny w Maleńcu. 
+Magazyny. Widok od północy." title="Zakład metalurgiczny w Maleńcu. 
+Magazyny. Widok od północy."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-007.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-007.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDA4LmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDA4LmpwZw==" alt="Zakład metalurgiczny w Maleńcu.
+Kafar, widok od strony północnej." title="Zakład metalurgiczny w Maleńcu.
+Kafar, widok od strony północnej."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-008.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-008.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDA5LmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDA5LmpwZw==" alt="Zakład metalurgiczny w Maleńcu. 
+Wjazd do walcowni. Widok od strony południowej." title="Zakład metalurgiczny w Maleńcu. 
+Wjazd do walcowni. Widok od strony południowej."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-009.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-009.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDEwLmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDEwLmpwZw==" alt="Zakład metalurgiczny w Maleńcu. 
+Budynek szpadlarni. Widok od południa." title="Zakład metalurgiczny w Maleńcu. 
+Budynek szpadlarni. Widok od południa."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-010.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-010.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDExLmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDExLmpwZw==" alt="Zakład metalurgiczny w Maleńcu. 
+Budynek szpadlarni. Widok od południa." title="Zakład metalurgiczny w Maleńcu. 
+Budynek szpadlarni. Widok od południa."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-011.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-011.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDEyLmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDEyLmpwZw==" alt="Zakład metalurgiczny w Maleńcu. 
+Budynek magazynów. Część zachodnia, widok od południa." title="Zakład metalurgiczny w Maleńcu. 
+Budynek magazynów. Część zachodnia, widok od południa."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-012.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-012.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDEzLmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDEzLmpwZw==" alt="Zakład metalurgiczny w Maleńcu. 
+Budynek koła wodnego. Widok od zachodu." title="Zakład metalurgiczny w Maleńcu. 
+Budynek koła wodnego. Widok od zachodu."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-013.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-013.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDE0LmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDE0LmpwZw==" alt="Zakład metalurgiczny w Maleńcu. 
+Wjazd do walcowni. Widok od południa." title="Zakład metalurgiczny w Maleńcu. 
+Wjazd do walcowni. Widok od południa."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-014.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-014.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDE1LmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDE1LmpwZw==" alt="Zakład metalurgiczny w Maleńcu.
+Budynek szpadlarni. Widok od strony południowej." title="Zakład metalurgiczny w Maleńcu.
+Budynek szpadlarni. Widok od strony południowej."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-015.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-015.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDE3LmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDE3LmpwZw==" alt="Zakład metalurgiczny w Maleńcu.
+Torowisko przy magazynach. Widok od strony zachodniej." title="Zakład metalurgiczny w Maleńcu.
+Torowisko przy magazynach. Widok od strony zachodniej."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-017.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-017.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDE4LmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDE4LmpwZw==" alt="Zakład metalurgiczny w Maleńcu. Magazyny." title="Zakład metalurgiczny w Maleńcu. Magazyny."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-018.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-018.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDE5LmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL01vZGVsZV8zRC9NYWxlbmllY18tX3pha8WCYWRfbWV0YWx1cmdpY3pueS9OSUQtM0QtTWFsZW5pZWMtMDE5LmpwZw==" alt="Zakład metalurgiczny w Maleńcu.
+Budynek walcowni. Elewacja północna." title="Zakład metalurgiczny w Maleńcu.
+Budynek walcowni. Elewacja północna."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-019.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FModele_3D%2FMaleniec_-_zak%C5%82ad_metalurgiczny%2FNID-3D-Maleniec-019.jpg&width=60&height=60"/></li> -->
+													</ol>
+				<footer> 							 
+		          	<ul class="ls9"> 								 
+		            	<li class="next"><a href="#sliderGallery" ><img width="25" height="10" alt="Pokaż kolejne zdjęcia" title="Pokaż kolejne zdjęcia" src="/gfx/arrBottomRed1.png"  /></a></li>
+		           		<li class="prev"><a href="#sliderGallery" ><img width="25" height="10" alt="Pokaż poprzednie zdjęcia" title="Pokaż poprzednie zdjęcia" src="/gfx/arrTopRed1.png"  /></a></li>
+					</ul>
+				</footer>
+			</div>
+		</section>
+		<section> 					 
+			<h2 class="h6">Opis zabytku:</h2>
+	     	<div class="text B" itemprop="description">Zakład został wybudowany w końcu XVIII w., za panowania króla Stanisława Augusta Poniatowskiego, przez kasztelana łukowskiego Jacka Jezierskiego, jednego z najbardziej aktywnych ówczesnych przemysłowców polskich. W 1782 r. kasztelan kupił dobra malenieckie koło Końskich. Były tam bogate złoża rudy. Zakupił też Miedzierzę, gdzie istniał już wielki piec. W 1794 r. spiętrzył wody rzeki Czarnej, tworząc staw i wybudował w Maleńcu młyn, tartak, drutarnię oraz fryszernię, a w Kawęczynie wielki piec. Rudę do produkcji wydobywano w Miedzieży oraz okolicznych odkrywkach w Łysej Górze pod Żarnowem. W malenieckim zakładzie wytwarzane były druty, siekiery, topory, żelazne naczynia stołowe i narzędzia gospodarcze. W 1800 r. Jacek Jezierski sprzedał dobra Maleniec księciu Karolowi Hessen – Darmstadt. Nowy właściciel skupił się wyłącznie na czerpaniu zysku z zakładu i nie starał się go modernizować. W 1824 r. właścicielem został Tadeusz Bocheński. W 1839 r. istniały 4 kuźnice wodne, topornia, młot z ogniskiem ogrzewczym i walcownia blachy o dwóch parach walców. Po śmierci Tadeusza, jego brat Józef w 1850 r. zlikwidował ostatecznie fryszerki, a na ich miejsce zainstalował 11 małych i 4 duże gwoździarki. Oprócz gwoździ, produkowano topory, łańcuchy, lemiesze, okładnice do pługów. Kolejny etap modernizacji zakładu w Maleńcu przeprowadził nowy właściciel - Feliks Wielogłowski. Wprowadził on maszyny do produkcji łopat i szpadli. W skład zabudowań fabrycznych wchodziły: walcownia, poruszana dwoma kołami wodnymi, fryszernia, hala wytwórni łańcuchów oraz budynek łopaciarni. Na początku XX wieku Maleniec nabył Felicjan Jankowski, a po nim od 1913 r. ostatnim właścicielem zakładu w Maleńcu była jego córka Helena (Lili) Frölich, która oddała zakład w dzierżawę B. Kozłowskiemu. W 1946 r. zakład został upaństwowiony. Do listopada 1961 r. trwała nieprzerwanie produkcja oparta na zabytkowych maszynach i według starych technologii walcowania. Produkowano tu głównie gwoździe, łopaty, szpadle i okucia okienne. Obecnie w Maleńcu działa Muzeum Techniki.
+Spośród zachowanych do dziś elementów wyposażenia zakładu do najbardziej interesujących zaliczyć trzeba: cykl produkcyjny – walcowania blach oraz wytwarzania z nich narzędzi gospodarczych, hale walcowni, gwoździarni i szpadlarni z 1839 r. oraz unikalne maszyny i koła wodne. Zespół przestrzenny zakładu w Maleńcu składa się z: układu hydroenergetycznego, budynków produkcyjnych, osiedla fabrycznego i drogi tzw. „kasztelańskiej”.
+Jest to reprezentatywny przykład zabytku techniki doby pionierskiej industrializacji Polski.
+</div>
+		</section>
+		<footer> 					 
+			<p style="margin-top:10px;"><a href="#" onclick="history.go(-1)" class="ln7" >Powr&oacute;t</a></p>
+		</footer>
+<section> 
+    <ul class="list h ls4" style="margin-top:20px;"> 						 
+      <li><a onclick="print('.pg3')" class="ln3 print" style="cursor:pointer;" >Drukuj artykuł</a></li>
+     						 
+      <li><a href="http://www.facebook.com/sharer.php?u=http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=45" class="ln3 fb" style="cursor:pointer;" >Publikuj na Facebooku</a></li>
+     						 					</ul>
+</section>
+	</article>
+
+
+	
+	
+	
+	
+	
+	
+	</div>
+  
+  
+  
+  <hr/> 		 
+  
+   		 		<hr/> 
+    <div id="sidebar2"> 			<section> 				 
+        <h1 class="h1 C"><img width="269" height="29" alt="Nowe zabytki" title="Nowe zabytki" src="/gfx/hNoweZabytki.png"  /></h1>
+       				 
+        <div id="sliderMonumetsWrapper" class="md7"> 					 
+          <div id="sliderMonumets"> 					 
+            <div class="line">
+            
+            			    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Frombork - zespół katedralny</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=60'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvRnJvbWJvcmtfLV96ZXNww7PFgl9rYXRlZHJhbG55L05JRC1wb21oaXMtRnJvbWJvcmstMDAzLmpwZw==" alt="Frombork - zespół katedralny" itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Zesp&oacute;ł katedralny we Fromborku został uznany za pomnik...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=60">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Bohoniki i Kruszyniany - mecz...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=205'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvQm9ob25pa2lfaV9LcnVzenluaWFueV8tX21lY3pldHlfaV9taXphcnkvTklELXBvbWhpcy1LcnVzenluaWFueS0wMDMuanBn" alt="Bohoniki i Kruszyniany - mecz..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Meczety i mizary (cmentarze) w Bohonikach i Kruszynianach...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=205">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Katowice - Gmach Województwa ...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=206'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS2F0b3dpY2VfLV9HbWFjaF9Xb2pld8OzZHp0d2FfaV9TZWptdV/FmmzEhXNraWVnby9OSUQtcG9taGlzLUthdG93aWNlX0dtYWNoLTAwMy5qcGc=" alt="Katowice - Gmach Województwa ..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Gmach Wojew&oacute;dztwa i Sejmu Śląskiego w Katowicach to...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=206">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Łowicz - Bazylika Katedralna ...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=207'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvxYFvd2ljel8tX0JhenlsaWthX0thdGVkcmFsbmFfKGRhd25hX0tvbGVnaWF0YV9QcnltYXNvd3NrYSlfcG9kX3dlendhbmllbV9XbmllYm93emnEmWNpYV9OYWrFm3dpxJl0c3plal9NYXJpaV9QYW5ueS9OSUQtcG9taGlzLUxvd2ljei0wMDMuanBn" alt="Łowicz - Bazylika Katedralna ..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Katedra łowicka jest zabytkiem o szczeg&oacute;lnym znaczeniu...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=207">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Sulejów - zespół opactwa cyst...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=208'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvU3VsZWrDs3dfLV96ZXNww7PFgl9vcGFjdHdhX2N5c3RlcnPDs3cvTklELXBvbWhpcy1TdWxlam93LTAwMy5qcGc=" alt="Sulejów - zespół opactwa cyst..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Klasztor obronny w Sulejowie z kościołem, zabudowaniami i...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=208">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Paczków - zespół staromiejski...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=209'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvUGFjemvDs3dfLV96ZXNww7PFgl9zdGFyb21pZWpza2lfemVfxZtyZWRuaW93aWVjem55bV9zeXN0ZW1lbV9mb3J0eWZpa2FjamkvTklELXBvbWhpcy1QYWN6a293LTAwNC5qcGc=" alt="Paczków - zespół staromiejski..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Mury Paczkowa należą do najlepiej zachowanych średniowiecznych...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=209">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Strzegom - kościół pod wezwan...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=204'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvU3RyemVnb21fLV9rb8WbY2nDs8WCX3BvZF93ZXp3YW5pZW1fxZt3Ll9BcG9zdG/FgsOzd19QaW90cmFfaV9QYXfFgmEvTklELXBvbWhpcy1TdHJ6ZWdvbS0wMDEuanBn" alt="Strzegom - kościół pod wezwan..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Strzegomski kości&oacute;ł pod wezwaniem Świętych Apostoł&oacute;w...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=204">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Warszawa - Zamek Królewski</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=201'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDAyLmpwZw==" alt="Warszawa - Zamek Królewski" itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p class="Default"><strong>Zamek średniowieczny<br /></strong>Powstanie...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=201">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Tarnowskie Góry - podziemia z...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=71'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVGFybm93c2tpZV9Hw7NyeV8tX3BvZHppZW1pYV96YWJ5dGtvd2VqX2tvcGFsbmlfcnVkX3NyZWJyb25vxZtueWNoX29yYXpfc3p0b2xuaV9DemFybmVnb19Qc3RyxIVnYS9OSUQtcG9taGlzLVRhcm5vd3NraWVfR29yeS0wMDUuanBn" alt="Tarnowskie Góry - podziemia z..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Podziemia zabytkowej kopalni rud srebronośnych oraz sztolni...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=71">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Kalwaria Zebrzydowska - krajo...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=72'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS2Fsd2FyaWFfWmVicnp5ZG93c2thXy1fa3Jham9icmF6b3d5X3plc3DDs8WCX21hbmllcnlzdHljem5lZ29fcGFya3VfcGllbGdyenlta293ZWdvL05JRC1wb21oaXMtS2Fsd2FyaWFfWmVicnp5ZG93c2thLTAwMy5qcGc=" alt="Kalwaria Zebrzydowska - krajo..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Kalwaria Zebrzydowska &ndash; unikatowe sanktuarium pasyjno-maryjne...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=72">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Twierdza Srebrnogórska - nowo...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=73'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVHdpZXJkemFfU3JlYnJub2fDs3Jza2FfLV9ub3dvxbx5dG5hX3dhcm93bmlhX2fDs3Jza2Ffel9YVklJSV93aWVrdS9OSUQtcG9taGlzLVNyZWJybmFfR29yYS0wMDcuanBn" alt="Twierdza Srebrnogórska - nowo..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Twierdza Srebrnog&oacute;rska została uznana za pomnik historii...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=73">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Kazimierz Dolny</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=74'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS2F6aW1pZXJ6X0RvbG55L05JRC1wb21oaXMtS2F6aW1pZXJ6X0RvbG55LTAwNC5qcGc=" alt="Kazimierz Dolny" itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Kazimierz Dolny &ndash; niewielka miejscowość położona w...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=74">zabytek</a></p>	
+			    	</article>
+						
+			
+            
+            </div>
+         								</div><footer> 						 
+            <ul class="list h ls3"> 							 
+              <li class="next"><a href="zabytki.html" ><img width="10" height="25" alt="Pokaż następne zabytki" title="Pokaż następne zabytki" src="/gfx/arrRightRed1.png"  /></a></li>
+             							 
+              <li class="prev"><a href="zabytki.html" ><img width="10" height="25" alt="Pokaż poprzednie zabytki" title="Pokaż poprzednie zabytki" src="/gfx/arrLeftRed1.png"  /></a></li>
+             						</ul>
+           					</footer> 	
+       			</section> 		</div>
+   
+<!-- KONIEC -->
+		 </div>
+<div style="clear:both;"></div>
+</div></div>
+ 		<hr/> 		
+
+<div style="background-color:#1a0022; min-width:1146px;">
+<footer id="footer"> 			
+    <p class="copyright">Copyright &copy; 2011 <b>Portal Mapowy</b></p>
+   <div class="nagrody"><a href="/Nowosci/news.php?ID=1202"><img src="/gfx/nagrody1.png" width="354" height="35"></a></div>						
+    <div class="line"> 				
+      <div class="unit md3" itemtype="http://schema.org/GovernmentOrganization" itemscope="itemscope"> 					
+        <h1 class="h3" itemprop="name">Narodowy Instytut Dziedzictwa</h1>
+       					
+        <div class="md3-media"> 						<img itemprop="image" width="219" height="57" alt="Narodowy Instytut Dziedzictwa" src="/gfx/logoNID2.png"  /> 					</div>
+       					
+      <p itemtype="http://schema.org/PostalAddress" itemscope="" itemprop="address"><span itemprop="streetAddress">ul. Kopernika 36/40</span>, <span itemprop="postalCode">00-924</span> <span itemprop="addressLocality">Warszawa</span></p>
+       					
+        <p>tel. <span itemprop="telephone">+48 22 826 02 39</span>, <span itemprop="telephone">22 826 92 47</span>, fax: <span itemprop="faxNumber">+48 22 826 17 14</span></p>
+ <p>e-mail. <a href="mailto:portal_mapowy@nid.pl">portal_mapowy@nid.pl</a></p>
+ <p><a href="http://www.zabytek.pl">www.zabytek.pl</a>, <a href="http://www.nid.pl">www.nid.pl</a></p>
+       				</div>
+     				
+      <div class="unit md4"> 					
+        <h1 class="h2 C"><img width="209" height="18" alt="Czekamy na TwĂłj komentarz" src="/gfx/hCzekamyNaTwojKomentarz.png"  /></h1>
+       					
+        <p>Masz uwagi co do działania portalu lub chcesz skontaktować się z nami w innej sprawie? <a href="/Kontakt/" class="ln1" >Napisz do nas</a></p>
+       				</div>
+     				
+      <ul class="unit md5"> 					
+        <li><a href="/" ><img width="116" height="45" alt="Portal Mapowy" src="/gfx/logoPM2.png"  /></a></li>
+        <li><a href="http://tnij.org/nid_apk"><img width="119" height="41" src="/gfx/google_play_logo.png" alt="Google Play"></a></li>
+        <li class="rss"><a href="/news.php" ><img alt="RSS" src="/gfx/icoRSS.png"  /></a></li>
+       				</ul>
+     			</div>
+   			
+    <div class="widget_container"> 				
+      <div class="widget_social"> 					<img src="/gfx/ico_fcb.gif" border="0" id="facebookIco"  /> 					
+        <div style="float: left; margin: 0pt;"> 						
+<script type="text/javascript" src="/js/pl_PL"></script>
+ 						
+<script	type="text/javascript">FB.init();</script>
+ 						<fb:fan height="330" width="190" logobar="1" connections="6" stream="0" profile_id="200305476647255"></fb:fan> 					</div>
+       				</div>
+     			</div>
+   			 	<div class="yt_container"><a href="http://www.youtube.com/tvNID" target="_blank" ><img src="/gfx/youtube.gif" border="0" id="YouTubeIco"  /></a></div>
+<script	type="text/javascript">
+				$('.widget_container').hover(function() {
+					$('.widget_container').css('overflow', 'visible');
+					$(this).stop().animate({
+						width: '250px'
+					}, 1000, null, function() { $('.widget_container').css('overflow', 'hidden'); });
+				}, function() {
+					$('.widget_container').css('overflow', 'hidden');
+					$(this).stop().animate({
+						width: '38px'
+					}, 1000);
+				});
+			</script>
+ 		</footer>
+<div style="background-color:#1a0022;height:70px;border-top:1px solid #CE003A;"></div> 
+</div>
+
+		</div>
+ 
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="/js/jquery.scrollTo-min.js"></script>
+
+<script src="/js/jquery.serialScroll-min.js"></script>
+ 	
+<script src="/js/sliders.js"></script>
+ 
+<script language="javascript" src="/js/jquery.printElement.min.js"></script>
+ 
+<script language="javascript" src="/js/pixastic.custom.js"></script>
+ 
+<script language="javascript" src="/js/print.js"></script>
+<script language="javascript" src="/js/lightbox.js"></script> 
+<script language="javascript" src="/js/grayScale.js"></script>
+<script language="javascript" src="/js/nid.js"></script>
+<script type="text/javascript" src="/ajax/kontakt/jquery.colorbox.js"></script>
+
+<script language="javascript">
+$(document).ready(function () {
+
+        $(".inline-pop").colorbox({inline:true, width:"413", height:"195"});
+		
+		
+});
+
+
+
+        $("ul.subnav").parent().append(""); //Only shows drop down trigger when js is enabled (Adds empty span tag after ul.subnav*)  
+      
+        $("ul.topnav li a").hover(function() { //When trigger is clicked...  
+      
+            //Following events are applied to the subnav itself (moving subnav up and down)  
+            $(this).parent().find("ul.subnav").slideDown('fast').show(); //Drop down the subnav on click  
+      
+            $(this).parent().hover(function() {  
+            }, function(){  
+                $(this).parent().find("ul.subnav").slideUp('slow'); //When the mouse hovers out of the subnav, move it back up  
+            });  
+      
+            //Following events are applied to the trigger (Hover events for the trigger)  
+            }).hover(function() {  
+                $(this).addClass("subhover"); //On hover over, add class "subhover"  
+            }, function(){  //On Hover Out  
+                $(this).removeClass("subhover"); //On hover out, remove class "subhover"  
+        });  
+
+
+</script>
+
+<script type="text/javascript">
+ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37373671-1']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
+</script>
+
+ </body>
+</html>http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=45

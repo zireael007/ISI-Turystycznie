@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+<html lang="pl" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width" /><!-- fixes CSS query min/max width on mobile -->
+<meta property="og:image" content='http://93.159.33.89/imgResize.php?scale=4&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMDguanBn' />
+<meta property="og:title" content="Kraków - historyczny zespół miasta" />
+<meta property="og:description" content="Kraków - historyczny zespół miasta" /> 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="Zabytki" />
+<meta name="description" content="NID Main Site" />
+<link href="/bitrix/js/main/core/css/core.css?1354612059" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/components/bitrix/menu/nid_horizontal_multilevel/style.css?1348129813" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/.default/components/bitrix/breadcrumb/.default/style.css?1333627633" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/styles.css?1389950861" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/template_styles.css?1389950861" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/bitrix/js/main/core/core.js?1390241314"></script>
+<script type="text/javascript">BX.message({'LANGUAGE_ID':'en','FORMAT_DATE':'DD/MM/YYYY','FORMAT_DATETIME':'DD/MM/YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','USER_ID':'','SERVER_TIME':'1397919690','SERVER_TZ_OFFSET':'7200','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'4f15de352b497214bb586a813402747f','SITE_ID':'10','JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In'})</script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ajax.js?1390241314"></script>
+<script type="text/javascript" src="/bitrix/js/main/session.js?1390241314"></script>
+<script type="text/javascript">
+bxSession.Expand(1440, '4f15de352b497214bb586a813402747f', false, 'aec93b758fffdc044ca1e3fb83aeb09e');
+</script>
+<link rel="shortcut icon" href="/nid.ico" />
+<link href="/styles/lightbox.css" rel="stylesheet" />
+
+<!--[if lt IE 9]><script>;(function(e){for(var i=0;e[i]; i++){document.createElement(e[i]);}})("abbr,article,aside,audio,canvas,datalist,details,summary,figure,figcaption,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(','));</script><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="Zabytki" />
+<meta name="description" content="NID Main Site" />
+<link href="/bitrix/js/main/core/css/core.css?1354612059" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/components/bitrix/menu/nid_horizontal_multilevel/style.css?1348129813" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/.default/components/bitrix/breadcrumb/.default/style.css?1333627633" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/styles.css?1389950861" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/template_styles.css?1389950861" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/bitrix/js/main/core/core.js?1390241314"></script>
+<script type="text/javascript">BX.message({'LANGUAGE_ID':'en','FORMAT_DATE':'DD/MM/YYYY','FORMAT_DATETIME':'DD/MM/YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','USER_ID':'','SERVER_TIME':'1397919690','SERVER_TZ_OFFSET':'7200','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'4f15de352b497214bb586a813402747f','SITE_ID':'10','JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In'})</script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ajax.js?1390241314"></script>
+<script type="text/javascript" src="/bitrix/js/main/session.js?1390241314"></script>
+<script type="text/javascript">
+bxSession.Expand(1440, '4f15de352b497214bb586a813402747f', false, 'aec93b758fffdc044ca1e3fb83aeb09e');
+</script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+
+
+</head>
+<body> 
+<div id="panel"></div>
+ 	
+<div id="main"> 		
+  <div class="skiplinks"><a href="#contentMain" >skocz do treści</a></div>
+ 		<hr/> 		<header id="header"> 			<hgroup> 				
+      <h1><a href="/" ><img width="180" height="70" alt="Portal Mapowy" src="/gfx/logoPortalMapowy.png"  /></a></h1>
+     				
+      <h2><a href="http://www.zabytek.pl" ><img width="275" height="73" alt="Narodowy Instytut Dziedzictwa" src="/gfx/logoNID.png"  /></a></h2>
+     			</hgroup> 			<nav class="nav"> 				
+
+<script src="/bitrix/templates/NID Informacja o zabytku/components/bitrix/menu/nid_horizontal_multilevel/script.js?1390241310" type="text/javascript"></script>
+<ul class="topnav">
+	<li class="strona-glowna "><a href="/" >Strona główna</a></li>    
+	
+		
+	
+	
+		
+							<li class="nowosci "><a href="/Nowosci/">Nowości</a></li>
+			
+		
+	
+	
+		
+	
+	
+		
+							<li class="o-portalu "><a href="/O_portalu/">O portalu</a></li>
+			
+		
+	
+	
+		
+	
+	
+					<li class="przewodnik "><a href="/Przewodnik/">Przewodnik</a>
+				<ul class="subnav">
+		
+	
+	
+		
+	
+	
+		
+												<li class="repo"><a href="/Przewodnik/Zrodla_danych/">Źródła danych</a></li>
+							
+		
+	
+	
+		
+	
+	
+		
+												<li class="mapy"><a href="http://geoportal.nid.pl/SDIPortal/" target="_blank" >Metadane</a></li>
+							
+		
+	
+	
+		
+	
+	
+		
+												<li class="repo"><a href="/Przewodnik/Wspolpraca/">Współpraca</a></li>
+							
+		
+	
+	
+		
+	
+	
+		
+												<li class="repo"><a href="/Przewodnik/Dokumentacja/">Dokumentacja</a></li>
+							
+		
+	
+	
+		
+	
+	
+		
+												<li class="repo"><a href="/Przewodnik/Faq/">FAQ</a></li>
+							
+		
+	
+	
+		
+			</ul></li>	
+	
+		
+							<li class="kalendarium "><a href="/Kalendarium/">Kalendarium</a></li>
+			
+		
+	
+	
+		
+	
+	
+		
+							<li class="sluzba-ochrony-zabytkow "><a href="/Sluzba_Ochrony_Zabytkow/">Służby konserwatorskie</a></li>
+			
+		
+	
+	
+		
+	
+	
+		
+							<li class="regulamin "><a href="/Regulamin/">Regulamin</a></li>
+			
+		
+	
+	
+		
+	
+	
+		
+							<li class="kontakt "><a href="/Kontakt/">Kontakt</a></li>
+			
+		
+	
+	
+
+
+</ul>
+<div class="menu-clear-left"></div>
+
+
+       		 		 
+        <div style="display: none;"> 			 
+          <div id="inline_popup" style="color: rgb(255, 255, 255);"> 
+			<div class="regulamin-pop">
+						<div class="m-20"><img src="/gfx/akceptacja_war.png" alt="" /></div>
+						<div class="ml-20 fs-13">Zapoznałem się z regulaminem, zgadzam się na jego warunki.</div>
+						<div class="mt-32">
+						   <div class="fl ml-20 mt-20"><a target="_blank" href="/Regulamin/">Przeczytaj regulamin</a></div>
+						   <div class="fl ml-20"><a target="_blank" href="http://geoportal.nid.pl"><img src="/gfx/yes_pop.png" alt="" /></a></div>
+						   <div class="fl ml-20"><a href="/"><img src="/gfx/no_pop.png" alt="" /></a></div>
+						   <div class="clr"></div>
+						</div>
+			</div>
+          </div>
+        </div>
+     			</nav> 			<form class="fo1" method="get" action="/Szukaj/"> 				<fieldset> 					<legend><span class="h0">Wyszukiwarka</span></legend> 					
+        <div> 						<label class="h0" for="FS-query">Szukana fraza</label> 						<input type="search" placeholder="Szukaj" id="FS-query" name="q" /> 					</div>
+       				</fieldset> 				
+      <div class="submit"> 					<input type="image" title="Szukaj" alt="Szukaj" src="/gfx/btnSearch.png" name="s" /> 				</div>
+     			</form> 		</header> 		<hr/> 
+
+<div style="background-image:url('/gfx/bgmc.jpg');background-repeat:repeat-x;background-position:bottom; ">				
+  <div id="contentWrapper">
+  
+  
+  
+  <div id="contentMain"><nav id="breadcrumbs"> Portal e-zabytek &gt; <span class="fat">Zabytek</span> </nav>
+ <hr/> 
+	<article class="pg3" itemscope="itemscope" itemtype="http://schema.org/LandmarksOrHistoricalBuildings">
+
+
+
+		
+		    <script language="javascript">
+    			document.title = "e-zabytek - Kraków - historyczny zespół miasta";
+   			 </script>
+
+
+		<header class="pg3-lc">
+			<hgroup> 						 
+				<h2><img width="383" height="57" alt="Informacja o zabytku" src="/gfx/hInformacjaOZabytku.png"  /></h2>
+				<h1 class="h1 E" itemprop="name">Kraków - historyczny zespół miasta</h1>
+	       	</hgroup>
+		</header>
+		<section class="pg3-rc"> 					 
+			<h2 class="h1"><img width="183" height="43" alt="Og&amp;oacute;lne informacje" src="/gfx/hOgolneInformacje.png"  /></h2>
+			<dl class="ls7">
+				<dt>Typ zabytku:</dt>
+				<dd>miasto</dd>
+				<dt>Chronologia:</dt>
+				<dd>połowa XIII - XIX w.</dd>
+				<dt>Forma ochrony:</dt>
+				<dd>pomnik historii</dd>
+				<dt>Lokalizacja:</dt>
+				<dd itemprop="address" itemscope="itemscope" itemtype="http://schema.org/PostalAddress">
+					<figure>
+					 						<iframe src="http://geoportal.nid.pl/SDIPortal/Map.aspx?gpm=9e29ba96-e450-4830-a87c-35b9f345bb25&navigator=false&scalebar=false&coords=false&bbox=564987.539136161,240951.99459651,570295.803245716,245858.195499929" style="border: medium none; height: 289px; width: 300px;"></iframe>
+					</figure>
+				</dd>
+				<dt>Właściciel praw autorskich:</dt>
+				<dd>domena publiczna<br/>Narodowy Instytut Dziedzictwa<br/></dd>
+				<dt>Typ licencji:</dt>
+				<dd>domena publiczna<br/>CC Uznanie autorstwa-Użycie niekomercyjne-Bez utworów zależnych 3.0 Polska<br/></dd>
+				<dt>Licencja:</dt>
+				<dd><a href="" ></a></dd>
+			</dl>
+			<section style="padding-bottom:15px;"> 						 
+				<h3 class="h6">Powiązane zabytki</h3>
+		        <ul class="ls8">
+		        					</ul>
+			</section>
+ 
+<div style="background:#ffffff; margin:0 0 -16px -20px; padding:30px; width:100%;"> 
+  <div class="md2 B"> 				<a href="http://geoportal.nid.pl/SDIPortal/?bbox=564987.539136161,240951.99459651,570295.803245716,245858.195499929" target="_blank"><img width="220" height="55" alt="Mapy" title="Mapy" src="/gfx/linkMapy3.png"  /></a> 			</div>
+ 
+  <div class="md2 B"> 				<a href="/Przewodnik/Repo/" target="_blank" ><img width="220" height="55" alt="Repo" title="Repo" src="/gfx/linkRepo.png"  /></a> 			</div>
+ 	 </div>
+ 	
+		</section>
+
+		<section class="md9"> 					 
+			<h2 class="h0">Galeria</h2>
+	 		<figure class="md9-img ln4">
+	 				 			<a href="/imgResize.php?scale=4&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMDguanBn" rel="lightbox" title="Rynek Główny w Krakowie, średniowieczna hala targowa Sukiennice powstała w latach 1380-1400 z połączonych i przebudowanych kramów; w 1555 renesansowy kształt nadał jej Jan Maria Padovano"><img itemprop="image" alt="Rynek Główny w Krakowie, średniowieczna hala targowa Sukiennice powstała w latach 1380-1400 z połączonych i przebudowanych kramów; w 1555 renesansowy kształt nadał jej Jan Maria Padovano" title="Rynek Główny w Krakowie, średniowieczna hala targowa Sukiennice powstała w latach 1380-1400 z połączonych i przebudowanych kramów; w 1555 renesansowy kształt nadał jej Jan Maria Padovano" src="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMDguanBn" id="image-full"  /> </a>
+	 			<p id="pic_description" style="padding:10px;">Rynek Główny w Krakowie, średniowieczna hala targowa Sukiennice powstała w latach 1380-1400 z połączonych i przebudowanych kramów; w 1555 renesansowy kształt nadał jej Jan Maria Padovano</p>
+	    		<h2 class="h0"> <br /></h2>
+			</figure> 					 
+	  		<div id="sliderGalleryWrapper"> 
+				<ol class="ls10" id="sliderGallery">
+					
+											<li><a href="/getDocument.php?doc=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMDEucGRm&typ=PDF"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMDEucGRm&typ=PDF" alt="Tekst prezentujący pomnik historii - Kraków - historyczny zespół miasta" title="Tekst prezentujący pomnik historii - Kraków - historyczny zespół miasta"  /></a></li>
+									
+											<li><a href="/getDocument.php?doc=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMDIucGRm&typ=PDF"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMDIucGRm&typ=PDF" alt="Rozporządzenie Prezydenta RP uznające Kraków - historyczny zespół miasta za pomnik historii" title="Rozporządzenie Prezydenta RP uznające Kraków - historyczny zespół miasta za pomnik historii"  /></a></li>
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMDMuanBn"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMDMuanBn" alt="Kraków, katedra na Wawelu z lat 1320-1364, z kopułowymi kaplicami dostawionymi do nawy południowej: Zygmuntowską, 1517-1533, i Wazów, ukończoną w 1666 r." title="Kraków, katedra na Wawelu z lat 1320-1364, z kopułowymi kaplicami dostawionymi do nawy południowej: Zygmuntowską, 1517-1533, i Wazów, ukończoną w 1666 r."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrak%C3%B3w_-_historyczny_zesp%C3%B3%C5%82_miasta%2FNID-pomhis-Krakow-003.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrak%C3%B3w_-_historyczny_zesp%C3%B3%C5%82_miasta%2FNID-pomhis-Krakow-003.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMDQuanBn"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMDQuanBn" alt="Kraków, dziedziniec zamku królewskiego na Wawelu; przebudowa zamku z lat 1507-1536, Franciszek Florentczyk i Bartolomeo Berrecci" title="Kraków, dziedziniec zamku królewskiego na Wawelu; przebudowa zamku z lat 1507-1536, Franciszek Florentczyk i Bartolomeo Berrecci"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrak%C3%B3w_-_historyczny_zesp%C3%B3%C5%82_miasta%2FNID-pomhis-Krakow-004.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrak%C3%B3w_-_historyczny_zesp%C3%B3%C5%82_miasta%2FNID-pomhis-Krakow-004.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMDUuanBn"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMDUuanBn" alt="Kraków, ulica Kanonicza na terenie dawnego Okołu – osady sprzed lokacji miasta, zamieszkiwana niegdyś przez kanoników kapituły krakowskiej" title="Kraków, ulica Kanonicza na terenie dawnego Okołu – osady sprzed lokacji miasta, zamieszkiwana niegdyś przez kanoników kapituły krakowskiej"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrak%C3%B3w_-_historyczny_zesp%C3%B3%C5%82_miasta%2FNID-pomhis-Krakow-005.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrak%C3%B3w_-_historyczny_zesp%C3%B3%C5%82_miasta%2FNID-pomhis-Krakow-005.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMDYuanBn"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMDYuanBn" alt="Kraków, widok układu urbanistycznego Starego Miasta z Rynkiem Głównym" title="Kraków, widok układu urbanistycznego Starego Miasta z Rynkiem Głównym"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrak%C3%B3w_-_historyczny_zesp%C3%B3%C5%82_miasta%2FNID-pomhis-Krakow-006.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrak%C3%B3w_-_historyczny_zesp%C3%B3%C5%82_miasta%2FNID-pomhis-Krakow-006.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMDcuanBn"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMDcuanBn" alt="Rynek Główny w Krakowie, gotycka wieża ratuszowa, 1383" title="Rynek Główny w Krakowie, gotycka wieża ratuszowa, 1383"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrak%C3%B3w_-_historyczny_zesp%C3%B3%C5%82_miasta%2FNID-pomhis-Krakow-007.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrak%C3%B3w_-_historyczny_zesp%C3%B3%C5%82_miasta%2FNID-pomhis-Krakow-007.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMDkuanBn"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMDkuanBn" alt="Rynek Główny w Krakowie, gotycka bryła kościoła Mariackiego, ok. 1320; prezbiterium z lat 1355-1365 z fundacji Mikołaja Wierzynka Starszego; przebudowa korpusu z halowego na bazylikowy 1392-1397" title="Rynek Główny w Krakowie, gotycka bryła kościoła Mariackiego, ok. 1320; prezbiterium z lat 1355-1365 z fundacji Mikołaja Wierzynka Starszego; przebudowa korpusu z halowego na bazylikowy 1392-1397"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrak%C3%B3w_-_historyczny_zesp%C3%B3%C5%82_miasta%2FNID-pomhis-Krakow-009.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrak%C3%B3w_-_historyczny_zesp%C3%B3%C5%82_miasta%2FNID-pomhis-Krakow-009.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMTAuanBn"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMTAuanBn" alt="Rynek Główny w Krakowie, kościół św. Wojciecha, pierwotnie romański, w XVII i XVIII wieku przekształcony na barokowy" title="Rynek Główny w Krakowie, kościół św. Wojciecha, pierwotnie romański, w XVII i XVIII wieku przekształcony na barokowy"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrak%C3%B3w_-_historyczny_zesp%C3%B3%C5%82_miasta%2FNID-pomhis-Krakow-010.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrak%C3%B3w_-_historyczny_zesp%C3%B3%C5%82_miasta%2FNID-pomhis-Krakow-010.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMTEuanBn"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMTEuanBn" alt="Kraków, Stare Miasto, kościół św. Andrzeja z lat 1079-1098 wzniesiony z fundacji palatyna Sieciecha jako główna świątynia osady Okół; wnętrze poddane barokizacji autorstwa Baltazara Fontany" title="Kraków, Stare Miasto, kościół św. Andrzeja z lat 1079-1098 wzniesiony z fundacji palatyna Sieciecha jako główna świątynia osady Okół; wnętrze poddane barokizacji autorstwa Baltazara Fontany"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrak%C3%B3w_-_historyczny_zesp%C3%B3%C5%82_miasta%2FNID-pomhis-Krakow-011.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrak%C3%B3w_-_historyczny_zesp%C3%B3%C5%82_miasta%2FNID-pomhis-Krakow-011.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMTIuanBn"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMTIuanBn" alt="Kraków, Stare Miasto, kościół św. św. Piotra i Pawła – pierwsza realizacja architektury barokowej w Krakowie, ufundowana dla jezuitów przez Zygmunta III Wazę, 1597-1619" title="Kraków, Stare Miasto, kościół św. św. Piotra i Pawła – pierwsza realizacja architektury barokowej w Krakowie, ufundowana dla jezuitów przez Zygmunta III Wazę, 1597-1619"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrak%C3%B3w_-_historyczny_zesp%C3%B3%C5%82_miasta%2FNID-pomhis-Krakow-012.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrak%C3%B3w_-_historyczny_zesp%C3%B3%C5%82_miasta%2FNID-pomhis-Krakow-012.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMTMuanBn"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMTMuanBn" alt="Kraków, Stare Miasto, dziedziniec Collegium Maius, najstarszego budynku Akademii Krakowskiej" title="Kraków, Stare Miasto, dziedziniec Collegium Maius, najstarszego budynku Akademii Krakowskiej"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrak%C3%B3w_-_historyczny_zesp%C3%B3%C5%82_miasta%2FNID-pomhis-Krakow-013.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrak%C3%B3w_-_historyczny_zesp%C3%B3%C5%82_miasta%2FNID-pomhis-Krakow-013.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMTQuanBn"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMTQuanBn" alt="Kraków, Stare Miasto, Barbakan – późnogotycki zabytek sztuki fortyfikacyjnej z lat 1498-1499" title="Kraków, Stare Miasto, Barbakan – późnogotycki zabytek sztuki fortyfikacyjnej z lat 1498-1499"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrak%C3%B3w_-_historyczny_zesp%C3%B3%C5%82_miasta%2FNID-pomhis-Krakow-014.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrak%C3%B3w_-_historyczny_zesp%C3%B3%C5%82_miasta%2FNID-pomhis-Krakow-014.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMTUuanBn"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMTUuanBn" alt="Kraków, Stare Miasto, Brama Floriańska od której zaczynała się Droga Królewska, jedyna zachowana z ośmiu miejskich bram obronnych" title="Kraków, Stare Miasto, Brama Floriańska od której zaczynała się Droga Królewska, jedyna zachowana z ośmiu miejskich bram obronnych"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrak%C3%B3w_-_historyczny_zesp%C3%B3%C5%82_miasta%2FNID-pomhis-Krakow-015.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrak%C3%B3w_-_historyczny_zesp%C3%B3%C5%82_miasta%2FNID-pomhis-Krakow-015.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMTYuanBn"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMTYuanBn" alt="Kraków, eklektyczny gmach Teatru im. Juliusza Słowackiego, 1891-1893" title="Kraków, eklektyczny gmach Teatru im. Juliusza Słowackiego, 1891-1893"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrak%C3%B3w_-_historyczny_zesp%C3%B3%C5%82_miasta%2FNID-pomhis-Krakow-016.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrak%C3%B3w_-_historyczny_zesp%C3%B3%C5%82_miasta%2FNID-pomhis-Krakow-016.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMTcuanBn"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3Jha8Ozd18tX2hpc3Rvcnljem55X3plc3DDs8WCX21pYXN0YS9OSUQtcG9taGlzLUtyYWtvdy0wMTcuanBn" alt="Kraków, Kazimierz, gmach Starej Synagogi wzniesionej w XV w.; po pożarze w 2. poł. XVI w. przebudowany w stylu renesansowym przez florenckiego architekta Mateo Gucciego, po zniszczeniach II wojny światowej odbudowany w swojej historycznej gotycko-renesansowej formie" title="Kraków, Kazimierz, gmach Starej Synagogi wzniesionej w XV w.; po pożarze w 2. poł. XVI w. przebudowany w stylu renesansowym przez florenckiego architekta Mateo Gucciego, po zniszczeniach II wojny światowej odbudowany w swojej historycznej gotycko-renesansowej formie"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrak%C3%B3w_-_historyczny_zesp%C3%B3%C5%82_miasta%2FNID-pomhis-Krakow-017.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrak%C3%B3w_-_historyczny_zesp%C3%B3%C5%82_miasta%2FNID-pomhis-Krakow-017.jpg&width=60&height=60"/></li> -->
+													</ol>
+				<footer> 							 
+		          	<ul class="ls9"> 								 
+		            	<li class="next"><a href="#sliderGallery" ><img width="25" height="10" alt="Pokaż kolejne zdjęcia" title="Pokaż kolejne zdjęcia" src="/gfx/arrBottomRed1.png"  /></a></li>
+		           		<li class="prev"><a href="#sliderGallery" ><img width="25" height="10" alt="Pokaż poprzednie zdjęcia" title="Pokaż poprzednie zdjęcia" src="/gfx/arrTopRed1.png"  /></a></li>
+					</ul>
+				</footer>
+			</div>
+		</section>
+		<section> 					 
+			<h2 class="h6">Opis zabytku:</h2>
+	     	<div class="text B" itemprop="description"><p>Historyczny zesp&oacute;ł miasta Krakowa został uznany za pomnik historii w 1994 roku. Należy on do najstarszych i najważniejszych układ&oacute;w architektoniczno-urbanistycznych w Polsce. Dominantą w przestrzeni miejskiej jest usytuowany na wzg&oacute;rzu Wawel kompleks obronno-rezydencjonalny &ndash; przez długi czas ośrodek władzy i siedziba monarch&oacute;w, świadek wielu znaczących wydarzeń historycznych. Tu skupiało się życie polityczne, intelektualne i artystyczne państwa. Wawelska katedra stała się miejscem poch&oacute;wku kr&oacute;l&oacute;w i ważnych dla historii i kultury polskiej osobistości. Położone poniżej Stare Miasto zachowało sw&oacute;j XIII-wieczny układ urbanistyczny z ogromnym rynkiem i charakterystycznymi bryłami kościoła Mariackiego i Sukiennic &ndash; jednymi z najlepiej rozpoznawalnych obiekt&oacute;w zabytkowych w&nbsp;Polsce. Najstarsza część miasta, kt&oacute;rą od XIX wieku otacza pas zieleni w miejscu szczątkowo przetrwałych średniowiecznych fortyfikacji, obfituje w cenne zabytki architektury &ndash; obiekty sakralne, prezentujące r&oacute;żne style, oraz gmachy publiczne, jak Collegium Maius &ndash; siedziba pierwszego polskiego uniwersytetu. Wchodzący w skład zabytkowego zespołu Kazimierz, niegdyś odrębne miasto zamieszkane w znacznej mierze przez ludność żydowską, nadal utrzymuje sw&oacute;j specyficzny klimat dzięki zachowanemu układowi przestrzennemu.<br />Krak&oacute;w to miejsce ze względ&oacute;w historycznych szczeg&oacute;lne. Przeniesienie w końcu XVI wieku rezydencji monarszej do Warszawy nie umniejszyło wagi kr&oacute;lewskiego miasta &ndash; materialne i duchowe dziedzictwo stolicy państwa polskiego z najbardziej chlubnego w jego dziejach &bdquo;złotego wieku&rdquo; ma znaczenie fundamentalne dla polskiej kultury i narodowej tożsamości.</p>
+<p><strong>Historia<br /></strong>Krak&oacute;w był w VIII wieku ośrodkiem politycznym w plemiennym państwie Wiślan. Najstarszy znany zapis przywołujący jego nazwę pochodzi z 965 roku. Około 990 roku gr&oacute;d znalazł się w&nbsp;granicach państwa piastowskiego. Od około 1000 roku Krak&oacute;w był siedzibą biskupstwa, a za panowania Kazimierza Odnowiciela stał się gł&oacute;wną siedzibą książęcą. Osada znajdowała się na wzg&oacute;rzu Wawel, gdzie w 2. połowie X wieku wzniesiono przedromańskie budowle kamienne; r&oacute;wnolegle też powstawały zespoły osadnicze pod wzg&oacute;rzem.<br />Przywilej lokacyjny dla miasta na prawie magdeburskim wydał w 1257 roku książę Bolesław Wstydliwy. Otrzymało ono w&oacute;wczas regularny plan szachownicowy, a pod koniec stulecia rozpoczęto wznoszenie mur&oacute;w miejskich. W 1320 roku w katedrze miała miejsce koronacja Władysława Łokietka, kończąca okres rozbicia dzielnicowego (koronacje władc&oacute;w odbywały się w Krakowie aż do 1734 r.). Powstający na południe od miasta Kazimierz otrzymał przywilej lokacyjny w 1335 roku, wydany przez Kazimierza Wielkiego. W 1364 roku w rozwijającym się prężnie Krakowie powstała pierwsza wyższa uczelnia &ndash; Akademia Krakowska. Szczeg&oacute;lny rozkwit nastąpił w XVI wieku, kiedy miasto stało się gł&oacute;wnym ośrodkiem przeszczepiania z Włoch idei renesansu. W 1596 roku Zygmunt III Waza rozpoczął przenoszenie dworu kr&oacute;lewskiego do Warszawy (zakończone w 1611 r.), niemniej do ostatniego rozbioru Polski Krak&oacute;w pozostawał formalną stolicą. <br />Wojny toczone od połowy XVII wieku przyniosły zahamowanie rozwoju i zniszczenia. W&nbsp;1794 roku powstanie kościuszkowskie rozpoczęło się od przysięgi złożonej przez Tadeusza Kościuszkę na rynku krakowskim. Po III rozbiorze Krak&oacute;w zajęli Austriacy. <br />Modernizacja i rozbudowa miasta nastąpiła w okresie formalnie niezależnej Rzeczypospolitej Krakowskiej (1815-1846). Zburzono w&oacute;wczas większość mur&oacute;w miejskich, zasypano fosę, na miejscu kt&oacute;rej powstały Planty. W czasie zabor&oacute;w Krak&oacute;w był ważnym ośrodkiem krzewienia idei niepodległościowych (stąd w 1914 roku wyruszyła do walki 1 Kompania Kadrowa J&oacute;zefa Piłsudskiego); pod koniec XIX wieku zaś kolebką nurtu artystycznego o nazwie Młoda Polska, co pozostawiło wyraźny ślad w jego architekturze i&nbsp;sztuce. W czasie II wojny światowej miasto szczęśliwie uniknęło zniszczeń; autentyczność jego historycznego centrum została uznana wpisem na Listę Światowego Dziedzictwa UNESCO w 1978 roku.</p>
+<p><strong>Opis<br /></strong>Historyczny zesp&oacute;ł architektoniczno-urbanistyczny Krakowa składa się z trzech gł&oacute;wnych człon&oacute;w &ndash; kompleksu kr&oacute;lewskich zabudowań na Wawelu, średniowiecznego miasta lokacyjnego i&nbsp;położonego na południe od niego średniowiecznego miasta Kazimierz z jego przedmieściem Stradomiem. W granicach pomnika historii znajdują się także leżące wok&oacute;ł dawne dzielnice: Kleparz, Piasek, Nowy Świat, Podg&oacute;rze.<br />Najstarsze murowane budowle <strong>Wawelu</strong> związane były z jego funkcją siedziby władz świeckiej i&nbsp;duchownej. Istniała tu przedromańska rotunda, następnie romańska świątynia strawiona przez pożar, kt&oacute;rej pozostałością jest przede wszystkim <strong>krypta św. Leonarda</strong>. Obecna <strong>katedra</strong> powstała w latach 1320-1364. Jej budowę zakończono za panowania Kazimierza Wielkiego, kt&oacute;rego monogramem ozdobione są żelazne wrota gł&oacute;wnego wejścia. Jest to ceglano-kamienna bazylika z transeptem i&nbsp;wieńcem kaplic. Jej wnętrze to skarbiec wypełniony pamiątkami historii. Spośr&oacute;d najcenniejszych obiekt&oacute;w wymienić trzeba barokową konfesję z relikwiami św. Stanisława na środku nawy oraz liczne nagrobki monarch&oacute;w i dostojnik&oacute;w, z kt&oacute;rych szczeg&oacute;lną wartość mają zwłaszcza gotyckie: Władysława Łokietka, Kazimierza Wielkiego, Władysława Jagiełły czy znajdujące się w kaplicy Świętokrzyskiej dzieło Wita Stwosza &ndash; sarkofag Kazimierza Jagiellończyka. Mauzoleum Jagiellon&oacute;w to słynna <strong>kaplica Zygmuntowska</strong> z lat 1517-1533 &ndash; najwspanialsze dzieło architektury renesansowej w&nbsp;Polsce, o jednolitym artystycznie i ideowo wystroju. W połowie XVII wieku dodano obok niej kaplicę Waz&oacute;w, z zewnątrz identyczną, we wnętrzu zaś reprezentującą czyste wydanie baroku wazowskiego. W podziemnych kryptach katedry spoczywa większość polskich kr&oacute;l&oacute;w, bohaterowie i wieszcze narodowi.<br />Zabudowa rezydencjonalna wzg&oacute;rza wawelskiego sięga XI i XII wieku, kiedy istniał tu zesp&oacute;ł mieszkalno-obronny. Gotycki <strong>zamek kr&oacute;lewski</strong> wzni&oacute;sł w połowie XIV wieku Kazimierz Wielki. Za&nbsp;panowania Zygmunta Starego, w latach 1507-1536, został on przekształcony pod kierunkiem wybitnych architekt&oacute;w włoskich w nowoczesną renesansową rezydencję z obszernym dziedzińcem obwiedzionym krużgankami. Jest on najdoskonalszym przykładem oddziaływania form renesansu florenckiego poza Włochami. Imponujący jest także wystr&oacute;j wnętrz z malowidłami, fryzami, kasetonowymi stropami i portalami o bogatej dekoracji. Zachowany częściowo bezcenny zbi&oacute;r arras&oacute;w Zygmunta Starego i tkanin flamandzkich z kolekcji Zygmunta Augusta należy do najważniejszych element&oacute;w wyposażenia. Wawel posiada <strong>dwa systemy fortyfikacyjne</strong>: średniowieczny z dominującymi w sylwecie wzg&oacute;rza basztami oraz nowożytny, gł&oacute;wnie z XVIII wieku, bastionowy, uzupełniony rondelami w wieku XIX.<br /><strong>Stare Miasto </strong>położone u st&oacute;p Wawelu, do kt&oacute;rego prowadzi ulica Kanonicza z czas&oacute;w jeszcze przedlokacyjnych (teren dawnego Okołu), podzielone zostało w XIII wieku na kwartały regularną siatką ulic. Ulice o podstawowym znaczeniu wychodzą z narożnik&oacute;w <strong>Rynku Gł&oacute;wnego</strong> &ndash; ogromnego placu miejskiego o wymiarach 200 x 200 m. Najważniejszymi obiektami architektury monumentalnej w jego obrębie są: wieża ratuszowa z 1383 roku &ndash; pozostałość gotyckiego ratusza zburzonego w XIX wieku, budynek XIV-wiecznej wielkiej hali kupieckiej &ndash; <strong>Sukiennice</strong>, ozdobiony w&nbsp;renesansie ścianą attykową, a w XIX wzbogacony o neogotycką kolumnadę, oraz gł&oacute;wna świątynia w mieście &ndash; <strong>kości&oacute;ł pw. Wniebowzięcia NMP</strong>. Jest on tr&oacute;jnawową bazyliką o dwuwieżowej fasadzie, kryjącą we wnętrzu liczne dzieła sztuki, z najsłynniejszym spośr&oacute;d nich wielkim ołtarzem gł&oacute;wnym &ndash; dziełem Wita Stwosza z lat 1477-1489. Do budowli rynkowych o średniowiecznej metryce należy ponadto <strong>kości&oacute;ł św. Wojciecha</strong>, przekształcany w następnych stuleciach, a także większość kamienic, r&oacute;wnież wielokrotnie przebudowywanych zgodnie z aktualnie panującą modą. Spośr&oacute;d obiekt&oacute;w sakralnych w obrębie Starego Miasta sztukę średniowiecza reprezentują: romański <strong>kości&oacute;ł św.&nbsp;Andrzeja</strong>, XIII-wieczne ceglane <strong>kościoły dominikan&oacute;w i franciszkan&oacute;w</strong>. Do przykład&oacute;w architektury barokowej należą: wczesny, z 1596 roku <strong>kości&oacute;ł św. św. Piotra i Pawła</strong>, o fasadzie wzorowanej na rzymskim kościele jezuit&oacute;w, akademicka <strong>kolegiata pw. św. Anny</strong> projektu Tylmana z Gameren o&nbsp;bardzo efektownym wnętrzu autorstwa sztukatora Baltazara Fontany, <strong>kości&oacute;ł pijar&oacute;w</strong> Kacpra Bażanki o p&oacute;źniejszej, rokokowej fasadzie. W kwartale uniwersyteckim znajduje się najstarszy z zachowanych gmach&oacute;w Akademii Krakowskiej &ndash; <strong>Collegium Maius</strong>, powstałe ze scalenia kilku kamienic. Z lat 1492-1497 pochodzi jego p&oacute;źnogotycki dziedziniec z krużgankami o kryształowych sklepieniach. Budynek jest dziś siedzibą muzeum uniwersytetu, przechowującym bezcenne eksponaty, jak np. rzadkie instrumenty naukowe, w tym astronomiczne z czas&oacute;w studi&oacute;w Mikołaja Kopernika na tej uczelni.<br /><strong>Fortyfikacje</strong> miejskie wznoszone były od końca XIII wieku. W XV wieku miasto otoczono ciągiem nowoczesnych umocnień, z kt&oacute;rych zachowane są: <strong>Barbakan</strong>, <strong>Brama Floriańska</strong>, <strong>baszty Cieśli</strong>, <strong>Pasamonik&oacute;w</strong> i <strong>Stolarzy</strong>. Z istniejącego dzisiaj w miejscu mur&oacute;w parku <strong>Planty</strong> widocznych jest wiele innych znanych krakowskich gmach&oacute;w, jak <strong>Collegium Novum</strong>, <strong>Pałac Sztuki</strong>, <strong>Teatr Słowackiego</strong>.<br />Po przeciwnej stronie wawelskiego wzg&oacute;rza leży <strong>Stradom</strong>, dawne przedmieście, kt&oacute;rego dzisiejszy kształt ma genezę gł&oacute;wnie XIX-wieczną. Wyr&oacute;żniają się w nim bryła kościoła i klasztoru bernardyn&oacute;w przebudowana w 2. połowie XVII wieku oraz p&oacute;źnobarokowa fasada kościoła misjonarzy projektu Kacpra Bażanki. Położony za Stradomiem <strong>Kazimierz</strong> ma dziś zabudowę gł&oacute;wnie XVIII- i XIX-wieczną. Średniowiecznymi akcentami zespołu są dwa kościoły &ndash; św. Katarzyny i Bożego Ciała. Barokową dominantę urbanistyczną stanowi <strong>zesp&oacute;ł kościoła i klasztoru paulin&oacute;w na Skałce</strong>, wzniesiony w miejscu gdzie, według legendy, św. Stanisław ze Szczepanowa miał ponieść męczeńską śmierć. W&nbsp;krypcie kościoła pochowanych zostało wielu wybitnych przedstawicieli polskiej kultury. W p&oacute;łnocnej części Kazimierza pod koniec XV wieku decyzją Jana Olbrachta wyodrębniona została <strong>dzielnica żydowska</strong> z oddzielnym placem targowym, rozwijająca się odtąd autonomicznie. Spośr&oacute;d licznych zabytk&oacute;w kultury żydowskiej na uwagę zasługują m.in. <strong>Stara Synagoga</strong> należąca do najstarszych w&nbsp;Polsce i <strong>synagoga Remuh</strong> z przylegającym do niej renesansowym cmentarzem. Ukształtowany w&nbsp;XIV wieku <strong>system fortyfikacji Kazimierza</strong> jest czytelny pomimo częściowego wtopienia w p&oacute;źniejszą zabudowę.</p>
+<p><strong>Wpis do rejestru zabytk&oacute;w<br /></strong>Historyczny zesp&oacute;ł Krakowa został uznany za zabytek decyzjami:</p>
+<ol>
+<li><em>Wzg&oacute;rze Wawelskie, X-XX</em>, decyzje z dnia 28 marca 1931 r. i 20 lutego 1933 r., nr rejestru A-7.</li>
+<li><em>Układ urbanistyczny Krakowa w obrębie Plant</em>, decyzja z dnia 22 maja 1933 r., nr rejestru A-1.</li>
+<li><em>Układ urbanistyczny d. miasta Kazimierza i Stradomia, poł. XIV</em>, decyzja z dnia 23 lutego 1934 r., nr&nbsp;rejestru A-12.</li>
+</ol>
+<p><em>Oprac. A. Kucińska-Isaac</em></p></div>
+		</section>
+		<footer> 					 
+			<p style="margin-top:10px;"><a href="#" onclick="history.go(-1)" class="ln7" >Powr&oacute;t</a></p>
+		</footer>
+<section> 
+    <ul class="list h ls4" style="margin-top:20px;"> 						 
+      <li><a onclick="print('.pg3')" class="ln3 print" style="cursor:pointer;" >Drukuj artykuł</a></li>
+     						 
+      <li><a href="http://www.facebook.com/sharer.php?u=http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=146" class="ln3 fb" style="cursor:pointer;" >Publikuj na Facebooku</a></li>
+     						 					</ul>
+</section>
+	</article>
+
+
+	
+	
+	
+	
+	
+	
+	</div>
+  
+  
+  
+  <hr/> 		 
+  
+   		 		<hr/> 
+    <div id="sidebar2"> 			<section> 				 
+        <h1 class="h1 C"><img width="269" height="29" alt="Nowe zabytki" title="Nowe zabytki" src="/gfx/hNoweZabytki.png"  /></h1>
+       				 
+        <div id="sliderMonumetsWrapper" class="md7"> 					 
+          <div id="sliderMonumets"> 					 
+            <div class="line">
+            
+            			    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Frombork - zespół katedralny</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=60'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvRnJvbWJvcmtfLV96ZXNww7PFgl9rYXRlZHJhbG55L05JRC1wb21oaXMtRnJvbWJvcmstMDAzLmpwZw==" alt="Frombork - zespół katedralny" itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Zesp&oacute;ł katedralny we Fromborku został uznany za pomnik...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=60">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Bohoniki i Kruszyniany - mecz...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=205'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvQm9ob25pa2lfaV9LcnVzenluaWFueV8tX21lY3pldHlfaV9taXphcnkvTklELXBvbWhpcy1LcnVzenluaWFueS0wMDMuanBn" alt="Bohoniki i Kruszyniany - mecz..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Meczety i mizary (cmentarze) w Bohonikach i Kruszynianach...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=205">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Katowice - Gmach Województwa ...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=206'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS2F0b3dpY2VfLV9HbWFjaF9Xb2pld8OzZHp0d2FfaV9TZWptdV/FmmzEhXNraWVnby9OSUQtcG9taGlzLUthdG93aWNlX0dtYWNoLTAwMy5qcGc=" alt="Katowice - Gmach Województwa ..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Gmach Wojew&oacute;dztwa i Sejmu Śląskiego w Katowicach to...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=206">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Łowicz - Bazylika Katedralna ...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=207'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvxYFvd2ljel8tX0JhenlsaWthX0thdGVkcmFsbmFfKGRhd25hX0tvbGVnaWF0YV9QcnltYXNvd3NrYSlfcG9kX3dlendhbmllbV9XbmllYm93emnEmWNpYV9OYWrFm3dpxJl0c3plal9NYXJpaV9QYW5ueS9OSUQtcG9taGlzLUxvd2ljei0wMDMuanBn" alt="Łowicz - Bazylika Katedralna ..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Katedra łowicka jest zabytkiem o szczeg&oacute;lnym znaczeniu...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=207">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Sulejów - zespół opactwa cyst...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=208'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvU3VsZWrDs3dfLV96ZXNww7PFgl9vcGFjdHdhX2N5c3RlcnPDs3cvTklELXBvbWhpcy1TdWxlam93LTAwMy5qcGc=" alt="Sulejów - zespół opactwa cyst..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Klasztor obronny w Sulejowie z kościołem, zabudowaniami i...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=208">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Paczków - zespół staromiejski...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=209'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvUGFjemvDs3dfLV96ZXNww7PFgl9zdGFyb21pZWpza2lfemVfxZtyZWRuaW93aWVjem55bV9zeXN0ZW1lbV9mb3J0eWZpa2FjamkvTklELXBvbWhpcy1QYWN6a293LTAwNC5qcGc=" alt="Paczków - zespół staromiejski..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Mury Paczkowa należą do najlepiej zachowanych średniowiecznych...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=209">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Strzegom - kościół pod wezwan...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=204'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvU3RyemVnb21fLV9rb8WbY2nDs8WCX3BvZF93ZXp3YW5pZW1fxZt3Ll9BcG9zdG/FgsOzd19QaW90cmFfaV9QYXfFgmEvTklELXBvbWhpcy1TdHJ6ZWdvbS0wMDEuanBn" alt="Strzegom - kościół pod wezwan..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Strzegomski kości&oacute;ł pod wezwaniem Świętych Apostoł&oacute;w...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=204">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Warszawa - Zamek Królewski</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=201'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDAyLmpwZw==" alt="Warszawa - Zamek Królewski" itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p class="Default"><strong>Zamek średniowieczny<br /></strong>Powstanie...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=201">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Tarnowskie Góry - podziemia z...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=71'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVGFybm93c2tpZV9Hw7NyeV8tX3BvZHppZW1pYV96YWJ5dGtvd2VqX2tvcGFsbmlfcnVkX3NyZWJyb25vxZtueWNoX29yYXpfc3p0b2xuaV9DemFybmVnb19Qc3RyxIVnYS9OSUQtcG9taGlzLVRhcm5vd3NraWVfR29yeS0wMDUuanBn" alt="Tarnowskie Góry - podziemia z..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Podziemia zabytkowej kopalni rud srebronośnych oraz sztolni...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=71">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Kalwaria Zebrzydowska - krajo...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=72'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS2Fsd2FyaWFfWmVicnp5ZG93c2thXy1fa3Jham9icmF6b3d5X3plc3DDs8WCX21hbmllcnlzdHljem5lZ29fcGFya3VfcGllbGdyenlta293ZWdvL05JRC1wb21oaXMtS2Fsd2FyaWFfWmVicnp5ZG93c2thLTAwMy5qcGc=" alt="Kalwaria Zebrzydowska - krajo..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Kalwaria Zebrzydowska &ndash; unikatowe sanktuarium pasyjno-maryjne...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=72">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Twierdza Srebrnogórska - nowo...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=73'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVHdpZXJkemFfU3JlYnJub2fDs3Jza2FfLV9ub3dvxbx5dG5hX3dhcm93bmlhX2fDs3Jza2Ffel9YVklJSV93aWVrdS9OSUQtcG9taGlzLVNyZWJybmFfR29yYS0wMDcuanBn" alt="Twierdza Srebrnogórska - nowo..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Twierdza Srebrnog&oacute;rska została uznana za pomnik historii...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=73">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Kazimierz Dolny</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=74'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS2F6aW1pZXJ6X0RvbG55L05JRC1wb21oaXMtS2F6aW1pZXJ6X0RvbG55LTAwNC5qcGc=" alt="Kazimierz Dolny" itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Kazimierz Dolny &ndash; niewielka miejscowość położona w...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=74">zabytek</a></p>	
+			    	</article>
+						
+			
+            
+            </div>
+         								</div><footer> 						 
+            <ul class="list h ls3"> 							 
+              <li class="next"><a href="zabytki.html" ><img width="10" height="25" alt="Pokaż następne zabytki" title="Pokaż następne zabytki" src="/gfx/arrRightRed1.png"  /></a></li>
+             							 
+              <li class="prev"><a href="zabytki.html" ><img width="10" height="25" alt="Pokaż poprzednie zabytki" title="Pokaż poprzednie zabytki" src="/gfx/arrLeftRed1.png"  /></a></li>
+             						</ul>
+           					</footer> 	
+       			</section> 		</div>
+   
+<!-- KONIEC -->
+		 </div>
+<div style="clear:both;"></div>
+</div></div>
+ 		<hr/> 		
+
+<div style="background-color:#1a0022; min-width:1146px;">
+<footer id="footer"> 			
+    <p class="copyright">Copyright &copy; 2011 <b>Portal Mapowy</b></p>
+   <div class="nagrody"><a href="/Nowosci/news.php?ID=1202"><img src="/gfx/nagrody1.png" width="354" height="35"></a></div>						
+    <div class="line"> 				
+      <div class="unit md3" itemtype="http://schema.org/GovernmentOrganization" itemscope="itemscope"> 					
+        <h1 class="h3" itemprop="name">Narodowy Instytut Dziedzictwa</h1>
+       					
+        <div class="md3-media"> 						<img itemprop="image" width="219" height="57" alt="Narodowy Instytut Dziedzictwa" src="/gfx/logoNID2.png"  /> 					</div>
+       					
+      <p itemtype="http://schema.org/PostalAddress" itemscope="" itemprop="address"><span itemprop="streetAddress">ul. Kopernika 36/40</span>, <span itemprop="postalCode">00-924</span> <span itemprop="addressLocality">Warszawa</span></p>
+       					
+        <p>tel. <span itemprop="telephone">+48 22 826 02 39</span>, <span itemprop="telephone">22 826 92 47</span>, fax: <span itemprop="faxNumber">+48 22 826 17 14</span></p>
+ <p>e-mail. <a href="mailto:portal_mapowy@nid.pl">portal_mapowy@nid.pl</a></p>
+ <p><a href="http://www.zabytek.pl">www.zabytek.pl</a>, <a href="http://www.nid.pl">www.nid.pl</a></p>
+       				</div>
+     				
+      <div class="unit md4"> 					
+        <h1 class="h2 C"><img width="209" height="18" alt="Czekamy na TwĂłj komentarz" src="/gfx/hCzekamyNaTwojKomentarz.png"  /></h1>
+       					
+        <p>Masz uwagi co do działania portalu lub chcesz skontaktować się z nami w innej sprawie? <a href="/Kontakt/" class="ln1" >Napisz do nas</a></p>
+       				</div>
+     				
+      <ul class="unit md5"> 					
+        <li><a href="/" ><img width="116" height="45" alt="Portal Mapowy" src="/gfx/logoPM2.png"  /></a></li>
+        <li><a href="http://tnij.org/nid_apk"><img width="119" height="41" src="/gfx/google_play_logo.png" alt="Google Play"></a></li>
+        <li class="rss"><a href="/news.php" ><img alt="RSS" src="/gfx/icoRSS.png"  /></a></li>
+       				</ul>
+     			</div>
+   			
+    <div class="widget_container"> 				
+      <div class="widget_social"> 					<img src="/gfx/ico_fcb.gif" border="0" id="facebookIco"  /> 					
+        <div style="float: left; margin: 0pt;"> 						
+<script type="text/javascript" src="/js/pl_PL"></script>
+ 						
+<script	type="text/javascript">FB.init();</script>
+ 						<fb:fan height="330" width="190" logobar="1" connections="6" stream="0" profile_id="200305476647255"></fb:fan> 					</div>
+       				</div>
+     			</div>
+   			 	<div class="yt_container"><a href="http://www.youtube.com/tvNID" target="_blank" ><img src="/gfx/youtube.gif" border="0" id="YouTubeIco"  /></a></div>
+<script	type="text/javascript">
+				$('.widget_container').hover(function() {
+					$('.widget_container').css('overflow', 'visible');
+					$(this).stop().animate({
+						width: '250px'
+					}, 1000, null, function() { $('.widget_container').css('overflow', 'hidden'); });
+				}, function() {
+					$('.widget_container').css('overflow', 'hidden');
+					$(this).stop().animate({
+						width: '38px'
+					}, 1000);
+				});
+			</script>
+ 		</footer>
+<div style="background-color:#1a0022;height:70px;border-top:1px solid #CE003A;"></div> 
+</div>
+
+		</div>
+ 
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="/js/jquery.scrollTo-min.js"></script>
+
+<script src="/js/jquery.serialScroll-min.js"></script>
+ 	
+<script src="/js/sliders.js"></script>
+ 
+<script language="javascript" src="/js/jquery.printElement.min.js"></script>
+ 
+<script language="javascript" src="/js/pixastic.custom.js"></script>
+ 
+<script language="javascript" src="/js/print.js"></script>
+<script language="javascript" src="/js/lightbox.js"></script> 
+<script language="javascript" src="/js/grayScale.js"></script>
+<script language="javascript" src="/js/nid.js"></script>
+<script type="text/javascript" src="/ajax/kontakt/jquery.colorbox.js"></script>
+
+<script language="javascript">
+$(document).ready(function () {
+
+        $(".inline-pop").colorbox({inline:true, width:"413", height:"195"});
+		
+		
+});
+
+
+
+        $("ul.subnav").parent().append(""); //Only shows drop down trigger when js is enabled (Adds empty span tag after ul.subnav*)  
+      
+        $("ul.topnav li a").hover(function() { //When trigger is clicked...  
+      
+            //Following events are applied to the subnav itself (moving subnav up and down)  
+            $(this).parent().find("ul.subnav").slideDown('fast').show(); //Drop down the subnav on click  
+      
+            $(this).parent().hover(function() {  
+            }, function(){  
+                $(this).parent().find("ul.subnav").slideUp('slow'); //When the mouse hovers out of the subnav, move it back up  
+            });  
+      
+            //Following events are applied to the trigger (Hover events for the trigger)  
+            }).hover(function() {  
+                $(this).addClass("subhover"); //On hover over, add class "subhover"  
+            }, function(){  //On Hover Out  
+                $(this).removeClass("subhover"); //On hover out, remove class "subhover"  
+        });  
+
+
+</script>
+
+<script type="text/javascript">
+ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37373671-1']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
+</script>
+
+ </body>
+</html>http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=146

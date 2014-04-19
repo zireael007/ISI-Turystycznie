@@ -1,0 +1,649 @@
+<!DOCTYPE html>
+<html lang="pl" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width" /><!-- fixes CSS query min/max width on mobile -->
+<meta property="og:image" content='http://93.159.33.89/imgResize.php?scale=4&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAwMy5qcGc=' />
+<meta property="og:title" content="Toruń - Stare i Nowe Miasto" />
+<meta property="og:description" content="Toruń - Stare i Nowe Miasto" /> 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="Zabytki" />
+<meta name="description" content="NID Main Site" />
+<link href="/bitrix/js/main/core/css/core.css?1354612059" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/components/bitrix/menu/nid_horizontal_multilevel/style.css?1348129813" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/.default/components/bitrix/breadcrumb/.default/style.css?1333627633" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/styles.css?1389950861" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/template_styles.css?1389950861" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/bitrix/js/main/core/core.js?1390241314"></script>
+<script type="text/javascript">BX.message({'LANGUAGE_ID':'en','FORMAT_DATE':'DD/MM/YYYY','FORMAT_DATETIME':'DD/MM/YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','USER_ID':'','SERVER_TIME':'1397919314','SERVER_TZ_OFFSET':'7200','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'0344642d6b0ee65357e106e951e61b4c','SITE_ID':'10','JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In'})</script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ajax.js?1390241314"></script>
+<script type="text/javascript" src="/bitrix/js/main/session.js?1390241314"></script>
+<script type="text/javascript">
+bxSession.Expand(1440, '0344642d6b0ee65357e106e951e61b4c', false, '46fdca3a196e52b549fccc9b8be99e0b');
+</script>
+<link rel="shortcut icon" href="/nid.ico" />
+<link href="/styles/lightbox.css" rel="stylesheet" />
+
+<!--[if lt IE 9]><script>;(function(e){for(var i=0;e[i]; i++){document.createElement(e[i]);}})("abbr,article,aside,audio,canvas,datalist,details,summary,figure,figcaption,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(','));</script><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="Zabytki" />
+<meta name="description" content="NID Main Site" />
+<link href="/bitrix/js/main/core/css/core.css?1354612059" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/components/bitrix/menu/nid_horizontal_multilevel/style.css?1348129813" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/.default/components/bitrix/breadcrumb/.default/style.css?1333627633" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/styles.css?1389950861" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/template_styles.css?1389950861" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/bitrix/js/main/core/core.js?1390241314"></script>
+<script type="text/javascript">BX.message({'LANGUAGE_ID':'en','FORMAT_DATE':'DD/MM/YYYY','FORMAT_DATETIME':'DD/MM/YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','USER_ID':'','SERVER_TIME':'1397919314','SERVER_TZ_OFFSET':'7200','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'0344642d6b0ee65357e106e951e61b4c','SITE_ID':'10','JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In'})</script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ajax.js?1390241314"></script>
+<script type="text/javascript" src="/bitrix/js/main/session.js?1390241314"></script>
+<script type="text/javascript">
+bxSession.Expand(1440, '0344642d6b0ee65357e106e951e61b4c', false, '46fdca3a196e52b549fccc9b8be99e0b');
+</script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+
+
+</head>
+<body> 
+<div id="panel"></div>
+ 	
+<div id="main"> 		
+  <div class="skiplinks"><a href="#contentMain" >skocz do treści</a></div>
+ 		<hr/> 		<header id="header"> 			<hgroup> 				
+      <h1><a href="/" ><img width="180" height="70" alt="Portal Mapowy" src="/gfx/logoPortalMapowy.png"  /></a></h1>
+     				
+      <h2><a href="http://www.zabytek.pl" ><img width="275" height="73" alt="Narodowy Instytut Dziedzictwa" src="/gfx/logoNID.png"  /></a></h2>
+     			</hgroup> 			<nav class="nav"> 				
+
+<script src="/bitrix/templates/NID Informacja o zabytku/components/bitrix/menu/nid_horizontal_multilevel/script.js?1390241310" type="text/javascript"></script>
+<ul class="topnav">
+	<li class="strona-glowna "><a href="/" >Strona główna</a></li>    
+	
+		
+	
+	
+		
+							<li class="nowosci "><a href="/Nowosci/">Nowości</a></li>
+			
+		
+	
+	
+		
+	
+	
+		
+							<li class="o-portalu "><a href="/O_portalu/">O portalu</a></li>
+			
+		
+	
+	
+		
+	
+	
+					<li class="przewodnik "><a href="/Przewodnik/">Przewodnik</a>
+				<ul class="subnav">
+		
+	
+	
+		
+	
+	
+		
+												<li class="repo"><a href="/Przewodnik/Zrodla_danych/">Źródła danych</a></li>
+							
+		
+	
+	
+		
+	
+	
+		
+												<li class="mapy"><a href="http://geoportal.nid.pl/SDIPortal/" target="_blank" >Metadane</a></li>
+							
+		
+	
+	
+		
+	
+	
+		
+												<li class="repo"><a href="/Przewodnik/Wspolpraca/">Współpraca</a></li>
+							
+		
+	
+	
+		
+	
+	
+		
+												<li class="repo"><a href="/Przewodnik/Dokumentacja/">Dokumentacja</a></li>
+							
+		
+	
+	
+		
+	
+	
+		
+												<li class="repo"><a href="/Przewodnik/Faq/">FAQ</a></li>
+							
+		
+	
+	
+		
+			</ul></li>	
+	
+		
+							<li class="kalendarium "><a href="/Kalendarium/">Kalendarium</a></li>
+			
+		
+	
+	
+		
+	
+	
+		
+							<li class="sluzba-ochrony-zabytkow "><a href="/Sluzba_Ochrony_Zabytkow/">Służby konserwatorskie</a></li>
+			
+		
+	
+	
+		
+	
+	
+		
+							<li class="regulamin "><a href="/Regulamin/">Regulamin</a></li>
+			
+		
+	
+	
+		
+	
+	
+		
+							<li class="kontakt "><a href="/Kontakt/">Kontakt</a></li>
+			
+		
+	
+	
+
+
+</ul>
+<div class="menu-clear-left"></div>
+
+
+       		 		 
+        <div style="display: none;"> 			 
+          <div id="inline_popup" style="color: rgb(255, 255, 255);"> 
+			<div class="regulamin-pop">
+						<div class="m-20"><img src="/gfx/akceptacja_war.png" alt="" /></div>
+						<div class="ml-20 fs-13">Zapoznałem się z regulaminem, zgadzam się na jego warunki.</div>
+						<div class="mt-32">
+						   <div class="fl ml-20 mt-20"><a target="_blank" href="/Regulamin/">Przeczytaj regulamin</a></div>
+						   <div class="fl ml-20"><a target="_blank" href="http://geoportal.nid.pl"><img src="/gfx/yes_pop.png" alt="" /></a></div>
+						   <div class="fl ml-20"><a href="/"><img src="/gfx/no_pop.png" alt="" /></a></div>
+						   <div class="clr"></div>
+						</div>
+			</div>
+          </div>
+        </div>
+     			</nav> 			<form class="fo1" method="get" action="/Szukaj/"> 				<fieldset> 					<legend><span class="h0">Wyszukiwarka</span></legend> 					
+        <div> 						<label class="h0" for="FS-query">Szukana fraza</label> 						<input type="search" placeholder="Szukaj" id="FS-query" name="q" /> 					</div>
+       				</fieldset> 				
+      <div class="submit"> 					<input type="image" title="Szukaj" alt="Szukaj" src="/gfx/btnSearch.png" name="s" /> 				</div>
+     			</form> 		</header> 		<hr/> 
+
+<div style="background-image:url('/gfx/bgmc.jpg');background-repeat:repeat-x;background-position:bottom; ">				
+  <div id="contentWrapper">
+  
+  
+  
+  <div id="contentMain"><nav id="breadcrumbs"> Portal e-zabytek &gt; <span class="fat">Zabytek</span> </nav>
+ <hr/> 
+	<article class="pg3" itemscope="itemscope" itemtype="http://schema.org/LandmarksOrHistoricalBuildings">
+
+
+
+		
+		    <script language="javascript">
+    			document.title = "e-zabytek - Toruń - Stare i Nowe Miasto";
+   			 </script>
+
+
+		<header class="pg3-lc">
+			<hgroup> 						 
+				<h2><img width="383" height="57" alt="Informacja o zabytku" src="/gfx/hInformacjaOZabytku.png"  /></h2>
+				<h1 class="h1 E" itemprop="name">Toruń - Stare i Nowe Miasto</h1>
+	       	</hgroup>
+		</header>
+		<section class="pg3-rc"> 					 
+			<h2 class="h1"><img width="183" height="43" alt="Og&amp;oacute;lne informacje" src="/gfx/hOgolneInformacje.png"  /></h2>
+			<dl class="ls7">
+				<dt>Typ zabytku:</dt>
+				<dd>miasto</dd>
+				<dt>Chronologia:</dt>
+				<dd>XIII-XVIII w.</dd>
+				<dt>Forma ochrony:</dt>
+				<dd>pomnik historii</dd>
+				<dt>Lokalizacja:</dt>
+				<dd itemprop="address" itemscope="itemscope" itemtype="http://schema.org/PostalAddress">
+					<figure>
+					 						<iframe src="http://geoportal.nid.pl/SDIPortal/Map.aspx?gpm=9e29ba96-e450-4830-a87c-35b9f345bb25&navigator=false&scalebar=false&coords=false&bbox=472932.46441647,571094.648971924,474288.555823824,572234.388993482" style="border: medium none; height: 289px; width: 300px;"></iframe>
+					</figure>
+				</dd>
+				<dt>Właściciel praw autorskich:</dt>
+				<dd>Narodowy Instytut Dziedzictwa<br/>domena publiczna<br/></dd>
+				<dt>Typ licencji:</dt>
+				<dd>CC Uznanie autorstwa-Użycie niekomercyjne-Bez utworów zależnych 3.0 Polska<br/>domena publiczna<br/></dd>
+				<dt>Licencja:</dt>
+				<dd><a href="http://creativecommons.org/licenses/by-nc-nd/3.0/pl/legalcode" >http://creativecommons.org/licenses/by-nc-nd/3.0/pl/legalcode</a></dd>
+			</dl>
+			<section style="padding-bottom:15px;"> 						 
+				<h3 class="h6">Powiązane zabytki</h3>
+		        <ul class="ls8">
+		        					</ul>
+			</section>
+ 
+<div style="background:#ffffff; margin:0 0 -16px -20px; padding:30px; width:100%;"> 
+  <div class="md2 B"> 				<a href="http://geoportal.nid.pl/SDIPortal/?bbox=472932.46441647,571094.648971924,474288.555823824,572234.388993482" target="_blank"><img width="220" height="55" alt="Mapy" title="Mapy" src="/gfx/linkMapy3.png"  /></a> 			</div>
+ 
+  <div class="md2 B"> 				<a href="/Przewodnik/Repo/" target="_blank" ><img width="220" height="55" alt="Repo" title="Repo" src="/gfx/linkRepo.png"  /></a> 			</div>
+ 	 </div>
+ 	
+		</section>
+
+		<section class="md9"> 					 
+			<h2 class="h0">Galeria</h2>
+	 		<figure class="md9-img ln4">
+	 				 			<a href="/imgResize.php?scale=4&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAwMy5qcGc=" rel="lightbox" title="Toruń, gotycki ratusz na rynku Starego Miasta"><img itemprop="image" alt="Toruń, gotycki ratusz na rynku Starego Miasta" title="Toruń, gotycki ratusz na rynku Starego Miasta" src="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAwMy5qcGc=" id="image-full"  /> </a>
+	 			<p id="pic_description" style="padding:10px;">Toruń, gotycki ratusz na rynku Starego Miasta</p>
+	    		<h2 class="h0"> <br /></h2>
+			</figure> 					 
+	  		<div id="sliderGalleryWrapper"> 
+				<ol class="ls10" id="sliderGallery">
+					
+											<li><a href="/getDocument.php?doc=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAwMS5wZGY=&typ=PDF"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAwMS5wZGY=&typ=PDF" alt="Tekst prezentujący pomnik historii - Toruń - Stare i Nowe Miasto" title="Tekst prezentujący pomnik historii - Toruń - Stare i Nowe Miasto"  /></a></li>
+									
+											<li><a href="/getDocument.php?doc=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAwMi5wZGY=&typ=PDF"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAwMi5wZGY=&typ=PDF" alt="Zarządzenie Prezydenta RP uznające Toruń - Stare i Nowe Miasto za pomnik historii" title="Zarządzenie Prezydenta RP uznające Toruń - Stare i Nowe Miasto za pomnik historii"  /></a></li>
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAwNC5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAwNC5qcGc=" alt="Toruń, wieża Ratusza Staromiejskiego – najstarsza część budowli, zdobiona polichromowanym ornamentem maswerkowym (wieżyczki w narożach pochodzą z okresu manierystycznej przebudowy)" title="Toruń, wieża Ratusza Staromiejskiego – najstarsza część budowli, zdobiona polichromowanym ornamentem maswerkowym (wieżyczki w narożach pochodzą z okresu manierystycznej przebudowy)"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-004.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-004.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAwNS5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAwNS5qcGc=" alt="Toruń, sala we wnętrzu Ratusza Staromiejskiego" title="Toruń, sala we wnętrzu Ratusza Staromiejskiego"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-005.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-005.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAwNi5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAwNi5qcGc=" alt="Bryła kościoła katedralnego od strony Wisły" title="Bryła kościoła katedralnego od strony Wisły"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-006.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-006.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAwNy5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAwNy5qcGc=" alt="Scena Ukrzyżowania na drzewie Jessego na północnej ścianie prezbiterium katedry, 1389-1390" title="Scena Ukrzyżowania na drzewie Jessego na północnej ścianie prezbiterium katedry, 1389-1390"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-007.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-007.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAwOC5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAwOC5qcGc=" alt="Kościół pofranciszkański w północnej części Starego Miasta, 2. połowa XIV wieku" title="Kościół pofranciszkański w północnej części Starego Miasta, 2. połowa XIV wieku"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-008.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-008.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAwOS5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAwOS5qcGc=" alt="Pierzeja Rynku Nowego Miasta zamknięta gotyckim kościołem św. Jakuba z 1. połowy XIV wieku" title="Pierzeja Rynku Nowego Miasta zamknięta gotyckim kościołem św. Jakuba z 1. połowy XIV wieku"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-009.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-009.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAxMC5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAxMC5qcGc=" alt="Wieża ustępowa z prowadzącym do niej arkadowym łącznikiem z pocz. XIV wieku – jedyny zachowany w całości fragment zamku krzyżackiego" title="Wieża ustępowa z prowadzącym do niej arkadowym łącznikiem z pocz. XIV wieku – jedyny zachowany w całości fragment zamku krzyżackiego"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-010.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-010.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAxMS5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAxMS5qcGc=" alt="Krzywa Wieża w obrębie murów Starego Miasta, przełom XIII i XIV wieku" title="Krzywa Wieża w obrębie murów Starego Miasta, przełom XIII i XIV wieku"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-011.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-011.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAxMi5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAxMi5qcGc=" alt="Wieża Gołębnik w obrębie murów Starego Miasta, 1. połowa XIV wieku" title="Wieża Gołębnik w obrębie murów Starego Miasta, 1. połowa XIV wieku"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-012.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-012.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAxMy5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAxMy5qcGc=" alt="Wieża Wartownia należąca pierwotnie do zamku krzyżackiego, koniec XIII wieku" title="Wieża Wartownia należąca pierwotnie do zamku krzyżackiego, koniec XIII wieku"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-013.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-013.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAxNC5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAxNC5qcGc=" alt="Brama Mostowa w obrębie murów Starego Miasta, prowadząca niegdyś do mostu wiślanego, 1432" title="Brama Mostowa w obrębie murów Starego Miasta, prowadząca niegdyś do mostu wiślanego, 1432"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-014.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-014.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAxNS5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAxNS5qcGc=" alt="Brama Klasztorna w obrębie murów Starego Miasta, 1. połowa XIV wieku" title="Brama Klasztorna w obrębie murów Starego Miasta, 1. połowa XIV wieku"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-015.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-015.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAxNi5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAxNi5qcGc=" alt="Zrekonstruowana fasada gotyckiej kamienicy Starego Miasta, zwanej Domem Kopernika" title="Zrekonstruowana fasada gotyckiej kamienicy Starego Miasta, zwanej Domem Kopernika"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-016.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-016.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAxNy5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAxNy5qcGc=" alt="Dom Eskenów – gotycka kamienica przekształcona w XVI wieku na renesansową rezydencję mieszkalną" title="Dom Eskenów – gotycka kamienica przekształcona w XVI wieku na renesansową rezydencję mieszkalną"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-017.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-017.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAxOC5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVG9ydcWEXy1fU3RhcmVfaV9Ob3dlX01pYXN0by9OSUQtcG9taGlzLVRvcnVuLTAxOC5qcGc=" alt="Barokowa fasada kamienicy pod Gwiazdą we wschodniej pierzei Rynku Starego Miasta, 1679" title="Barokowa fasada kamienicy pod Gwiazdą we wschodniej pierzei Rynku Starego Miasta, 1679"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-018.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FToru%C5%84_-_Stare_i_Nowe_Miasto%2FNID-pomhis-Torun-018.jpg&width=60&height=60"/></li> -->
+													</ol>
+				<footer> 							 
+		          	<ul class="ls9"> 								 
+		            	<li class="next"><a href="#sliderGallery" ><img width="25" height="10" alt="Pokaż kolejne zdjęcia" title="Pokaż kolejne zdjęcia" src="/gfx/arrBottomRed1.png"  /></a></li>
+		           		<li class="prev"><a href="#sliderGallery" ><img width="25" height="10" alt="Pokaż poprzednie zdjęcia" title="Pokaż poprzednie zdjęcia" src="/gfx/arrTopRed1.png"  /></a></li>
+					</ul>
+				</footer>
+			</div>
+		</section>
+		<section> 					 
+			<h2 class="h6">Opis zabytku:</h2>
+	     	<div class="text B" itemprop="description">Zabytkowa część Torunia – Stare i Nowe Miasto – została uznana za pomnik historii w 1994 roku. <br/>Toruń, jedno z pierwszych miast na Pomorzu, założony został w XIII wieku przez zakon krzyżacki jako punkt wyjścia do podboju plemion pruskich i tworzenia państwa krzyżackiego. Położony na skrzyżowaniu szlaków handlowych między zachodnią i wschodnią Europą, szybko rozwinął się pod względem gospodarczym, odgrywając ważną rolę w związku miast hanzeatyckich. <br/>
+Wyjątkowo dobrze zachowana osnowa lokacyjna Starego i Nowego Miasta, z regularnym, szachownicowym rozplanowaniem ulic, jest doskonałym przykładem urbanistyki średniowiecznej właściwej dla miast zakładanych na prawie chełmińskim. Utrzymany bez zmian pierwotny podział na kwartały i bloki zabudowy w połączeniu z monumentalnymi bryłami gotyckich kościołów, okazałym ratuszem staromiejskim, ceglanymi spichrzami, basztami, bramami oraz licznymi kamienicami mieszczańskimi, z często oryginalnymi nowożytnymi stropami belkowymi we wnętrzach zdobionymi polichromią, czynią z historycznego centrum Torunia jeden z najbardziej autentycznych i integralnych zespołów architektoniczno-urbanistycznych o średniowiecznym rodowodzie. <br/>
+Wartość kulturowa miejsca w wymiarze niematerialnym zasadza się na jego związkach z postacią wielkiego astronoma Mikołaja Kopernika. <br/>
+<br/>
+<b>Historia</b><br/>
+W okresie od IX do XIII wieku istniał w miejscu Torunia słowiański gród otoczony wałami, strzegący przeprawy przez Wisłę. Początek miastu dali Krzyżacy – dokument lokacyjny z 1233 roku wystawiony przez mistrza krzyżackiego Hermanna von Salza jest pierwszą historyczną wzmianką o Toruniu. <br/> 
+Z powodu częstych powodzi wkrótce przeniesiono osadę w górę rzeki, w miejsce obecnego położenia Starego Miasta. Okres, w którym tworzyły się zasadnicze elementy zespołu średniowiecznego, był bardzo dynamiczny pod względem rozwoju przestrzennego. W 1264 roku po północno-wschodniej stronie Starego Miasta i istniejącego już zamku krzyżackiego powstało Nowe Miasto z osobnym przywilejem lokacyjnym. Proces wznoszenia zabudowy mieszczańskiej, obiektów użyteczności publicznej, jak i murowanych umocnień obronnych z bramami i basztami trwał do połowy XV wieku. Intensywny rozwój Torunia, od 1280 roku członka Hanzy, wynikał z jego szerokich kontaktów handlowych i gospodarczych. Oba miasta połączono w 1454 roku. Mieszczanie toruńscy powstali w tym czasie przeciw zakonowi krzyżackiemu, dając początek polsko-krzyżackiej wojnie trzynastoletniej. Na mocy II pokoju toruńskiego w 1466 roku Toruń wraz z Prusami Królewskimi został włączony do Rzeczypospolitej. Otrzymane od króla Kazimierza Jagiellończyka przywileje gwarantowały mu prawno-ustrojową niezależność utrzymaną aż do rozbiorów, dzięki czemu – podobnie jak Gdańsk i Elbląg – wyróżniał się na tle innych miast. Toruń bogacił się głównie na handlu wiślanym, składzie soli oraz wielkich dorocznych jarmarkach międzynarodowych. <br/>
+W 2. połowie XVI wieku na skutek rozszerzania się reformacji Toruń stał się oficjalnie miastem luterańskim. Od 2. połowy XVII wieku z powodu wojen szwedzkich rozpoczął się gorszy okres w historii miasta. Zniszczenia przyniosło zwłaszcza oblężenie szwedzkie z początku XVIII wieku w czasie wojny północnej. Ponadto narastające konflikty między ewangelikami i katolikami doprowadziły w 1724 roku do wydarzeń zwanych „tumultem toruńskim”, którego protestanccy uczestnicy zostali z królewskiego rozkazu surowo ukarani. <br/>
+Drugi rozbiór Polski w 1793 roku włączył Toruń w skład Królestwa Prus. Jako miasto wówczas przygraniczne, zostało przekształcone w twierdzę. XIX wiek przyniósł zmiany w zespole staromiejskim – powstały nowe obiekty związane z jego funkcją militarną, jak komenda garnizonu, szpital garnizonowy, koszary, arsenały artyleryjskie. II wojna światowa szczęśliwie nie spowodowała zniszczeń na terenie Torunia. <br/>
+Zabytkowa część miasta z zachowanym średniowiecznym układem urbanistycznym została uhonorowana w 1997 roku wpisem na Listę Światowego Dziedzictwa UNESCO. <br/>
+<br/>
+<b>Opis</b><br/>
+Zespół staromiejski Torunia składa się ze Starego i Nowego Miasta rozdzielonych ruinami zamku krzyżackiego. Jego stosunkowo jednorodna zabudowa obejmuje wysokiej klasy zabytki architektury. Do najstarszych i najcenniejszych obiektów należą: <br/>
+<b>Ratusz Staromiejski</b> – monumentalna gotycka budowla, powstała etapami w ciągu XIII i XIV wieku, z
+wewnętrznym dziedzińcem i wieżą w południowo-wschodniej połaci dachu. Jego elewacje na całej długości podzielone są profilowanymi, ostrołukowymi wnękami; narożniki ozdobione wieżyczkami. Projekt podwyższenia o drugie piętro w latach 1602-1605 wykonał prawdopodobnie Antoni van Obberghen, ówczesny budowniczy miejski Gdańska. Przebudowa nie zacierająca gotyckiego charakteru ratusza jest świadectwem uszanowania zastanej formy przez manierystycznego architekta. We wnętrzach zachowane są w kilku pomieszczeniach polichromowane stropy belkowe z XVIII wieku. <br/>
+<b>Kościół katedralny pw. św. św. Jana Ewangelisty i Jana Chrzciciela </b>– halowy, z wyodrębnionym prezbiterium i masywną wieżą od strony zachodniej, w której znajduje się największy średniowieczny dzwon w Polsce <i>Tuba Dei</i>. Elewacje boczne i ściany kaplic przeprute są wysokimi, ostrołukowymi oknami. We wnętrzu zachowały się fragmenty gotyckich malowideł ściennych, tryptyk w ołtarzu głównym oraz liczne rzeźby, obrazy i epitafia. <br/>
+<b>Kościół pw. Wniebowzięcia NMP</b>  –  pierwotnie należał do zakonu franciszkanów. Pozostałościami budynku klasztornego są południowe krużganki włączone w północną nawę kościoła i część skrzydła zachodniego. Wysoką, masywną bryłę budowli urozmaica ażurowy szczyt z trzema ośmiobocznymi wieżyczkami nad prezbiterium. We wnętrzu zachowały się gotyckie polichromie i elementy pierwotnego wyposażenia. <br/>
+<b>Kościół pw. św. Jakuba</b> – wzniesiony został z fundacji zakonu krzyżackiego jako fara Nowego Miasta. Bazylikowy korpus zdobi masywna, pięciokondygnacyjna wieża od strony zachodniej, zwieńczona parą czterospadowych dachów. We wnętrzu z oryginalnego wystroju zachowały się gotyckie malowidła ścienne. Wyposażenie ma charakter barokowy i rokokowy. <br/>
+<b>Zamek krzyżacki</b> – pierwszy zamek zakonu na ziemi chełmińskiej, w typie zamku wyżynnego, zbudowany na planie podkowy. Zburzony w trakcie powstania antykrzyżackiego w 1454 roku, funkcjonuje dzisiaj jako trwała ruina, z jedynym dobrze zachowanym elementem – gdaniskiem. <br/>
+<b>Mury miejskie</b> – wznoszone w latach 1250-1270, w XIV i XV wieku wielokrotnie przebudowywane, w XIX wieku częściowo rozebrane. Składają się z dwóch ciągów, wewnętrznego i zewnętrznego. Najlepiej zachowanym jest ciąg od strony Wisły. Liczne baszty w obrębie murów budowane były w
+różnych latach: Krzywa Wieża, Gołębnik, Wartownia, Monstrancja, Koci Łeb, Żuraw. Spośród jedenastu bram zachowały się: Mostowa, Klasztorna, Żeglarska. <br/>
+<b>Zespół kamienic mieszczańskich </b>– powstawał od XV do XIX wieku. Usytuowane szczytowo w stosunku do ulic kamienice są przeważnie trzypiętrowe, z trójosiowymi fasadami. Do ważnych pod względem historycznym należy Dom Kopernika – późnogotycka, zrekonstruowana na podstawie zachowanych fragmentów, uznawana za przypuszczalne miejsce narodzin Mikołaja Kopernika. Obok niej znajduje się kamienica z pocz. XV wieku o jednej z nielicznych nieprzekształconych w późniejszych okresach fasad gotyckich i zachowanym układzie wnętrz. Ciekawym zabytkiem budownictwa mieszkalnego o gotyckiej proweniencji jest <b>Dom Eskenów</b>, przebudowany w XVI wieku na renesansową rezydencję. Najdoskonalszy zaś przykład toruńskiej kamienicy patrycjuszowskiej z okresu baroku to <b>kamienica Pod Gwiazdą</b> z niezwykle bogatą, stiukową dekoracją frontu. <br/>
+<b>Spichlerze</b> – położone w południowej, nadwiślańskiej części miasta, powstawały od XV do XIX wieku. Większość była wielokrotnie przebudowywana. Najlepiej zachowany gotycki spichlerz ze szczytem rozczłonkowanym blendami usytuowany jest przy ulicy Piekary 4. <br/>
+<br/>
+<i>Oprac. A. Kucińska-Isaac</i>
+
+</div>
+		</section>
+		<footer> 					 
+			<p style="margin-top:10px;"><a href="#" onclick="history.go(-1)" class="ln7" >Powr&oacute;t</a></p>
+		</footer>
+<section> 
+    <ul class="list h ls4" style="margin-top:20px;"> 						 
+      <li><a onclick="print('.pg3')" class="ln3 print" style="cursor:pointer;" >Drukuj artykuł</a></li>
+     						 
+      <li><a href="http://www.facebook.com/sharer.php?u=http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=9" class="ln3 fb" style="cursor:pointer;" >Publikuj na Facebooku</a></li>
+     						 					</ul>
+</section>
+	</article>
+
+
+	
+	
+	
+	
+	
+	
+	</div>
+  
+  
+  
+  <hr/> 		 
+  
+   		 		<hr/> 
+    <div id="sidebar2"> 			<section> 				 
+        <h1 class="h1 C"><img width="269" height="29" alt="Nowe zabytki" title="Nowe zabytki" src="/gfx/hNoweZabytki.png"  /></h1>
+       				 
+        <div id="sliderMonumetsWrapper" class="md7"> 					 
+          <div id="sliderMonumets"> 					 
+            <div class="line">
+            
+            			    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Frombork - zespół katedralny</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=60'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvRnJvbWJvcmtfLV96ZXNww7PFgl9rYXRlZHJhbG55L05JRC1wb21oaXMtRnJvbWJvcmstMDAzLmpwZw==" alt="Frombork - zespół katedralny" itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Zesp&oacute;ł katedralny we Fromborku został uznany za pomnik...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=60">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Bohoniki i Kruszyniany - mecz...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=205'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvQm9ob25pa2lfaV9LcnVzenluaWFueV8tX21lY3pldHlfaV9taXphcnkvTklELXBvbWhpcy1LcnVzenluaWFueS0wMDMuanBn" alt="Bohoniki i Kruszyniany - mecz..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Meczety i mizary (cmentarze) w Bohonikach i Kruszynianach...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=205">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Katowice - Gmach Województwa ...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=206'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS2F0b3dpY2VfLV9HbWFjaF9Xb2pld8OzZHp0d2FfaV9TZWptdV/FmmzEhXNraWVnby9OSUQtcG9taGlzLUthdG93aWNlX0dtYWNoLTAwMy5qcGc=" alt="Katowice - Gmach Województwa ..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Gmach Wojew&oacute;dztwa i Sejmu Śląskiego w Katowicach to...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=206">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Łowicz - Bazylika Katedralna ...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=207'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvxYFvd2ljel8tX0JhenlsaWthX0thdGVkcmFsbmFfKGRhd25hX0tvbGVnaWF0YV9QcnltYXNvd3NrYSlfcG9kX3dlendhbmllbV9XbmllYm93emnEmWNpYV9OYWrFm3dpxJl0c3plal9NYXJpaV9QYW5ueS9OSUQtcG9taGlzLUxvd2ljei0wMDMuanBn" alt="Łowicz - Bazylika Katedralna ..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Katedra łowicka jest zabytkiem o szczeg&oacute;lnym znaczeniu...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=207">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Sulejów - zespół opactwa cyst...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=208'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvU3VsZWrDs3dfLV96ZXNww7PFgl9vcGFjdHdhX2N5c3RlcnPDs3cvTklELXBvbWhpcy1TdWxlam93LTAwMy5qcGc=" alt="Sulejów - zespół opactwa cyst..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Klasztor obronny w Sulejowie z kościołem, zabudowaniami i...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=208">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Paczków - zespół staromiejski...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=209'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvUGFjemvDs3dfLV96ZXNww7PFgl9zdGFyb21pZWpza2lfemVfxZtyZWRuaW93aWVjem55bV9zeXN0ZW1lbV9mb3J0eWZpa2FjamkvTklELXBvbWhpcy1QYWN6a293LTAwNC5qcGc=" alt="Paczków - zespół staromiejski..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Mury Paczkowa należą do najlepiej zachowanych średniowiecznych...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=209">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Strzegom - kościół pod wezwan...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=204'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvU3RyemVnb21fLV9rb8WbY2nDs8WCX3BvZF93ZXp3YW5pZW1fxZt3Ll9BcG9zdG/FgsOzd19QaW90cmFfaV9QYXfFgmEvTklELXBvbWhpcy1TdHJ6ZWdvbS0wMDEuanBn" alt="Strzegom - kościół pod wezwan..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Strzegomski kości&oacute;ł pod wezwaniem Świętych Apostoł&oacute;w...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=204">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Warszawa - Zamek Królewski</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=201'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDAyLmpwZw==" alt="Warszawa - Zamek Królewski" itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p class="Default"><strong>Zamek średniowieczny<br /></strong>Powstanie...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=201">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Tarnowskie Góry - podziemia z...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=71'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVGFybm93c2tpZV9Hw7NyeV8tX3BvZHppZW1pYV96YWJ5dGtvd2VqX2tvcGFsbmlfcnVkX3NyZWJyb25vxZtueWNoX29yYXpfc3p0b2xuaV9DemFybmVnb19Qc3RyxIVnYS9OSUQtcG9taGlzLVRhcm5vd3NraWVfR29yeS0wMDUuanBn" alt="Tarnowskie Góry - podziemia z..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Podziemia zabytkowej kopalni rud srebronośnych oraz sztolni...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=71">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Kalwaria Zebrzydowska - krajo...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=72'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS2Fsd2FyaWFfWmVicnp5ZG93c2thXy1fa3Jham9icmF6b3d5X3plc3DDs8WCX21hbmllcnlzdHljem5lZ29fcGFya3VfcGllbGdyenlta293ZWdvL05JRC1wb21oaXMtS2Fsd2FyaWFfWmVicnp5ZG93c2thLTAwMy5qcGc=" alt="Kalwaria Zebrzydowska - krajo..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Kalwaria Zebrzydowska &ndash; unikatowe sanktuarium pasyjno-maryjne...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=72">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Twierdza Srebrnogórska - nowo...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=73'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVHdpZXJkemFfU3JlYnJub2fDs3Jza2FfLV9ub3dvxbx5dG5hX3dhcm93bmlhX2fDs3Jza2Ffel9YVklJSV93aWVrdS9OSUQtcG9taGlzLVNyZWJybmFfR29yYS0wMDcuanBn" alt="Twierdza Srebrnogórska - nowo..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Twierdza Srebrnog&oacute;rska została uznana za pomnik historii...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=73">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Kazimierz Dolny</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=74'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS2F6aW1pZXJ6X0RvbG55L05JRC1wb21oaXMtS2F6aW1pZXJ6X0RvbG55LTAwNC5qcGc=" alt="Kazimierz Dolny" itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Kazimierz Dolny &ndash; niewielka miejscowość położona w...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=74">zabytek</a></p>	
+			    	</article>
+						
+			
+            
+            </div>
+         								</div><footer> 						 
+            <ul class="list h ls3"> 							 
+              <li class="next"><a href="zabytki.html" ><img width="10" height="25" alt="Pokaż następne zabytki" title="Pokaż następne zabytki" src="/gfx/arrRightRed1.png"  /></a></li>
+             							 
+              <li class="prev"><a href="zabytki.html" ><img width="10" height="25" alt="Pokaż poprzednie zabytki" title="Pokaż poprzednie zabytki" src="/gfx/arrLeftRed1.png"  /></a></li>
+             						</ul>
+           					</footer> 	
+       			</section> 		</div>
+   
+<!-- KONIEC -->
+		 </div>
+<div style="clear:both;"></div>
+</div></div>
+ 		<hr/> 		
+
+<div style="background-color:#1a0022; min-width:1146px;">
+<footer id="footer"> 			
+    <p class="copyright">Copyright &copy; 2011 <b>Portal Mapowy</b></p>
+   <div class="nagrody"><a href="/Nowosci/news.php?ID=1202"><img src="/gfx/nagrody1.png" width="354" height="35"></a></div>						
+    <div class="line"> 				
+      <div class="unit md3" itemtype="http://schema.org/GovernmentOrganization" itemscope="itemscope"> 					
+        <h1 class="h3" itemprop="name">Narodowy Instytut Dziedzictwa</h1>
+       					
+        <div class="md3-media"> 						<img itemprop="image" width="219" height="57" alt="Narodowy Instytut Dziedzictwa" src="/gfx/logoNID2.png"  /> 					</div>
+       					
+      <p itemtype="http://schema.org/PostalAddress" itemscope="" itemprop="address"><span itemprop="streetAddress">ul. Kopernika 36/40</span>, <span itemprop="postalCode">00-924</span> <span itemprop="addressLocality">Warszawa</span></p>
+       					
+        <p>tel. <span itemprop="telephone">+48 22 826 02 39</span>, <span itemprop="telephone">22 826 92 47</span>, fax: <span itemprop="faxNumber">+48 22 826 17 14</span></p>
+ <p>e-mail. <a href="mailto:portal_mapowy@nid.pl">portal_mapowy@nid.pl</a></p>
+ <p><a href="http://www.zabytek.pl">www.zabytek.pl</a>, <a href="http://www.nid.pl">www.nid.pl</a></p>
+       				</div>
+     				
+      <div class="unit md4"> 					
+        <h1 class="h2 C"><img width="209" height="18" alt="Czekamy na TwĂłj komentarz" src="/gfx/hCzekamyNaTwojKomentarz.png"  /></h1>
+       					
+        <p>Masz uwagi co do działania portalu lub chcesz skontaktować się z nami w innej sprawie? <a href="/Kontakt/" class="ln1" >Napisz do nas</a></p>
+       				</div>
+     				
+      <ul class="unit md5"> 					
+        <li><a href="/" ><img width="116" height="45" alt="Portal Mapowy" src="/gfx/logoPM2.png"  /></a></li>
+        <li><a href="http://tnij.org/nid_apk"><img width="119" height="41" src="/gfx/google_play_logo.png" alt="Google Play"></a></li>
+        <li class="rss"><a href="/news.php" ><img alt="RSS" src="/gfx/icoRSS.png"  /></a></li>
+       				</ul>
+     			</div>
+   			
+    <div class="widget_container"> 				
+      <div class="widget_social"> 					<img src="/gfx/ico_fcb.gif" border="0" id="facebookIco"  /> 					
+        <div style="float: left; margin: 0pt;"> 						
+<script type="text/javascript" src="/js/pl_PL"></script>
+ 						
+<script	type="text/javascript">FB.init();</script>
+ 						<fb:fan height="330" width="190" logobar="1" connections="6" stream="0" profile_id="200305476647255"></fb:fan> 					</div>
+       				</div>
+     			</div>
+   			 	<div class="yt_container"><a href="http://www.youtube.com/tvNID" target="_blank" ><img src="/gfx/youtube.gif" border="0" id="YouTubeIco"  /></a></div>
+<script	type="text/javascript">
+				$('.widget_container').hover(function() {
+					$('.widget_container').css('overflow', 'visible');
+					$(this).stop().animate({
+						width: '250px'
+					}, 1000, null, function() { $('.widget_container').css('overflow', 'hidden'); });
+				}, function() {
+					$('.widget_container').css('overflow', 'hidden');
+					$(this).stop().animate({
+						width: '38px'
+					}, 1000);
+				});
+			</script>
+ 		</footer>
+<div style="background-color:#1a0022;height:70px;border-top:1px solid #CE003A;"></div> 
+</div>
+
+		</div>
+ 
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="/js/jquery.scrollTo-min.js"></script>
+
+<script src="/js/jquery.serialScroll-min.js"></script>
+ 	
+<script src="/js/sliders.js"></script>
+ 
+<script language="javascript" src="/js/jquery.printElement.min.js"></script>
+ 
+<script language="javascript" src="/js/pixastic.custom.js"></script>
+ 
+<script language="javascript" src="/js/print.js"></script>
+<script language="javascript" src="/js/lightbox.js"></script> 
+<script language="javascript" src="/js/grayScale.js"></script>
+<script language="javascript" src="/js/nid.js"></script>
+<script type="text/javascript" src="/ajax/kontakt/jquery.colorbox.js"></script>
+
+<script language="javascript">
+$(document).ready(function () {
+
+        $(".inline-pop").colorbox({inline:true, width:"413", height:"195"});
+		
+		
+});
+
+
+
+        $("ul.subnav").parent().append(""); //Only shows drop down trigger when js is enabled (Adds empty span tag after ul.subnav*)  
+      
+        $("ul.topnav li a").hover(function() { //When trigger is clicked...  
+      
+            //Following events are applied to the subnav itself (moving subnav up and down)  
+            $(this).parent().find("ul.subnav").slideDown('fast').show(); //Drop down the subnav on click  
+      
+            $(this).parent().hover(function() {  
+            }, function(){  
+                $(this).parent().find("ul.subnav").slideUp('slow'); //When the mouse hovers out of the subnav, move it back up  
+            });  
+      
+            //Following events are applied to the trigger (Hover events for the trigger)  
+            }).hover(function() {  
+                $(this).addClass("subhover"); //On hover over, add class "subhover"  
+            }, function(){  //On Hover Out  
+                $(this).removeClass("subhover"); //On hover out, remove class "subhover"  
+        });  
+
+
+</script>
+
+<script type="text/javascript">
+ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37373671-1']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
+</script>
+
+ </body>
+</html>http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=9

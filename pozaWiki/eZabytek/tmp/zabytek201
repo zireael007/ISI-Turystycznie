@@ -1,0 +1,614 @@
+<!DOCTYPE html>
+<html lang="pl" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width" /><!-- fixes CSS query min/max width on mobile -->
+<meta property="og:image" content='http://93.159.33.89/imgResize.php?scale=4&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDAyLmpwZw==' />
+<meta property="og:title" content="Warszawa - Zamek Królewski" />
+<meta property="og:description" content="Warszawa - Zamek Królewski" /> 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="Zabytki" />
+<meta name="description" content="NID Main Site" />
+<link href="/bitrix/js/main/core/css/core.css?1354612059" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/components/bitrix/menu/nid_horizontal_multilevel/style.css?1348129813" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/.default/components/bitrix/breadcrumb/.default/style.css?1333627633" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/styles.css?1389950861" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/template_styles.css?1389950861" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/bitrix/js/main/core/core.js?1390241314"></script>
+<script type="text/javascript">BX.message({'LANGUAGE_ID':'en','FORMAT_DATE':'DD/MM/YYYY','FORMAT_DATETIME':'DD/MM/YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','USER_ID':'','SERVER_TIME':'1397919953','SERVER_TZ_OFFSET':'7200','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'d1e8908c535a8b990382140f5d1cdcac','SITE_ID':'10','JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In'})</script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ajax.js?1390241314"></script>
+<script type="text/javascript" src="/bitrix/js/main/session.js?1390241314"></script>
+<script type="text/javascript">
+bxSession.Expand(1440, 'd1e8908c535a8b990382140f5d1cdcac', false, '6dea50b650cfc35cd98a6abfcab43b85');
+</script>
+<link rel="shortcut icon" href="/nid.ico" />
+<link href="/styles/lightbox.css" rel="stylesheet" />
+
+<!--[if lt IE 9]><script>;(function(e){for(var i=0;e[i]; i++){document.createElement(e[i]);}})("abbr,article,aside,audio,canvas,datalist,details,summary,figure,figcaption,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(','));</script><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="Zabytki" />
+<meta name="description" content="NID Main Site" />
+<link href="/bitrix/js/main/core/css/core.css?1354612059" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/components/bitrix/menu/nid_horizontal_multilevel/style.css?1348129813" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/.default/components/bitrix/breadcrumb/.default/style.css?1333627633" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/styles.css?1389950861" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/template_styles.css?1389950861" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/bitrix/js/main/core/core.js?1390241314"></script>
+<script type="text/javascript">BX.message({'LANGUAGE_ID':'en','FORMAT_DATE':'DD/MM/YYYY','FORMAT_DATETIME':'DD/MM/YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','USER_ID':'','SERVER_TIME':'1397919953','SERVER_TZ_OFFSET':'7200','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'d1e8908c535a8b990382140f5d1cdcac','SITE_ID':'10','JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In'})</script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ajax.js?1390241314"></script>
+<script type="text/javascript" src="/bitrix/js/main/session.js?1390241314"></script>
+<script type="text/javascript">
+bxSession.Expand(1440, 'd1e8908c535a8b990382140f5d1cdcac', false, '6dea50b650cfc35cd98a6abfcab43b85');
+</script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+
+
+</head>
+<body> 
+<div id="panel"></div>
+ 	
+<div id="main"> 		
+  <div class="skiplinks"><a href="#contentMain" >skocz do treści</a></div>
+ 		<hr/> 		<header id="header"> 			<hgroup> 				
+      <h1><a href="/" ><img width="180" height="70" alt="Portal Mapowy" src="/gfx/logoPortalMapowy.png"  /></a></h1>
+     				
+      <h2><a href="http://www.zabytek.pl" ><img width="275" height="73" alt="Narodowy Instytut Dziedzictwa" src="/gfx/logoNID.png"  /></a></h2>
+     			</hgroup> 			<nav class="nav"> 				
+
+<script src="/bitrix/templates/NID Informacja o zabytku/components/bitrix/menu/nid_horizontal_multilevel/script.js?1390241310" type="text/javascript"></script>
+<ul class="topnav">
+	<li class="strona-glowna "><a href="/" >Strona główna</a></li>    
+	
+		
+	
+	
+		
+							<li class="nowosci "><a href="/Nowosci/">Nowości</a></li>
+			
+		
+	
+	
+		
+	
+	
+		
+							<li class="o-portalu "><a href="/O_portalu/">O portalu</a></li>
+			
+		
+	
+	
+		
+	
+	
+					<li class="przewodnik "><a href="/Przewodnik/">Przewodnik</a>
+				<ul class="subnav">
+		
+	
+	
+		
+	
+	
+		
+												<li class="repo"><a href="/Przewodnik/Zrodla_danych/">Źródła danych</a></li>
+							
+		
+	
+	
+		
+	
+	
+		
+												<li class="mapy"><a href="http://geoportal.nid.pl/SDIPortal/" target="_blank" >Metadane</a></li>
+							
+		
+	
+	
+		
+	
+	
+		
+												<li class="repo"><a href="/Przewodnik/Wspolpraca/">Współpraca</a></li>
+							
+		
+	
+	
+		
+	
+	
+		
+												<li class="repo"><a href="/Przewodnik/Dokumentacja/">Dokumentacja</a></li>
+							
+		
+	
+	
+		
+	
+	
+		
+												<li class="repo"><a href="/Przewodnik/Faq/">FAQ</a></li>
+							
+		
+	
+	
+		
+			</ul></li>	
+	
+		
+							<li class="kalendarium "><a href="/Kalendarium/">Kalendarium</a></li>
+			
+		
+	
+	
+		
+	
+	
+		
+							<li class="sluzba-ochrony-zabytkow "><a href="/Sluzba_Ochrony_Zabytkow/">Służby konserwatorskie</a></li>
+			
+		
+	
+	
+		
+	
+	
+		
+							<li class="regulamin "><a href="/Regulamin/">Regulamin</a></li>
+			
+		
+	
+	
+		
+	
+	
+		
+							<li class="kontakt "><a href="/Kontakt/">Kontakt</a></li>
+			
+		
+	
+	
+
+
+</ul>
+<div class="menu-clear-left"></div>
+
+
+       		 		 
+        <div style="display: none;"> 			 
+          <div id="inline_popup" style="color: rgb(255, 255, 255);"> 
+			<div class="regulamin-pop">
+						<div class="m-20"><img src="/gfx/akceptacja_war.png" alt="" /></div>
+						<div class="ml-20 fs-13">Zapoznałem się z regulaminem, zgadzam się na jego warunki.</div>
+						<div class="mt-32">
+						   <div class="fl ml-20 mt-20"><a target="_blank" href="/Regulamin/">Przeczytaj regulamin</a></div>
+						   <div class="fl ml-20"><a target="_blank" href="http://geoportal.nid.pl"><img src="/gfx/yes_pop.png" alt="" /></a></div>
+						   <div class="fl ml-20"><a href="/"><img src="/gfx/no_pop.png" alt="" /></a></div>
+						   <div class="clr"></div>
+						</div>
+			</div>
+          </div>
+        </div>
+     			</nav> 			<form class="fo1" method="get" action="/Szukaj/"> 				<fieldset> 					<legend><span class="h0">Wyszukiwarka</span></legend> 					
+        <div> 						<label class="h0" for="FS-query">Szukana fraza</label> 						<input type="search" placeholder="Szukaj" id="FS-query" name="q" /> 					</div>
+       				</fieldset> 				
+      <div class="submit"> 					<input type="image" title="Szukaj" alt="Szukaj" src="/gfx/btnSearch.png" name="s" /> 				</div>
+     			</form> 		</header> 		<hr/> 
+
+<div style="background-image:url('/gfx/bgmc.jpg');background-repeat:repeat-x;background-position:bottom; ">				
+  <div id="contentWrapper">
+  
+  
+  
+  <div id="contentMain"><nav id="breadcrumbs"> Portal e-zabytek &gt; <span class="fat">Zabytek</span> </nav>
+ <hr/> 
+	<article class="pg3" itemscope="itemscope" itemtype="http://schema.org/LandmarksOrHistoricalBuildings">
+
+
+
+		
+		    <script language="javascript">
+    			document.title = "e-zabytek - Warszawa - Zamek Królewski";
+   			 </script>
+
+
+		<header class="pg3-lc">
+			<hgroup> 						 
+				<h2><img width="383" height="57" alt="Informacja o zabytku" src="/gfx/hInformacjaOZabytku.png"  /></h2>
+				<h1 class="h1 E" itemprop="name">Warszawa - Zamek Królewski</h1>
+	       	</hgroup>
+		</header>
+		<section class="pg3-rc"> 					 
+			<h2 class="h1"><img width="183" height="43" alt="Og&amp;oacute;lne informacje" src="/gfx/hOgolneInformacje.png"  /></h2>
+			<dl class="ls7">
+				<dt>Typ zabytku:</dt>
+				<dd>zamek</dd>
+				<dt>Chronologia:</dt>
+				<dd>odbudowa 1971 -1984</dd>
+				<dt>Forma ochrony:</dt>
+				<dd>rejestr zabytków</dd>
+				<dt>Lokalizacja:</dt>
+				<dd itemprop="address" itemscope="itemscope" itemtype="http://schema.org/PostalAddress">
+					<figure>
+					 						<iframe src="http://geoportal.nid.pl/SDIPortal/Map.aspx?gpm=9e29ba96-e450-4830-a87c-35b9f345bb25&navigator=false&scalebar=false&coords=false&bbox=637300.054048459,488629.212274371,637650.143674128,489017.435611418" style="border: medium none; height: 289px; width: 300px;"></iframe>
+					</figure>
+				</dd>
+				<dt>Właściciel praw autorskich:</dt>
+				<dd>Narodowy Instytut Dziedzictwa<br/>domena publiczna<br/></dd>
+				<dt>Typ licencji:</dt>
+				<dd>CC Uznanie autorstwa - Użycie niekomercyjne- Bez utworów zależnych 3.0. Polska<br/>domena publiczna<br/></dd>
+				<dt>Licencja:</dt>
+				<dd><a href="http://creativecommons.org/licenses/by-nc-nd/3.0/pl/legalcode" >http://creativecommons.org/licenses/by-nc-nd/3.0/pl/legalcode</a></dd>
+			</dl>
+			<section style="padding-bottom:15px;"> 						 
+				<h3 class="h6">Powiązane zabytki</h3>
+		        <ul class="ls8">
+		        				
+		        		<li><a href="/Zabytek/szczegoly.php?ID=47" >Warszawa - historyczny zespół miasta z Traktem Królewskim i Wilanowem</a></li>
+		         					</ul>
+			</section>
+ 
+<div style="background:#ffffff; margin:0 0 -16px -20px; padding:30px; width:100%;"> 
+  <div class="md2 B"> 				<a href="http://geoportal.nid.pl/SDIPortal/?bbox=637300.054048459,488629.212274371,637650.143674128,489017.435611418" target="_blank"><img width="220" height="55" alt="Mapy" title="Mapy" src="/gfx/linkMapy3.png"  /></a> 			</div>
+ 
+  <div class="md2 B"> 				<a href="/Przewodnik/Repo/" target="_blank" ><img width="220" height="55" alt="Repo" title="Repo" src="/gfx/linkRepo.png"  /></a> 			</div>
+ 	 </div>
+ 	
+		</section>
+
+		<section class="md9"> 					 
+			<h2 class="h0">Galeria</h2>
+	 		<figure class="md9-img ln4">
+	 				 			<a href="/imgResize.php?scale=4&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDAyLmpwZw==" rel="lightbox" title="Warszawa, woj. mazowieckie, archiwum NID, zdjęcie lotnicze, widok ogólny zamku i  Starego Miasta od strony Pałacu Pod Blachą (od południowego wschodu), fot. W. Stępień, 2000"><img itemprop="image" alt="Warszawa, woj. mazowieckie, archiwum NID, zdjęcie lotnicze, widok ogólny zamku i  Starego Miasta od strony Pałacu Pod Blachą (od południowego wschodu), fot. W. Stępień, 2000" title="Warszawa, woj. mazowieckie, archiwum NID, zdjęcie lotnicze, widok ogólny zamku i  Starego Miasta od strony Pałacu Pod Blachą (od południowego wschodu), fot. W. Stępień, 2000" src="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDAyLmpwZw==" id="image-full"  /> </a>
+	 			<p id="pic_description" style="padding:10px;">Warszawa, woj. mazowieckie, archiwum NID, zdjęcie lotnicze, widok ogólny zamku i  Starego Miasta od strony Pałacu Pod Blachą (od południowego wschodu), fot. W. Stępień, 2000</p>
+	    		<h2 class="h0"> <br /></h2>
+			</figure> 					 
+	  		<div id="sliderGalleryWrapper"> 
+				<ol class="ls10" id="sliderGallery">
+					
+											<li><a href="/getDocument.php?doc=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDAxLnBkZg==&typ=PDF"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDAxLnBkZg==&typ=PDF" alt="Warszawa - Zamek Królewski, woj. mazowieckie" title="Warszawa - Zamek Królewski, woj. mazowieckie"  /></a></li>
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDAzLmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDAzLmpwZw==" alt="Warszawa, woj. mazowieckie, archiwum NID, fasada od strony Wisły" title="Warszawa, woj. mazowieckie, archiwum NID, fasada od strony Wisły"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FZamki%2FWarszawa_-_Zamek_Kr%C3%B3lewski%2FNID-zamki-Warszawa-003.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FZamki%2FWarszawa_-_Zamek_Kr%C3%B3lewski%2FNID-zamki-Warszawa-003.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDA0LmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDA0LmpwZw==" alt="Warszawa, woj. mazowieckie, archiwum NID, widok na zamek z ulicy Świętojańskiej na Starym Mieście" title="Warszawa, woj. mazowieckie, archiwum NID, widok na zamek z ulicy Świętojańskiej na Starym Mieście"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FZamki%2FWarszawa_-_Zamek_Kr%C3%B3lewski%2FNID-zamki-Warszawa-004.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FZamki%2FWarszawa_-_Zamek_Kr%C3%B3lewski%2FNID-zamki-Warszawa-004.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDA1LmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDA1LmpwZw==" alt="Warszawa, woj. mazowieckie, archiwum NID, zdjęcie lotnicze, widok ogólny zamku od południa, fot. Z. Siemaszko, 1975" title="Warszawa, woj. mazowieckie, archiwum NID, zdjęcie lotnicze, widok ogólny zamku od południa, fot. Z. Siemaszko, 1975"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FZamki%2FWarszawa_-_Zamek_Kr%C3%B3lewski%2FNID-zamki-Warszawa-005.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FZamki%2FWarszawa_-_Zamek_Kr%C3%B3lewski%2FNID-zamki-Warszawa-005.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDA2LmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDA2LmpwZw==" alt="Warszawa, woj. mazowieckie, archiwum NID, zdjęcie lotnicze, widok na zamek od południowego wschodu, fot. W. Stępień, 1992" title="Warszawa, woj. mazowieckie, archiwum NID, zdjęcie lotnicze, widok na zamek od południowego wschodu, fot. W. Stępień, 1992"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FZamki%2FWarszawa_-_Zamek_Kr%C3%B3lewski%2FNID-zamki-Warszawa-006.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FZamki%2FWarszawa_-_Zamek_Kr%C3%B3lewski%2FNID-zamki-Warszawa-006.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDA3LmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDA3LmpwZw==" alt="Warszawa, woj. mazowieckie, archiwum NID, klisza szklana, widok na zamek po 1918 roku od południa, fot. Jan Bułhak, po 1918" title="Warszawa, woj. mazowieckie, archiwum NID, klisza szklana, widok na zamek po 1918 roku od południa, fot. Jan Bułhak, po 1918"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FZamki%2FWarszawa_-_Zamek_Kr%C3%B3lewski%2FNID-zamki-Warszawa-007.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FZamki%2FWarszawa_-_Zamek_Kr%C3%B3lewski%2FNID-zamki-Warszawa-007.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDA4LmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDA4LmpwZw==" alt="Warszawa, woj. mazowieckie, archiwum NID, widok na zamek od zachodu prawdopodobnie w 1945 roku, fot. Janusz Bułhak, 1945" title="Warszawa, woj. mazowieckie, archiwum NID, widok na zamek od zachodu prawdopodobnie w 1945 roku, fot. Janusz Bułhak, 1945"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FZamki%2FWarszawa_-_Zamek_Kr%C3%B3lewski%2FNID-zamki-Warszawa-008.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FZamki%2FWarszawa_-_Zamek_Kr%C3%B3lewski%2FNID-zamki-Warszawa-008.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDA5LmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDA5LmpwZw==" alt="Warszawa, woj. mazowieckie, archiwum NID, widok na ruiny zamku  (na tzw. Okno Żeromskiego) i Pałac pod Blachą od północnego-zachodu w 1949 roku, fot. Janusz Bułhak, 1949" title="Warszawa, woj. mazowieckie, archiwum NID, widok na ruiny zamku  (na tzw. Okno Żeromskiego) i Pałac pod Blachą od północnego-zachodu w 1949 roku, fot. Janusz Bułhak, 1949"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FZamki%2FWarszawa_-_Zamek_Kr%C3%B3lewski%2FNID-zamki-Warszawa-009.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FZamki%2FWarszawa_-_Zamek_Kr%C3%B3lewski%2FNID-zamki-Warszawa-009.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDEwLmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDEwLmpwZw==" alt="Warszawa, woj. mazowieckie, archiwum NID, zamek w 1945 roku, fot. Janusz Bułhak, 1945" title="Warszawa, woj. mazowieckie, archiwum NID, zamek w 1945 roku, fot. Janusz Bułhak, 1945"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FZamki%2FWarszawa_-_Zamek_Kr%C3%B3lewski%2FNID-zamki-Warszawa-010.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FZamki%2FWarszawa_-_Zamek_Kr%C3%B3lewski%2FNID-zamki-Warszawa-010.jpg&width=60&height=60"/></li> -->
+									
+											<li><a href="/getDocument.php?doc=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDExLnBkZg==&typ=PDF"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDExLnBkZg==&typ=PDF" alt="Warszawa, woj. mazowieckie, archiwum NID, decyzja o wpisie do rejestru zabytków z 1965 " title="Warszawa, woj. mazowieckie, archiwum NID, decyzja o wpisie do rejestru zabytków z 1965 "  /></a></li>
+									
+											<li><a href="/getDocument.php?doc=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDEyLnBkZg==&typ=PDF"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDEyLnBkZg==&typ=PDF" alt="Warszawa, woj. mazowieckie, archiwum NID, karta ewidencyjna zabytku z 1961 " title="Warszawa, woj. mazowieckie, archiwum NID, karta ewidencyjna zabytku z 1961 "  /></a></li>
+													</ol>
+				<footer> 							 
+		          	<ul class="ls9"> 								 
+		            	<li class="next"><a href="#sliderGallery" ><img width="25" height="10" alt="Pokaż kolejne zdjęcia" title="Pokaż kolejne zdjęcia" src="/gfx/arrBottomRed1.png"  /></a></li>
+		           		<li class="prev"><a href="#sliderGallery" ><img width="25" height="10" alt="Pokaż poprzednie zdjęcia" title="Pokaż poprzednie zdjęcia" src="/gfx/arrTopRed1.png"  /></a></li>
+					</ul>
+				</footer>
+			</div>
+		</section>
+		<section> 					 
+			<h2 class="h6">Opis zabytku:</h2>
+	     	<div class="text B" itemprop="description"><p class="Default"><strong>Zamek średniowieczny<br /></strong>Powstanie <strong>siedziby książąt mazowieckich</strong> na miejscu dzisiejszego Zamku Kr&oacute;lewskiego przypisuje się księciu Bolesławowi II (1294 -1313). Miasto Warszawa założone zostało zapewne na przełomie XIII i XIV wieku. W końcu XIII wieku na cyplu lewego brzegu Wisły, w południowo-wschodniej części średniowiecznego miasta powstał drewniano ziemny gr&oacute;d kasztelański. Gr&oacute;d oddzielono od miasta umocnieniami drewniano-ziemnymi i fosą.<br />Do połowy XIV wieku Warszawa wyrosła na znaczący ośrodek władzy książęcej. Jej korzystne położenie a zwłaszcza bezpieczeństwo sprzyjało rozwojowi. Za czas&oacute;w następcy Bolesława II - Kazimierza I Trojdanowicza, w latach 1350-1355 wydzielone zostało, w obrębie dzielnicy czerskiej, księstwo warszawskie i książę osiadł w Warszawie. Wraz z nim skupiło się tu sądownictwo i administracja.<br />Od 1350 roku wok&oacute;ł miasta powstawała linia mur&oacute;w miejskich, a zamek posiadał wsp&oacute;lny z miastem system obronny. Najstarszym budynkiem ceglanym grodu książęcego, zachowanym do dziś w swojej części piwnicznej i parterowej, jest Wieża Wielka. Badacze przyjmują, że powstała około połowy XIV wieku. Czworoboczna, na planie kwadratu o boku 12,5 m, posadowiona na kamiennym fundamencie ceglana wieża była potężną, czterokondygnacyjną budowlą wzmocnioną skarpami. Pełniła rolę stołpu.<br />W roku 1413 książę mazowiecki Janusz I Starszy przeni&oacute;sł stolicę Księstwa Mazowieckiego z Czerska do Warszawy. Za jego czas&oacute;w zamek uzyskał pełną gotycką formę. W latach 1407-1410 powstał ceglany dom książęcy zwany <strong>Domem Wielkim</strong> (Curia Maior). Był to trzykondygnacyjny jednotraktowy pałac. Na piętrze znajdowały się: sala reprezentacyjna, apartament księcia, apartament gościnny i dansker. Na parterze była sala sądowa, w kt&oacute;rej od końca XV wieku do roku 1526 obradował sejm mazowiecki. W pierwszej połowie XV wieku powstał kompleks budynk&oacute;w Curia Minor (<strong>Dom Mniejszy</strong>) zwany &bdquo;Ogr&oacute;dkiem&rdquo;.</p>
+<p class="Default"><strong>Rezydencja kr&oacute;lewska<br /></strong>Dzielnica mazowiecka, rządzona była przez dynastię Piast&oacute;w mazowieckich i była lennem kr&oacute;l&oacute;w polskich. Do Kr&oacute;lestwa Polskiego jeszcze w&oacute;wczas nie należała. Dopiero w 1526 roku Zygmunt I Stary objął Mazowsze jako spadek po wygaśnięciu linii książąt mazowieckich. Na sejmie koronnym w Piotrkowie w 1529 roku potwierdzono inkorporację Mazowsza do korony. W tym czasie scena polityczna kraju przeniosła się na tereny p&oacute;łnocne i wschodnie. Od 1559 roku kr&oacute;l przestał rezydować w Krakowie a w roku 1568 kr&oacute;l Zygmunt II August wraz z całym dworem zamieszkał w Warszawie. <br />Zamek wymagał przebudowano na <strong>rezydencję kr&oacute;lewską</strong> i siedzibę urzęd&oacute;w centralnych w zgodzie z nowymi trendami stylistycznymi. Przebudową (1568-1572), w wyniku kt&oacute;rej zamek zyskał &nbsp;zwartą tr&oacute;jskrzydłową formę łączącą cechy stylistyczne gotyku i renesansu, zajął się włosko-polski architekt Giovanni Battista di Quadro z Lugano oraz przybyły ze Śląska Jakub Parr.<br />Na p&oacute;łnoc od Domu Wielkiego powstał <strong>Nowy Dom</strong>, dwutraktowy budynek będący prywatnym apartamentem kr&oacute;la. Na pierwszym piętrze znalazła się kr&oacute;lewska sypialnia, jadalnia i sień a prowadziła do nich zewnętrzna okrągła klatka schodowa. Wybudowano też wieżę zwaną Altaną. Łaźnia i kuchnia posiadały wodę z wodociągu miejskiego. W Nowym Domu mieszkała straż kr&oacute;lewska. <strong>Dom Wielki</strong> przebudowano na potrzeby gmachu sejmowego. Powstały dwie wielkie sale połączone schodami: Izba Poselska w przyziemiu i Senacka na piętrze. Obie izby wyposażono w piece, dębowe podłogi a sala Senacka otrzymała kasetonowy strop. W <strong>Domu Mniejszym</strong> zorganizowano dużą jadalnię i domową kaplicę, a za murem zaprojektowano ogr&oacute;d.</p>
+<p class="Default">Przyjmuje się, że wazowską przebudowę zamku rozpoczęto około roku 1600 pod kierunkiem włoskich architekt&oacute;w: Giovannego Trevano, Constante Tencalla, Giacomo Rodondo, Paolo de la Corte oraz przybyłego z Rzymu w roku 1614 Mateo Castello. Starsze zabudowania dostosowano do nowych funkcji państwowych i publicznych nadając im obowiązujący kostium stylistyczny. Zabudowania średniowieczne i z czas&oacute;w Zygmunta Augusta położone wzdłuż skarpy zostały włączone w pięcioskrzydłowy, nieregularny gmach otaczający dziedziniec wewnętrzny. Powstały <strong>trzy nowe skrzydła</strong> o wczesnobarokowej monumentalnej stylistyce: skrzydło frontowe (od strony zachodniej z potężną Wieżą Zegarową i przejazdem bramnym na osi), skrzydło p&oacute;łnocne z Bramą Senatorską i skrzydło p&oacute;łnocno-wschodnie. <br />W dwupiętrowym <strong>domu p&oacute;łnocnym</strong> mieściły się pokoje dziecięce, kaplica i inne pokoje prywatne. Apartamenty kr&oacute;lewskie umieszczono od strony Wisły, w najbardziej zacisznej części zamku w dawnym jagiellońskim <strong>Nowym Domu</strong>. Wjazd prowadził prawdopodobnie przez Bramę Grodzką w skrzydle południowym. Oś gł&oacute;wna założenia przebiegała z Dziedzińca Przedniego przez przejazd w Wieży Zegarowej na <strong>Dziedziniec Wielki</strong> zakończony wieżą zwana Władysławowską, w kt&oacute;rej mieściła się klatka schodowa. <strong>Dziedziniec Przedni</strong> (obecny Plac Zamkowy) oddzielały od miasta budynki gospodarcze: kuchnia, apteka i wozownie ze stajniami.<br />W latach 1621 &ndash; 1627 rozpoczęto budowę nowożytnych obwarowań zamku. Wybudowano od strony Wisły <strong>mur kurtynowy z bastionami</strong>. <br />Przez nastepne ponad 100 lat zmiany dotyczyły gł&oacute;wnie wystroju architektonicznego oraz dostosowanych do mody i wymagań dekoracji wnętrz. Władysław IV, kr&oacute;l Polski w latach 1632 -1648, aby uczcić pamięć ojca Zygmunta III ufundował marmurową kolumnę z posągiem (zwaną <strong>Kolumną Zygmunta</strong>) stojącą na Dziedzińcu Przednim , kt&oacute;rej autorami byli Clemente Mollego i Constante Tencalli. Za czas&oacute;w panowania Władysława IV (1632 &ndash; 1648) i Jana II Kazimierza (1648 &ndash; 1668), apartamenty otrzymały bogaty barokowy wystr&oacute;j. Powstał wtedy <strong>Pok&oacute;j Marmurowy</strong>. Zaprojektowane przez Giovanniego Battistę Gisleniego reprezentacyjne wnętrze, miało olśniewać gości czekających w antykamerze na audiencję kr&oacute;lewską. W skrzydle południowym powstał przed rokiem 1637 kr&oacute;lewski <strong>teatr</strong>.</p>
+<p class="Default">Najazd szwedzki w 1656 roku spowodował kompletną dewastację zamku. Opuszczony przez rodzinę kr&oacute;lewską został splądrowany. Wywieziono większość cennych przedmiot&oacute;w, wystroju i detalu architektonicznego, a apartamenty przystosowano na potrzeby koszar i szpitala wojskowego Zamek nie nadawał się do zamieszkania. W tej sytuacji do 1670 roku rezydencją kr&oacute;lewską stał się Zamek Ujazdowski. R&oacute;wnież Jan III Sobieski (1674-1696) nie osiadł na Zamku. Jego siedzibą stał się pałac w Wilanowie, a dla kr&oacute;l&oacute;w saskich (Augusta II Mocnego 1697 -1733 i Augusta III Sasa 1733-1763) rezydencję stanowił Pałac Saski.<br />Niewielkie prowadzone w tym czasie prace sprowadzały się do pilnych remont&oacute;w zabezpieczających oraz stopniowego oddzielania części prywatnych (w p&oacute;łnocnym i wschodnim skrzydle) od sal pełniących funkcje państwowe i publiczne (w skrzydłach południowym i zachodnim). Plany wielkiej przebudowy zamku w czasach Augusta II nie powiodły się. Zamek w latach 30. XVIII wieku nie odpowiadał potrzebom reprezentacyjnym siedziby kr&oacute;lewskiej. Pożar w 1732 roku dopełnił dzieła destrukcji. W latach 1741 &ndash; 1746 August III przeprowadził remont, kt&oacute;ry ukształtował nową bryłę zamku a zwłaszcza elewację od strony Wisły. Przebudowę prowadził Gaetano Chiaveri, p&oacute;źnobarokowy włoski architekt projektujący w stylu saskiego rokoko.</p>
+<p class="Default">Po kolejnym pożarze w 1767 kr&oacute;l Stanisław August Poniatowski przystąpił do remontu zamku z zamiarem przywr&oacute;cenia mu świetności i funkcji stałej siedziby władcy. Za panowanie ostatniego polskiego monarchy (1764 -1795), pod kierunkiem Jakuba Fontany, Dominika Merliniego, Jana Chrystiana Kamsetzera przebudowano częściowo zamek w stylu klasycyzmu. Wystrojem wnętrz zajęli się Andre Lebrun , Marcello Baciarelli i Bernardo Belotto (Canaletto). Wielkie plany monarchy rozbudowy zamku musiały ulec zmianie. Wybudowano gmach <strong>Biblioteki Kr&oacute;lewskiej</strong> (1778 &ndash; 1782) oraz odbudowano zniszczone w pożarze skrzydło południowe. Urządzono reprezentacyjny <strong>Apartament Wielki</strong> do kt&oacute;rego włączono Pok&oacute;j Marmurowy, zmieniono Pok&oacute;j Audiencjonalny, Salę Prospektową, Salę Asamblową oraz wystr&oacute;j Kaplicy i Sypialni. Powstała <strong>Sala Tronowa</strong>, <strong>Przedpok&oacute;j Senatorski</strong> i <strong>Gabinet Monarch&oacute;w Europejskich</strong>. W latach 1788 -1794 obradował tu Sejm Wielki, w czasie kt&oacute;rego w roku 1971 uchwalono Konstytucję 3 maja.</p>
+<p class="Default"><strong>Po III rozbiorze<br /></strong>Kres świetności zamku przypadł na rok 1795 kiedy, po trzecim rozbiorze Polski, zamek stał się jedną z wielu siedzib kr&oacute;la Fryderyka Wilhelma III, a p&oacute;źniej siedzibą namiestnik&oacute;w carskich. W czasach Kr&oacute;lestwa Polskiego powstał ambitny plan przebudowy zamku i jego otoczenia. Zrealizowano ukształtowanie Placu Zamkowego i budowę tzw. <strong>Arkad Kubickiego</strong> od strony Wisły. Po powstaniu styczniowym znaczenie zamku spadło jeszcze bardziej. W trakcie I wojny światowej, w 1915 roku, rosyjski generał gubernator opuścił zamek a jego miejsce zajął generał pruski. Pieczę nad zamkiem objęło Towarzystwo Opieki nad Zabytkami Przeszłości. Kuratorem został najpierw Kazimierz Sk&oacute;rewicz a następnie Adolf Szyszko-Bohusz. Zamek przekazano do użytku Naczelnika Państwa. Rozpoczęto prace inwentaryzacyjne, konserwatorskie i remontowe. Od 1927 do 6 września 1939 roku był siedzibą i rezydencją prezydenta Rzeczypospolitej Ignacego Mościckiego. Ponownie stał się miejscem najważniejszych uroczystości państwowych. Zamek pełnił też funkcje muzealne a od początku lat 20 . XX wieku mieściła się tu Dyrekcja Państwowych Zbior&oacute;w Sztuki. 6 IX 1939 roku ewakuowano urzędy państwowe. 10 dni p&oacute;źniej zamek został zbombardowany. Muzealnicy i konserwatorzy ze Stanisławem Lorentzem na czele zabezpieczyli część archiw&oacute;w i cenniejszego wyposażenia. Po upadku powstania warszawskiego, 25 października 1944 roku zamek został wysadzony w powietrze.</p>
+<p class="Default"><strong>Odbudowa<br /></strong>W czerwcu 1945 roku w Biurze Odbudowy Stolicy powołano Pracownię Odbudowy Zamku. Kontrowersje na temat odbudowy zamku i Starego Miasta wzbudzały wiele dyskusji w środowisku konserwatorskim. Ostatecznie zwyciężyły poglądy &oacute;wczesnego generalnego konserwatora zabytk&oacute;w, prof. Jana Zachwatowicza. 25 X 1949 roku Sejm RP podjął uchwałę o odbudowie zamku z przeznaczeniem go na siedzibę najwyższych władz państwowych oraz Pałac Kultury Polskiej. Do odbudowy nie doszło z przyczyn politycznych. Dopiero w 22 lata p&oacute;źniej, w styczniu 1971 roku powr&oacute;cono do tej idei i podjęto decyzje, kt&oacute;re skutkowały odbudową zabytku.<br />Odbudowa, jako przejaw potrzeby posiadania symbolu własnej państwowości, do 1980 roku, finansowana była dzięki darom (finansowym i rzeczowym) Polak&oacute;w w Polsce i na świecie. 5 XI 1979 roku Rada Ministr&oacute;w powołała Zamek Kr&oacute;lewski w Warszawie &ndash; Pomnik Historii i Kultury Narodowej. Oddany do użytku w 1984 roku, pełni dzisiaj przede wszystkim rolę muzeum. Jest też miejscem wielu uroczystości państwowych.</p>
+<p class="Default"><strong>Wpis do rejestru zabytk&oacute;w<br /></strong>Zamek wpisano do rejestru zabytk&oacute;w decyzją z<strong> </strong>dn. 1.07.1965 r. pod nr 620. 2I X 1980 roku Stare Miasto wraz z Zamkiem Kr&oacute;lewskim zostało wpisane na Listę Światowego Dziedzictwa UNESCO.</p>
+<p class="Default"><em>Oprac. I. Malawska</em></p></div>
+		</section>
+		<footer> 					 
+			<p style="margin-top:10px;"><a href="#" onclick="history.go(-1)" class="ln7" >Powr&oacute;t</a></p>
+		</footer>
+<section> 
+    <ul class="list h ls4" style="margin-top:20px;"> 						 
+      <li><a onclick="print('.pg3')" class="ln3 print" style="cursor:pointer;" >Drukuj artykuł</a></li>
+     						 
+      <li><a href="http://www.facebook.com/sharer.php?u=http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=201" class="ln3 fb" style="cursor:pointer;" >Publikuj na Facebooku</a></li>
+     						 					</ul>
+</section>
+	</article>
+
+
+	
+	
+	
+	
+	
+	
+	</div>
+  
+  
+  
+  <hr/> 		 
+  
+   		 		<hr/> 
+    <div id="sidebar2"> 			<section> 				 
+        <h1 class="h1 C"><img width="269" height="29" alt="Nowe zabytki" title="Nowe zabytki" src="/gfx/hNoweZabytki.png"  /></h1>
+       				 
+        <div id="sliderMonumetsWrapper" class="md7"> 					 
+          <div id="sliderMonumets"> 					 
+            <div class="line">
+            
+            			    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Frombork - zespół katedralny</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=60'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvRnJvbWJvcmtfLV96ZXNww7PFgl9rYXRlZHJhbG55L05JRC1wb21oaXMtRnJvbWJvcmstMDAzLmpwZw==" alt="Frombork - zespół katedralny" itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Zesp&oacute;ł katedralny we Fromborku został uznany za pomnik...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=60">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Bohoniki i Kruszyniany - mecz...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=205'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvQm9ob25pa2lfaV9LcnVzenluaWFueV8tX21lY3pldHlfaV9taXphcnkvTklELXBvbWhpcy1LcnVzenluaWFueS0wMDMuanBn" alt="Bohoniki i Kruszyniany - mecz..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Meczety i mizary (cmentarze) w Bohonikach i Kruszynianach...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=205">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Katowice - Gmach Województwa ...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=206'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS2F0b3dpY2VfLV9HbWFjaF9Xb2pld8OzZHp0d2FfaV9TZWptdV/FmmzEhXNraWVnby9OSUQtcG9taGlzLUthdG93aWNlX0dtYWNoLTAwMy5qcGc=" alt="Katowice - Gmach Województwa ..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Gmach Wojew&oacute;dztwa i Sejmu Śląskiego w Katowicach to...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=206">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Łowicz - Bazylika Katedralna ...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=207'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvxYFvd2ljel8tX0JhenlsaWthX0thdGVkcmFsbmFfKGRhd25hX0tvbGVnaWF0YV9QcnltYXNvd3NrYSlfcG9kX3dlendhbmllbV9XbmllYm93emnEmWNpYV9OYWrFm3dpxJl0c3plal9NYXJpaV9QYW5ueS9OSUQtcG9taGlzLUxvd2ljei0wMDMuanBn" alt="Łowicz - Bazylika Katedralna ..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Katedra łowicka jest zabytkiem o szczeg&oacute;lnym znaczeniu...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=207">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Sulejów - zespół opactwa cyst...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=208'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvU3VsZWrDs3dfLV96ZXNww7PFgl9vcGFjdHdhX2N5c3RlcnPDs3cvTklELXBvbWhpcy1TdWxlam93LTAwMy5qcGc=" alt="Sulejów - zespół opactwa cyst..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Klasztor obronny w Sulejowie z kościołem, zabudowaniami i...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=208">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Paczków - zespół staromiejski...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=209'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvUGFjemvDs3dfLV96ZXNww7PFgl9zdGFyb21pZWpza2lfemVfxZtyZWRuaW93aWVjem55bV9zeXN0ZW1lbV9mb3J0eWZpa2FjamkvTklELXBvbWhpcy1QYWN6a293LTAwNC5qcGc=" alt="Paczków - zespół staromiejski..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Mury Paczkowa należą do najlepiej zachowanych średniowiecznych...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=209">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Strzegom - kościół pod wezwan...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=204'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvU3RyemVnb21fLV9rb8WbY2nDs8WCX3BvZF93ZXp3YW5pZW1fxZt3Ll9BcG9zdG/FgsOzd19QaW90cmFfaV9QYXfFgmEvTklELXBvbWhpcy1TdHJ6ZWdvbS0wMDEuanBn" alt="Strzegom - kościół pod wezwan..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Strzegomski kości&oacute;ł pod wezwaniem Świętych Apostoł&oacute;w...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=204">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Warszawa - Zamek Królewski</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=201'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDAyLmpwZw==" alt="Warszawa - Zamek Królewski" itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p class="Default"><strong>Zamek średniowieczny<br /></strong>Powstanie...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=201">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Tarnowskie Góry - podziemia z...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=71'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVGFybm93c2tpZV9Hw7NyeV8tX3BvZHppZW1pYV96YWJ5dGtvd2VqX2tvcGFsbmlfcnVkX3NyZWJyb25vxZtueWNoX29yYXpfc3p0b2xuaV9DemFybmVnb19Qc3RyxIVnYS9OSUQtcG9taGlzLVRhcm5vd3NraWVfR29yeS0wMDUuanBn" alt="Tarnowskie Góry - podziemia z..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Podziemia zabytkowej kopalni rud srebronośnych oraz sztolni...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=71">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Kalwaria Zebrzydowska - krajo...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=72'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS2Fsd2FyaWFfWmVicnp5ZG93c2thXy1fa3Jham9icmF6b3d5X3plc3DDs8WCX21hbmllcnlzdHljem5lZ29fcGFya3VfcGllbGdyenlta293ZWdvL05JRC1wb21oaXMtS2Fsd2FyaWFfWmVicnp5ZG93c2thLTAwMy5qcGc=" alt="Kalwaria Zebrzydowska - krajo..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Kalwaria Zebrzydowska &ndash; unikatowe sanktuarium pasyjno-maryjne...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=72">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Twierdza Srebrnogórska - nowo...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=73'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVHdpZXJkemFfU3JlYnJub2fDs3Jza2FfLV9ub3dvxbx5dG5hX3dhcm93bmlhX2fDs3Jza2Ffel9YVklJSV93aWVrdS9OSUQtcG9taGlzLVNyZWJybmFfR29yYS0wMDcuanBn" alt="Twierdza Srebrnogórska - nowo..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Twierdza Srebrnog&oacute;rska została uznana za pomnik historii...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=73">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Kazimierz Dolny</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=74'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS2F6aW1pZXJ6X0RvbG55L05JRC1wb21oaXMtS2F6aW1pZXJ6X0RvbG55LTAwNC5qcGc=" alt="Kazimierz Dolny" itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Kazimierz Dolny &ndash; niewielka miejscowość położona w...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=74">zabytek</a></p>	
+			    	</article>
+						
+			
+            
+            </div>
+         								</div><footer> 						 
+            <ul class="list h ls3"> 							 
+              <li class="next"><a href="zabytki.html" ><img width="10" height="25" alt="Pokaż następne zabytki" title="Pokaż następne zabytki" src="/gfx/arrRightRed1.png"  /></a></li>
+             							 
+              <li class="prev"><a href="zabytki.html" ><img width="10" height="25" alt="Pokaż poprzednie zabytki" title="Pokaż poprzednie zabytki" src="/gfx/arrLeftRed1.png"  /></a></li>
+             						</ul>
+           					</footer> 	
+       			</section> 		</div>
+   
+<!-- KONIEC -->
+		 </div>
+<div style="clear:both;"></div>
+</div></div>
+ 		<hr/> 		
+
+<div style="background-color:#1a0022; min-width:1146px;">
+<footer id="footer"> 			
+    <p class="copyright">Copyright &copy; 2011 <b>Portal Mapowy</b></p>
+   <div class="nagrody"><a href="/Nowosci/news.php?ID=1202"><img src="/gfx/nagrody1.png" width="354" height="35"></a></div>						
+    <div class="line"> 				
+      <div class="unit md3" itemtype="http://schema.org/GovernmentOrganization" itemscope="itemscope"> 					
+        <h1 class="h3" itemprop="name">Narodowy Instytut Dziedzictwa</h1>
+       					
+        <div class="md3-media"> 						<img itemprop="image" width="219" height="57" alt="Narodowy Instytut Dziedzictwa" src="/gfx/logoNID2.png"  /> 					</div>
+       					
+      <p itemtype="http://schema.org/PostalAddress" itemscope="" itemprop="address"><span itemprop="streetAddress">ul. Kopernika 36/40</span>, <span itemprop="postalCode">00-924</span> <span itemprop="addressLocality">Warszawa</span></p>
+       					
+        <p>tel. <span itemprop="telephone">+48 22 826 02 39</span>, <span itemprop="telephone">22 826 92 47</span>, fax: <span itemprop="faxNumber">+48 22 826 17 14</span></p>
+ <p>e-mail. <a href="mailto:portal_mapowy@nid.pl">portal_mapowy@nid.pl</a></p>
+ <p><a href="http://www.zabytek.pl">www.zabytek.pl</a>, <a href="http://www.nid.pl">www.nid.pl</a></p>
+       				</div>
+     				
+      <div class="unit md4"> 					
+        <h1 class="h2 C"><img width="209" height="18" alt="Czekamy na TwĂłj komentarz" src="/gfx/hCzekamyNaTwojKomentarz.png"  /></h1>
+       					
+        <p>Masz uwagi co do działania portalu lub chcesz skontaktować się z nami w innej sprawie? <a href="/Kontakt/" class="ln1" >Napisz do nas</a></p>
+       				</div>
+     				
+      <ul class="unit md5"> 					
+        <li><a href="/" ><img width="116" height="45" alt="Portal Mapowy" src="/gfx/logoPM2.png"  /></a></li>
+        <li><a href="http://tnij.org/nid_apk"><img width="119" height="41" src="/gfx/google_play_logo.png" alt="Google Play"></a></li>
+        <li class="rss"><a href="/news.php" ><img alt="RSS" src="/gfx/icoRSS.png"  /></a></li>
+       				</ul>
+     			</div>
+   			
+    <div class="widget_container"> 				
+      <div class="widget_social"> 					<img src="/gfx/ico_fcb.gif" border="0" id="facebookIco"  /> 					
+        <div style="float: left; margin: 0pt;"> 						
+<script type="text/javascript" src="/js/pl_PL"></script>
+ 						
+<script	type="text/javascript">FB.init();</script>
+ 						<fb:fan height="330" width="190" logobar="1" connections="6" stream="0" profile_id="200305476647255"></fb:fan> 					</div>
+       				</div>
+     			</div>
+   			 	<div class="yt_container"><a href="http://www.youtube.com/tvNID" target="_blank" ><img src="/gfx/youtube.gif" border="0" id="YouTubeIco"  /></a></div>
+<script	type="text/javascript">
+				$('.widget_container').hover(function() {
+					$('.widget_container').css('overflow', 'visible');
+					$(this).stop().animate({
+						width: '250px'
+					}, 1000, null, function() { $('.widget_container').css('overflow', 'hidden'); });
+				}, function() {
+					$('.widget_container').css('overflow', 'hidden');
+					$(this).stop().animate({
+						width: '38px'
+					}, 1000);
+				});
+			</script>
+ 		</footer>
+<div style="background-color:#1a0022;height:70px;border-top:1px solid #CE003A;"></div> 
+</div>
+
+		</div>
+ 
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="/js/jquery.scrollTo-min.js"></script>
+
+<script src="/js/jquery.serialScroll-min.js"></script>
+ 	
+<script src="/js/sliders.js"></script>
+ 
+<script language="javascript" src="/js/jquery.printElement.min.js"></script>
+ 
+<script language="javascript" src="/js/pixastic.custom.js"></script>
+ 
+<script language="javascript" src="/js/print.js"></script>
+<script language="javascript" src="/js/lightbox.js"></script> 
+<script language="javascript" src="/js/grayScale.js"></script>
+<script language="javascript" src="/js/nid.js"></script>
+<script type="text/javascript" src="/ajax/kontakt/jquery.colorbox.js"></script>
+
+<script language="javascript">
+$(document).ready(function () {
+
+        $(".inline-pop").colorbox({inline:true, width:"413", height:"195"});
+		
+		
+});
+
+
+
+        $("ul.subnav").parent().append(""); //Only shows drop down trigger when js is enabled (Adds empty span tag after ul.subnav*)  
+      
+        $("ul.topnav li a").hover(function() { //When trigger is clicked...  
+      
+            //Following events are applied to the subnav itself (moving subnav up and down)  
+            $(this).parent().find("ul.subnav").slideDown('fast').show(); //Drop down the subnav on click  
+      
+            $(this).parent().hover(function() {  
+            }, function(){  
+                $(this).parent().find("ul.subnav").slideUp('slow'); //When the mouse hovers out of the subnav, move it back up  
+            });  
+      
+            //Following events are applied to the trigger (Hover events for the trigger)  
+            }).hover(function() {  
+                $(this).addClass("subhover"); //On hover over, add class "subhover"  
+            }, function(){  //On Hover Out  
+                $(this).removeClass("subhover"); //On hover out, remove class "subhover"  
+        });  
+
+
+</script>
+
+<script type="text/javascript">
+ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37373671-1']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
+</script>
+
+ </body>
+</html>http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=201

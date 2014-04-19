@@ -1,0 +1,756 @@
+<!DOCTYPE html>
+<html lang="pl" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width" /><!-- fixes CSS query min/max width on mobile -->
+<meta property="og:image" content='http://93.159.33.89/imgResize.php?scale=4&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAwMS5qcGc=' />
+<meta property="og:title" content="Gdańsk-mury obronne" />
+<meta property="og:description" content="Gdańsk-mury obronne" /> 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="Zabytki" />
+<meta name="description" content="NID Main Site" />
+<link href="/bitrix/js/main/core/css/core.css?1354612059" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/components/bitrix/menu/nid_horizontal_multilevel/style.css?1348129813" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/.default/components/bitrix/breadcrumb/.default/style.css?1333627633" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/styles.css?1389950861" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/template_styles.css?1389950861" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/bitrix/js/main/core/core.js?1390241314"></script>
+<script type="text/javascript">BX.message({'LANGUAGE_ID':'en','FORMAT_DATE':'DD/MM/YYYY','FORMAT_DATETIME':'DD/MM/YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','USER_ID':'','SERVER_TIME':'1397919929','SERVER_TZ_OFFSET':'7200','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'91e1b56fc51b4a2e49787ef8674d03e9','SITE_ID':'10','JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In'})</script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ajax.js?1390241314"></script>
+<script type="text/javascript" src="/bitrix/js/main/session.js?1390241314"></script>
+<script type="text/javascript">
+bxSession.Expand(1440, '91e1b56fc51b4a2e49787ef8674d03e9', false, '18681d5978806bc60407f8367a24c5ac');
+</script>
+<link rel="shortcut icon" href="/nid.ico" />
+<link href="/styles/lightbox.css" rel="stylesheet" />
+
+<!--[if lt IE 9]><script>;(function(e){for(var i=0;e[i]; i++){document.createElement(e[i]);}})("abbr,article,aside,audio,canvas,datalist,details,summary,figure,figcaption,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(','));</script><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="Zabytki" />
+<meta name="description" content="NID Main Site" />
+<link href="/bitrix/js/main/core/css/core.css?1354612059" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/components/bitrix/menu/nid_horizontal_multilevel/style.css?1348129813" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/.default/components/bitrix/breadcrumb/.default/style.css?1333627633" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/styles.css?1389950861" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/template_styles.css?1389950861" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/bitrix/js/main/core/core.js?1390241314"></script>
+<script type="text/javascript">BX.message({'LANGUAGE_ID':'en','FORMAT_DATE':'DD/MM/YYYY','FORMAT_DATETIME':'DD/MM/YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','USER_ID':'','SERVER_TIME':'1397919929','SERVER_TZ_OFFSET':'7200','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'91e1b56fc51b4a2e49787ef8674d03e9','SITE_ID':'10','JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In'})</script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ajax.js?1390241314"></script>
+<script type="text/javascript" src="/bitrix/js/main/session.js?1390241314"></script>
+<script type="text/javascript">
+bxSession.Expand(1440, '91e1b56fc51b4a2e49787ef8674d03e9', false, '18681d5978806bc60407f8367a24c5ac');
+</script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+
+
+</head>
+<body> 
+<div id="panel"></div>
+ 	
+<div id="main"> 		
+  <div class="skiplinks"><a href="#contentMain" >skocz do treści</a></div>
+ 		<hr/> 		<header id="header"> 			<hgroup> 				
+      <h1><a href="/" ><img width="180" height="70" alt="Portal Mapowy" src="/gfx/logoPortalMapowy.png"  /></a></h1>
+     				
+      <h2><a href="http://www.zabytek.pl" ><img width="275" height="73" alt="Narodowy Instytut Dziedzictwa" src="/gfx/logoNID.png"  /></a></h2>
+     			</hgroup> 			<nav class="nav"> 				
+
+<script src="/bitrix/templates/NID Informacja o zabytku/components/bitrix/menu/nid_horizontal_multilevel/script.js?1390241310" type="text/javascript"></script>
+<ul class="topnav">
+	<li class="strona-glowna "><a href="/" >Strona główna</a></li>    
+	
+		
+	
+	
+		
+							<li class="nowosci "><a href="/Nowosci/">Nowości</a></li>
+			
+		
+	
+	
+		
+	
+	
+		
+							<li class="o-portalu "><a href="/O_portalu/">O portalu</a></li>
+			
+		
+	
+	
+		
+	
+	
+					<li class="przewodnik "><a href="/Przewodnik/">Przewodnik</a>
+				<ul class="subnav">
+		
+	
+	
+		
+	
+	
+		
+												<li class="repo"><a href="/Przewodnik/Zrodla_danych/">Źródła danych</a></li>
+							
+		
+	
+	
+		
+	
+	
+		
+												<li class="mapy"><a href="http://geoportal.nid.pl/SDIPortal/" target="_blank" >Metadane</a></li>
+							
+		
+	
+	
+		
+	
+	
+		
+												<li class="repo"><a href="/Przewodnik/Wspolpraca/">Współpraca</a></li>
+							
+		
+	
+	
+		
+	
+	
+		
+												<li class="repo"><a href="/Przewodnik/Dokumentacja/">Dokumentacja</a></li>
+							
+		
+	
+	
+		
+	
+	
+		
+												<li class="repo"><a href="/Przewodnik/Faq/">FAQ</a></li>
+							
+		
+	
+	
+		
+			</ul></li>	
+	
+		
+							<li class="kalendarium "><a href="/Kalendarium/">Kalendarium</a></li>
+			
+		
+	
+	
+		
+	
+	
+		
+							<li class="sluzba-ochrony-zabytkow "><a href="/Sluzba_Ochrony_Zabytkow/">Służby konserwatorskie</a></li>
+			
+		
+	
+	
+		
+	
+	
+		
+							<li class="regulamin "><a href="/Regulamin/">Regulamin</a></li>
+			
+		
+	
+	
+		
+	
+	
+		
+							<li class="kontakt "><a href="/Kontakt/">Kontakt</a></li>
+			
+		
+	
+	
+
+
+</ul>
+<div class="menu-clear-left"></div>
+
+
+       		 		 
+        <div style="display: none;"> 			 
+          <div id="inline_popup" style="color: rgb(255, 255, 255);"> 
+			<div class="regulamin-pop">
+						<div class="m-20"><img src="/gfx/akceptacja_war.png" alt="" /></div>
+						<div class="ml-20 fs-13">Zapoznałem się z regulaminem, zgadzam się na jego warunki.</div>
+						<div class="mt-32">
+						   <div class="fl ml-20 mt-20"><a target="_blank" href="/Regulamin/">Przeczytaj regulamin</a></div>
+						   <div class="fl ml-20"><a target="_blank" href="http://geoportal.nid.pl"><img src="/gfx/yes_pop.png" alt="" /></a></div>
+						   <div class="fl ml-20"><a href="/"><img src="/gfx/no_pop.png" alt="" /></a></div>
+						   <div class="clr"></div>
+						</div>
+			</div>
+          </div>
+        </div>
+     			</nav> 			<form class="fo1" method="get" action="/Szukaj/"> 				<fieldset> 					<legend><span class="h0">Wyszukiwarka</span></legend> 					
+        <div> 						<label class="h0" for="FS-query">Szukana fraza</label> 						<input type="search" placeholder="Szukaj" id="FS-query" name="q" /> 					</div>
+       				</fieldset> 				
+      <div class="submit"> 					<input type="image" title="Szukaj" alt="Szukaj" src="/gfx/btnSearch.png" name="s" /> 				</div>
+     			</form> 		</header> 		<hr/> 
+
+<div style="background-image:url('/gfx/bgmc.jpg');background-repeat:repeat-x;background-position:bottom; ">				
+  <div id="contentWrapper">
+  
+  
+  
+  <div id="contentMain"><nav id="breadcrumbs"> Portal e-zabytek &gt; <span class="fat">Zabytek</span> </nav>
+ <hr/> 
+	<article class="pg3" itemscope="itemscope" itemtype="http://schema.org/LandmarksOrHistoricalBuildings">
+
+
+
+		
+		    <script language="javascript">
+    			document.title = "e-zabytek - Gdańsk-mury obronne";
+   			 </script>
+
+
+		<header class="pg3-lc">
+			<hgroup> 						 
+				<h2><img width="383" height="57" alt="Informacja o zabytku" src="/gfx/hInformacjaOZabytku.png"  /></h2>
+				<h1 class="h1 E" itemprop="name">Gdańsk-mury obronne</h1>
+	       	</hgroup>
+		</header>
+		<section class="pg3-rc"> 					 
+			<h2 class="h1"><img width="183" height="43" alt="Og&amp;oacute;lne informacje" src="/gfx/hOgolneInformacje.png"  /></h2>
+			<dl class="ls7">
+				<dt>Typ zabytku:</dt>
+				<dd>mury obronne, fortyfikacje</dd>
+				<dt>Chronologia:</dt>
+				<dd>XIV - XVII w.</dd>
+				<dt>Forma ochrony:</dt>
+				<dd>rejestr zabytków</dd>
+				<dt>Lokalizacja:</dt>
+				<dd itemprop="address" itemscope="itemscope" itemtype="http://schema.org/PostalAddress">
+					<figure>
+					 						<iframe src="http://geoportal.nid.pl/SDIPortal/Map.aspx?gpm=9e29ba96-e450-4830-a87c-35b9f345bb25&navigator=false&scalebar=false&coords=false&bbox=477207.9459258,720859.821438148,477252.326850672,720905.237152966" style="border: medium none; height: 289px; width: 300px;"></iframe>
+					</figure>
+				</dd>
+				<dt>Właściciel praw autorskich:</dt>
+				<dd>Narodowy Instytut Dziedzictwa<br/></dd>
+				<dt>Typ licencji:</dt>
+				<dd>CC Uznanie autorstwa-Użycie niekomercyjne-Bez utworów zależnych 3.0 Polska<br/></dd>
+				<dt>Licencja:</dt>
+				<dd><a href="http://creativecommons.org/licenses/by-nc-nd/3.0/pl/legalcode" >http://creativecommons.org/licenses/by-nc-nd/3.0/pl/legalcode</a></dd>
+			</dl>
+			<section style="padding-bottom:15px;"> 						 
+				<h3 class="h6">Powiązane zabytki</h3>
+		        <ul class="ls8">
+		        				
+		        		<li><a href="/Zabytek/szczegoly.php?ID=177" >Gdańsk - mur miejski</a></li>
+		         				
+		        		<li><a href="/Zabytek/szczegoly.php?ID=177" >Gdańsk - miasto w zasięgu obwarowań z XVII wieku</a></li>
+		         					</ul>
+			</section>
+ 
+<div style="background:#ffffff; margin:0 0 -16px -20px; padding:30px; width:100%;"> 
+  <div class="md2 B"> 				<a href="http://geoportal.nid.pl/SDIPortal/?bbox=477207.9459258,720859.821438148,477252.326850672,720905.237152966" target="_blank"><img width="220" height="55" alt="Mapy" title="Mapy" src="/gfx/linkMapy3.png"  /></a> 			</div>
+ 
+  <div class="md2 B"> 				<a href="/Przewodnik/Repo/" target="_blank" ><img width="220" height="55" alt="Repo" title="Repo" src="/gfx/linkRepo.png"  /></a> 			</div>
+ 	 </div>
+ 	
+		</section>
+
+		<section class="md9"> 					 
+			<h2 class="h0">Galeria</h2>
+	 		<figure class="md9-img ln4">
+	 				 			<a href="/imgResize.php?scale=4&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAwMS5qcGc=" rel="lightbox" title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, Baszta Latarniana i fragment muru wysokiego, widok od pn. - zach. od Placu Kobzdeja, 2006 r."><img itemprop="image" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, Baszta Latarniana i fragment muru wysokiego, widok od pn. - zach. od Placu Kobzdeja, 2006 r." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, Baszta Latarniana i fragment muru wysokiego, widok od pn. - zach. od Placu Kobzdeja, 2006 r." src="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAwMS5qcGc=" id="image-full"  /> </a>
+	 			<p id="pic_description" style="padding:10px;">Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, Baszta Latarniana i fragment muru wysokiego, widok od pn. - zach. od Placu Kobzdeja, 2006 r.</p>
+	    		<h2 class="h0"> <br /></h2>
+			</figure> 					 
+	  		<div id="sliderGalleryWrapper"> 
+				<ol class="ls10" id="sliderGallery">
+					
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAwMi5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAwMi5qcGc=" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, mur wysoki od strony ul. Latarnianej, widok na arkady zrekonstruowane w latach 70-tych, 2006 r." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, mur wysoki od strony ul. Latarnianej, widok na arkady zrekonstruowane w latach 70-tych, 2006 r."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-002.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-002.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAwMy5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAwMy5qcGc=" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, mur wysoki i rekonstrukcja z lat 70-tych, widok od południa, 2006 r." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, mur wysoki i rekonstrukcja z lat 70-tych, widok od południa, 2006 r."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-003.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-003.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAwNC5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAwNC5qcGc=" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, lokalizacja badań archeologicznych, strzałka wskazuje Basztę Latarnianą, 2000 r." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, lokalizacja badań archeologicznych, strzałka wskazuje Basztę Latarnianą, 2000 r."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-004.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-004.jpg&width=60&height=60"/></li> -->
+									
+											<li><a href="/getDocument.php?doc=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAwNS5wZGY=&typ=PDF"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAwNS5wZGY=&typ=PDF" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, plan sytuacyjny wykopów archeologicznych z zaznaczeniem odsłoniętych reliktów architektury." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, plan sytuacyjny wykopów archeologicznych z zaznaczeniem odsłoniętych reliktów architektury."  /></a></li>
+									
+											<li><a href="/getDocument.php?doc=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAwNi5wZGY=&typ=PDF"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAwNi5wZGY=&typ=PDF" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, archeologiczna dokumentacja fotogrametryczna fragmentu lica wschodniego (wewnętrznego) muru wysokiego wraz z fundamentem." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, archeologiczna dokumentacja fotogrametryczna fragmentu lica wschodniego (wewnętrznego) muru wysokiego wraz z fundamentem."  /></a></li>
+									
+											<li><a href="/getDocument.php?doc=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAwNy5wZGY=&typ=PDF"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAwNy5wZGY=&typ=PDF" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, archeologiczna dokumentacja fotogrametryczna lica zachodniego (zewnętrznego) muru wysokiego wraz z fundamentem." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, archeologiczna dokumentacja fotogrametryczna lica zachodniego (zewnętrznego) muru wysokiego wraz z fundamentem."  /></a></li>
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAwOC5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAwOC5qcGc=" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, fundament muru wysokiego, widok od zachodu, od strony Pl. Kobzdeja." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, fundament muru wysokiego, widok od zachodu, od strony Pl. Kobzdeja."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-008.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-008.jpg&width=60&height=60"/></li> -->
+									
+											<li><a href="/getDocument.php?doc=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAwOS5wZGY=&typ=PDF"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAwOS5wZGY=&typ=PDF" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, archeologiczna dokumentacja fotogrametryczna fragmentu lica południowego i fundamentu Baszty Latarnianej od strony Placu Kobzdeja." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, archeologiczna dokumentacja fotogrametryczna fragmentu lica południowego i fundamentu Baszty Latarnianej od strony Placu Kobzdeja."  /></a></li>
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAxMC5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAxMC5qcGc=" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, fundament Baszty Latarnianej, widok od południa, od strony Pl. Kobzdeja." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, fundament Baszty Latarnianej, widok od południa, od strony Pl. Kobzdeja."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-010.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-010.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAxMS5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAxMS5qcGc=" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, przewiązanie muru wysokiego i Baszty Latarnianej na poziomie fundamentu." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, przewiązanie muru wysokiego i Baszty Latarnianej na poziomie fundamentu."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-011.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-011.jpg&width=60&height=60"/></li> -->
+									
+											<li><a href="/getDocument.php?doc=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAxMi5wZGY=&typ=PDF"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAxMi5wZGY=&typ=PDF" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, archeologiczna dokumentacja fotogrametryczna: 240 – współcześnie zrekonstruowana arkada, 78 – średniowieczny fundament; pomiędzy nimi wyróżniono fazy konstrukcyjne i przemurowania nowożytnej kamienicy." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, archeologiczna dokumentacja fotogrametryczna: 240 – współcześnie zrekonstruowana arkada, 78 – średniowieczny fundament; pomiędzy nimi wyróżniono fazy konstrukcyjne i przemurowania nowożytnej kamienicy."  /></a></li>
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAxMy5KUEc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAxMy5KUEc=" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, średniowieczny fundament przypory muru obronnego lub chodnika obrońców." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, średniowieczny fundament przypory muru obronnego lub chodnika obrońców."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-013.JPG&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-013.JPG&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAxNC5KUEc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAxNC5KUEc=" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, detal konstrukcyjny, narożnik u zbiegu muru wysokiego i nowożytnej kamienicy." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, detal konstrukcyjny, narożnik u zbiegu muru wysokiego i nowożytnej kamienicy."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-014.JPG&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-014.JPG&width=60&height=60"/></li> -->
+									
+											<li><a href="/getDocument.php?doc=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAxNS5wZGY=&typ=PDF"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAxNS5wZGY=&typ=PDF" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, archeologiczna dokumentacja fotogrametryczna: 102 – pozostałość średniowiecznego fundamentu, 224 i 48 – współcześnie zrekonstruowana arkada i szalunek jej wkopu budowlanego." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, archeologiczna dokumentacja fotogrametryczna: 102 – pozostałość średniowiecznego fundamentu, 224 i 48 – współcześnie zrekonstruowana arkada i szalunek jej wkopu budowlanego."  /></a></li>
+									
+											<li><a href="/getDocument.php?doc=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAxNi5wZGY=&typ=PDF"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAxNi5wZGY=&typ=PDF" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, archeologiczna dokumentacja fotogrametryczna: po lewej konstrukcja (przypora ?) z XVII wieku, wyżej rekonstrukcja z lat 70-tych XX w., po prawej – jedna ze ścian działowych dostawionej do niej kamienicy." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, archeologiczna dokumentacja fotogrametryczna: po lewej konstrukcja (przypora ?) z XVII wieku, wyżej rekonstrukcja z lat 70-tych XX w., po prawej – jedna ze ścian działowych dostawionej do niej kamienicy."  /></a></li>
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAxNy5KUEc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAxNy5KUEc=" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, warstwa gliny i kamieni – uszczelnienie i stabilizacja fundamentu z XVII w. widocznego po prawej, widok od ul. Latarnianej. " title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, warstwa gliny i kamieni – uszczelnienie i stabilizacja fundamentu z XVII w. widocznego po prawej, widok od ul. Latarnianej. "/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-017.JPG&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-017.JPG&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAxOC5KUEc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAxOC5KUEc=" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, mur niski odsłonięty po odgruzowaniu na Placu Kobzdeja. " title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, mur niski odsłonięty po odgruzowaniu na Placu Kobzdeja. "/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-018.JPG&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-018.JPG&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAxOS5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAxOS5qcGc=" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, widok muru niskiego po zakończeniu eksploracji." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, widok muru niskiego po zakończeniu eksploracji."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-019.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-019.jpg&width=60&height=60"/></li> -->
+									
+											<li><a href="/getDocument.php?doc=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAyMC5wZGY=&typ=PDF"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAyMC5wZGY=&typ=PDF" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, dokumentacja fotogrametryczna, lico wschodnie (wewnętrzne) muru niskiego." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, dokumentacja fotogrametryczna, lico wschodnie (wewnętrzne) muru niskiego."  /></a></li>
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAyMS5KUEc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAyMS5KUEc=" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, fundament muru niskiego od strony wschodniej (wewnętrznej)." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, fundament muru niskiego od strony wschodniej (wewnętrznej)."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-021.JPG&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-021.JPG&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAyMi5KUEc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAyMi5KUEc=" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, plan części wschodniej wykopu na Placu Kobzdeja z widocznym wkopem pod młodszą fazę muru niskiego; mur niski widoczny po prawej." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, plan części wschodniej wykopu na Placu Kobzdeja z widocznym wkopem pod młodszą fazę muru niskiego; mur niski widoczny po prawej."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-022.JPG&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-022.JPG&width=60&height=60"/></li> -->
+									
+											<li><a href="/getDocument.php?doc=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAyMy5wZGY=&typ=PDF"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAyMy5wZGY=&typ=PDF" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, dokumentacja fotogrametryczna, mur niski, widok od zachodu." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, dokumentacja fotogrametryczna, mur niski, widok od zachodu."  /></a></li>
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAyNC5KUEc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAyNC5KUEc=" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, fundament muru niskiego od strony zachodniej (zewnętrznej)." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, fundament muru niskiego od strony zachodniej (zewnętrznej)."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-024.JPG&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-024.JPG&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAyNS5KUEc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAyNS5KUEc=" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, mur niski od strony zachodniej (zewnętrznej)." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, mur niski od strony zachodniej (zewnętrznej)."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-025.JPG&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-025.JPG&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAyNi5KUEc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAyNi5KUEc=" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, mur niski od strony zachodniej (zewnętrznej)." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, mur niski od strony zachodniej (zewnętrznej)."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-026.JPG&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-026.JPG&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAyNy5KUEc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAyNy5KUEc=" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, mur niski od strony zachodniej (zewnętrznej)." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, mur niski od strony zachodniej (zewnętrznej)."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-027.JPG&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-027.JPG&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAyOC5KUEc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAyOC5KUEc=" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, mur niski od strony zachodniej (zewnętrznej), widoczna część pala wspierającego konstrukcję." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, mur niski od strony zachodniej (zewnętrznej), widoczna część pala wspierającego konstrukcję."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-028.JPG&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-028.JPG&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAyOS5KUEc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAyOS5KUEc=" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, mur niski od strony zachodniej (zewnętrznej), widoczna pozostałość pala wspierającego konstrukcję." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, mur niski od strony zachodniej (zewnętrznej), widoczna pozostałość pala wspierającego konstrukcję."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-029.JPG&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-029.JPG&width=60&height=60"/></li> -->
+									
+											<li><a href="/getDocument.php?doc=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAzMC5wZGY=&typ=PDF"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAzMC5wZGY=&typ=PDF" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, dokumentacja fotogrametryczna, fragment frontowej ściany kamienicy Latarniana 5 dostawionej w okresie nowożytnym do muru obronnego." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, dokumentacja fotogrametryczna, fragment frontowej ściany kamienicy Latarniana 5 dostawionej w okresie nowożytnym do muru obronnego."  /></a></li>
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAzMS5KUEc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAzMS5KUEc=" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, pozostałości nowożytnych pieców w narożniku muru wysokiego i Baszty Latarnianej – przykład wykorzystania terenu po ustaniu jego funkcji obronnych." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, pozostałości nowożytnych pieców w narożniku muru wysokiego i Baszty Latarnianej – przykład wykorzystania terenu po ustaniu jego funkcji obronnych."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-031.JPG&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-031.JPG&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAzMi5KUEc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAzMi5KUEc=" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, pozostałości nowożytnej szalowanej drewnem piwniczki – przykład wykorzystania terenu po ustaniu jego funkcji obronnych." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, pozostałości nowożytnej szalowanej drewnem piwniczki – przykład wykorzystania terenu po ustaniu jego funkcji obronnych."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-032.JPG&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-032.JPG&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAzMy5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAzMy5qcGc=" alt="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, profil pn. – wsch. wykopu na placu Kobzdeja, gruzowa warstwa powojennej niwelacji." title="Gdańsk, woj. pomorskie. Średniowieczne mury obronne Głównego Miasta, profil pn. – wsch. wykopu na placu Kobzdeja, gruzowa warstwa powojennej niwelacji."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-033.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-033.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAzNC5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAzNC5qcGc=" alt="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, jednorodne fajki gliniane, Anglia, XIX w. (?)." title="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, jednorodne fajki gliniane, Anglia, XIX w. (?)."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-034.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-034.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAzNS5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAzNS5qcGc=" alt="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fragmenty zwiniętych cybuchów fajek glinianych, Anglia, XIX w. (?)." title="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fragmenty zwiniętych cybuchów fajek glinianych, Anglia, XIX w. (?)."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-035.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-035.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAzNi5KUEc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAzNi5KUEc=" alt="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fragment główki i cybucha fajki glinianej, Anglia, XIX w. (?)." title="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fragment główki i cybucha fajki glinianej, Anglia, XIX w. (?)."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-036.JPG&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-036.JPG&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAzNy5KUEc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAzNy5KUEc=" alt="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, główka w kształcie głowy żołnierza, Anglia, XIX w. (?)." title="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, główka w kształcie głowy żołnierza, Anglia, XIX w. (?)."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-037.JPG&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-037.JPG&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAzOC5KUEc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAzOC5KUEc=" alt="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, główka w kształcie głowy mężczyzny, Anglia, XIX w. (?)" title="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, główka w kształcie głowy mężczyzny, Anglia, XIX w. (?)"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-038.JPG&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-038.JPG&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAzOS5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTAzOS5qcGc=" alt="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, jednorodna fajka gliniana, Francja (?), XIX w." title="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, jednorodna fajka gliniana, Francja (?), XIX w."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-039.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-039.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA0MC5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA0MC5qcGc=" alt="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, ornament plastyczny, Anglia, II poł. XIX w." title="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, ornament plastyczny, Anglia, II poł. XIX w."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-040.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-040.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA0MS5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA0MS5qcGc=" alt="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, ornament plastyczny, Anglia, ok. 1820 – 1840." title="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, ornament plastyczny, Anglia, ok. 1820 – 1840."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-041.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-041.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA0Mi5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA0Mi5qcGc=" alt="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, ornament plastyczny, Anglia, ok. 1810 – 1840." title="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, ornament plastyczny, Anglia, ok. 1810 – 1840."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-042.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-042.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA0My5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA0My5qcGc=" alt="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, ornament plastyczny, Anglia, ok. 1810 – 1840." title="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, ornament plastyczny, Anglia, ok. 1810 – 1840."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-043.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-043.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA0NC5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA0NC5qcGc=" alt="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, ornament malowany na cybuchu i spodzie główki, Francja lub Anglia, XIX w." title="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, ornament malowany na cybuchu i spodzie główki, Francja lub Anglia, XIX w."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-044.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-044.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA0NS5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA0NS5qcGc=" alt="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, Gouda, Holandia, III ćw. XVIII w. (sygnatura główna: herb Goudy, odmiana c)." title="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, Gouda, Holandia, III ćw. XVIII w. (sygnatura główna: herb Goudy, odmiana c)."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-045.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-045.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA0Ni5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA0Ni5qcGc=" alt="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, Gouda, Holandia, ok. 1745 - 1750. (sygnatura główna: 666)." title="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, Gouda, Holandia, ok. 1745 - 1750. (sygnatura główna: 666)."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-046.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-046.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA0Ny5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA0Ny5qcGc=" alt="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, Gouda, Holandia, III ćw. XVIII w. (sygnatura główna: herb Goudy, odmiana c)." title="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, Gouda, Holandia, III ćw. XVIII w. (sygnatura główna: herb Goudy, odmiana c)."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-047.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-047.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA0OC5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA0OC5qcGc=" alt="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, Anglia, II poł. XIX w." title="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, Anglia, II poł. XIX w."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-048.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-048.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA0OS5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA0OS5qcGc=" alt="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, Louis Fiolet, Saint-Omer, Francja, XIX w." title="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, Louis Fiolet, Saint-Omer, Francja, XIX w."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-049.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-049.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA1MC5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA1MC5qcGc=" alt="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, Louis Fiolet, Saint-Omer, Francja, XIX w." title="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, Louis Fiolet, Saint-Omer, Francja, XIX w."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-050.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-050.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA1MS5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA1MS5qcGc=" alt="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, i fajka jednorodna, ornament plastyczny, Anglia, II poł. XIX w. (?)." title="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, i fajka jednorodna, ornament plastyczny, Anglia, II poł. XIX w. (?)."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-051.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-051.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA1Mi5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA1Mi5qcGc=" alt="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, W. White, Glasgow, Szkocja, II poł. XIX w." title="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, W. White, Glasgow, Szkocja, II poł. XIX w."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-052.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-052.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA1My5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA1My5qcGc=" alt="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, ornament plastyczny, Louis Fiolet, Saint-Omer, Francja, XIX w." title="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, ornament plastyczny, Louis Fiolet, Saint-Omer, Francja, XIX w."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-053.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-053.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA1NC5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA1NC5qcGc=" alt="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, glina ceglasta, Anglia, II poł. XIX w." title="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, glina ceglasta, Anglia, II poł. XIX w."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-054.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-054.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA1NS5qcGc="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA1NS5qcGc=" alt="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, glina ceglasta, Anglia, II poł. XIX w." title="Gdańsk, woj. pomorskie. Zabytki z badań archeologicznych przy murach obronnych Głównego Miasta, fajka jednorodna, glina ceglasta, Anglia, II poł. XIX w."/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-055.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FStanowiska_archeologiczne%2FGda%C5%84sk-mury_obronne%2FNID-archeo-Gdansk_mury_obronne-055.jpg&width=60&height=60"/></li> -->
+									
+											<li><a href="/getDocument.php?doc=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA1Ni5wZGY=&typ=PDF"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1N0YW5vd2lza2FfYXJjaGVvbG9naWN6bmUvR2RhxYRzay1tdXJ5X29icm9ubmUvTklELWFyY2hlby1HZGFuc2tfbXVyeV9vYnJvbm5lLTA1Ni5wZGY=&typ=PDF" alt="Gdańsk, woj. pomorskie. Tekst: A. Oniszczuk, <i>Fragment średniowiecznych murów obronnych Głównego Miasta w Gdańsku</i>." title="Gdańsk, woj. pomorskie. Tekst: A. Oniszczuk, <i>Fragment średniowiecznych murów obronnych Głównego Miasta w Gdańsku</i>."  /></a></li>
+													</ol>
+				<footer> 							 
+		          	<ul class="ls9"> 								 
+		            	<li class="next"><a href="#sliderGallery" ><img width="25" height="10" alt="Pokaż kolejne zdjęcia" title="Pokaż kolejne zdjęcia" src="/gfx/arrBottomRed1.png"  /></a></li>
+		           		<li class="prev"><a href="#sliderGallery" ><img width="25" height="10" alt="Pokaż poprzednie zdjęcia" title="Pokaż poprzednie zdjęcia" src="/gfx/arrTopRed1.png"  /></a></li>
+					</ul>
+				</footer>
+			</div>
+		</section>
+		<section> 					 
+			<h2 class="h6">Opis zabytku:</h2>
+	     	<div class="text B" itemprop="description">Fragment zachodniego ciągów murów obronnych Głównego Miasta, zlokalizowany pomiędzy ul. Szeroką a Św. Ducha, składa się z ceglanego muru, tzw. muru wysokiego, będącego fragmentem średniowiecznych fortyfikacji miejskich, o wysokości ok. 5m nad dzisiejszy poziom gruntu. Mur wsparty jest od strony wschodniej dwoma ceglanymi ostrołukowymi arkadami wzniesionymi w latach 70-tych w ramach prac rekonstrukcyjnych. W części środkowej usytuowana jest ceglana Baszta Latarniana o wysokości 10m nad poziom gruntu, z nieosłoniętą koroną murów. Obecnie jest to najstarsza zachowana baszta w ciągu gdańskich obwarowań. Od strony północnej przylega do niej ciąg murów o zróżnicowanej wysokości charakterze, z czytelnymi reliktami struktury muru gotyckiego, który kończy się przy południowej ścianie Baszty Szerokiej. <br/>
+
+<b>Ochrona konserwatorska</b><br/>
+W roku 1947 ochroną konserwatorską objęto obszar historycznego Gdańska w granicach nowożytnych fortyfikacji miasta (decyzja nr 8 z dn. 11.10.1947). W roku 1959 w rejestrze zabytków znalazły się mury obronne Głównego Miasta w Gdańsku (decyzja nr 74 z 18.12.1959). <br/>
+
+<b>Historia zabytku</b><br/>
+Budowę murów miejskich Głównego Miasta rozpoczęto w roku 1343. 26 marca położono kamień węgielny pod budowę Baszty Narożnej, położonej ok. 500m na południe od Baszty Latarnianej. W pierwszej fazie budowy datowanej ogólnie na poł. XIV wzniesiono m.in. najniższą kondygnację Baszty Latarnianej z dwoma otworami strzelniczymi zachowaną do wysokości ok. 3,6m ponad poziom gruntu. Mur z tej fazy wykonano z grubych cegieł (8-9,5cm) układanych w wątku wendyjskim (dwie wozówki, główka). <br/>
+Druga faza konstrukcji datowana jest na przełom XIV/XV w. lub też na pocz. wieku XV, choć brak dowodów jednoznacznie tę datę potwierdzających. Stosowano wtedy cegły o nieco mniejszej grubości, o nadal dużych wymiarach główki i wozówki, które układane były w wątku gotyckim (główka, wozówka). <br/>
+Po wybudowaniu fortyfikacji bastionowych w 2 poł. XVI i w XVII w. średniowieczne mury miejskie utraciły znaczenie obronne. Fosy zasypano, co w rejonie obecnej ul. Latarnianej nastąpiło prawdopodobnie w 1 lub 2 dekadzie XVII w. Mury zaś stopniowo obudowano domami. Ostatni etap zmian w strukturze murów miejskich wiąże się z zabezpieczeniem i odbudową murów po II wojnie światowej (lata 50-te i 70-te XX w.). <br/>
+
+<b>Badania w latach 2005 - 2006</b><br/>
+Archeologiczne badania wykopaliskowe murów miejskich w Gdańsku zaplanowano jako część programu rewaloryzacji istniejącego tam częściowo zrekonstruowanego fragmentu zachodniego ciągu murów obronnych Głównego Miasta. Poprzedziły je kompleksowe badania archiwalne i architektoniczne oraz inwentaryzacja, w ramach której wykonano także skan laserowy całego kompleksu. <br/>
+Prace wykopaliskowe prowadzone w okresie 17.07 – 21.09.2006 r. skoncentrowały się na południowej części zespołu. Wykopy badawcze otwarto wzdłuż muru od strony ul. Latarnianej i przy Baszcie Latarnianej od strony Pl. Kobzdeja. Celem odsłonięcia zewnętrznego pasa średniowiecznych murów miejskich – tzw. muru niskiego, także na Pl. Kobzdeja, otwarto wykop w miejscu, gdzie wg planu Buhsego z 1866 – 1869 roku znajdował się jeden z niewielu niezabudowanych terenów w sąsiedztwie średniowiecznych murów obronnych. <br/>
+Głównym celem badawczym w przypadku zachowanego muru wysokiego było ustalenie relacji pomiędzy poszczególnymi elementami umocnień, wyróżnienie etapów wznoszenia murów miejskich oraz baszty, a także weryfikacja rekonstrukcji ostrołukowych arkad zaproponowanej w latach 70-tych przez architekta R. Massalskiego. W przypadku muru niskiego chodziło o ustalenie jego przebiegu i szczegółów konstrukcyjnych. <br/>
+
+<b>Wyniki badań archeologicznych</b><br/>
+<b>Mur wysoki a Baszta Latarniana.</b> Budowa murów miejskich była przedsięwzięciem zakrojonym na szeroką skalę i jak należało się spodziewać, prowadzono ją w sposób zorganizowany. Prace rozpoczęto od wyrównania terenu. Warstwa żwiru o miąższości od  ok. 0,5m w części wschodniej do 2m w zachodniej czytelna była po obydwu stronach muru. Zasypano nią częściowo pierwszą fosę, na której spadku wzniesiono mur niski (patrz niżej). Wkop pod fundamenty miał głębokość ok. 1m od strony miasta i ok. 0,5m od strony zewnętrznej.  Stopa fundamentu znajdowała się na poziomie 3-3,25m n.p.m. – niżej po stronie zewnętrznej. Część fundamentowa muru miała wysokość ok. 1,25m. Rozpoczęto najwyraźniej od wytyczenia linii umocnień, ponieważ baszta i mur są przewiązane tylko na poziomie fundamentu, wykonanego z kamieni zalanych w górnej części zaprawą. Na poziomie muru z pierwszej fazy, z poł. XIV w., przewiązania już nie ma. <br/>
+<b>Problem rekonstrukcji z lat 70-tych.</b> Od strony ul. Latarnianej odsłonięto fundamenty konstrukcji dostawianych do muru obronnego. <br/>
+W części N zachowały się dwa fundamenty dostawione już po budowie muru obronnego, lecz jeszcze w okresie średniowiecza. Sięgały one na 1,1 – 1,3m od lica muru obronnego, bliżej niż współczesne arkady. Fundamenty wykonano z kamieni ok. 30cm średnicy uzupełnianych otoczakami. Wzniesione na nich konstrukcje nie zachowały się, zniszczone podczas budowy XVII-wiecznej kamienicy. Nie można wobec tego stwierdzić, czy wzniesiono na nich przypory dla muru wysokiego, czy chodnik obrońców. W części S odsłonięto mur dostawiony do muru wysokiego w 1 poł. XVII w., nie mający zatem nic wspólnego z jego funkcją obronną. Badania pokazały jasno, że nie było przesłanek do rekonstrukcji ostrołukowych arkad zaproponowanej przez Ryszarda Massalskiego. Wykonane przez niego wykopy sondażowe nie sięgnęły średniowiecznych fundamentów, a współczesne rekonstrukcje oparto o mury nowożytnych kamienic. <br/>
+<b>Mur niski</b> odsłonięto po usunięciu powojennych gruzowych niwelacji, ok. 1,5m poniżej współczesnego poziomu gruntu. Wzniesiono go w odległości ok. 9,5m od lica zewnętrznego baszty i ok. 13,5m od lica zewnętrznego muru wysokiego w dwóch fazach. Rozpoczęto pod koniec XIV lub na początku XV w., zaś nadbudowano go na przełomie XV/XVI w. <br/>
+Mur wzniesiono na opadającej ku zachodowi krawędzi wewnętrznej starszej fosy. Kamienny fundament został w nią zagłębiony. Część fundamentową konstrukcji – kamienie spojone zaprawą – odsłonięto na wysokość 1,1m. Wysokość zachowanego fragmentu muru wynosiła ok.2,7m. Konstrukcję wzniesiono w wątku gotyckim, co zgadza się z ustaleniami dla drugiej fazy budowy umocnień. Poziom odsadzki fundamentowej znajdował się na poziomie ok. 2,2m n.p.m. Mur podwyższono na przełomie XV/XVI w. lub na pocz. wieku XVI. Zdawano sobie sprawę z zagrożeń konstrukcyjnych dla wznoszonej w takim miejscu konstrukcji, od strony wewnętrznej ustawiono bowiem niewysokie palowanie (ok. 0,6m) mające podtrzymywać wysunięte lico młodszej fazy. Do katastrofy budowlanej jednak doszło, zewnętrzne lico muru niskiego oberwało się jeszcze w XVI lub w XVII w. <br/>
+Poziom międzymurza w okresie poprzedzającym nadbudowę muru niskiego znajdował się na poziomie ok. 4,35m n.p.m., czyli ok. 2,35m poniżej współczesnego poziomu gruntu. <br/>
+<b>Późniejsze wykorzystywanie terenu.</b> W późniejszym okresie badany teren utracił znaczenie militarne. Kamienice dobudowano do muru wysokiego, wzniesiono je także na przedmurzu. W trakcie badań odsłonięto ponadto pozostałości pieców o różnej chronologii, zagłębionych piwniczek i latryn. Z Jednej z jam odpadkowych pochodzi zbiór kilkudziesięciu ozdobnych  fajek glinianych z początku XIX w. Poziom zniszczeń II wojny światowej wyznacza warstwa pożarowa odsłonięta na głębokości 1-2m pod poziomem gruntu. Po wojnie teren wyrównano gruzem i zagospodarowano.
+
+</div>
+		</section>
+		<footer> 					 
+			<p style="margin-top:10px;"><a href="#" onclick="history.go(-1)" class="ln7" >Powr&oacute;t</a></p>
+		</footer>
+<section> 
+    <ul class="list h ls4" style="margin-top:20px;"> 						 
+      <li><a onclick="print('.pg3')" class="ln3 print" style="cursor:pointer;" >Drukuj artykuł</a></li>
+     						 
+      <li><a href="http://www.facebook.com/sharer.php?u=http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=194" class="ln3 fb" style="cursor:pointer;" >Publikuj na Facebooku</a></li>
+     						 					</ul>
+</section>
+	</article>
+
+
+	
+	
+	
+	
+	
+	
+	</div>
+  
+  
+  
+  <hr/> 		 
+  
+   		 		<hr/> 
+    <div id="sidebar2"> 			<section> 				 
+        <h1 class="h1 C"><img width="269" height="29" alt="Nowe zabytki" title="Nowe zabytki" src="/gfx/hNoweZabytki.png"  /></h1>
+       				 
+        <div id="sliderMonumetsWrapper" class="md7"> 					 
+          <div id="sliderMonumets"> 					 
+            <div class="line">
+            
+            			    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Frombork - zespół katedralny</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=60'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvRnJvbWJvcmtfLV96ZXNww7PFgl9rYXRlZHJhbG55L05JRC1wb21oaXMtRnJvbWJvcmstMDAzLmpwZw==" alt="Frombork - zespół katedralny" itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Zesp&oacute;ł katedralny we Fromborku został uznany za pomnik...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=60">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Bohoniki i Kruszyniany - mecz...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=205'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvQm9ob25pa2lfaV9LcnVzenluaWFueV8tX21lY3pldHlfaV9taXphcnkvTklELXBvbWhpcy1LcnVzenluaWFueS0wMDMuanBn" alt="Bohoniki i Kruszyniany - mecz..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Meczety i mizary (cmentarze) w Bohonikach i Kruszynianach...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=205">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Katowice - Gmach Województwa ...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=206'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS2F0b3dpY2VfLV9HbWFjaF9Xb2pld8OzZHp0d2FfaV9TZWptdV/FmmzEhXNraWVnby9OSUQtcG9taGlzLUthdG93aWNlX0dtYWNoLTAwMy5qcGc=" alt="Katowice - Gmach Województwa ..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Gmach Wojew&oacute;dztwa i Sejmu Śląskiego w Katowicach to...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=206">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Łowicz - Bazylika Katedralna ...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=207'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvxYFvd2ljel8tX0JhenlsaWthX0thdGVkcmFsbmFfKGRhd25hX0tvbGVnaWF0YV9QcnltYXNvd3NrYSlfcG9kX3dlendhbmllbV9XbmllYm93emnEmWNpYV9OYWrFm3dpxJl0c3plal9NYXJpaV9QYW5ueS9OSUQtcG9taGlzLUxvd2ljei0wMDMuanBn" alt="Łowicz - Bazylika Katedralna ..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Katedra łowicka jest zabytkiem o szczeg&oacute;lnym znaczeniu...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=207">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Sulejów - zespół opactwa cyst...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=208'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvU3VsZWrDs3dfLV96ZXNww7PFgl9vcGFjdHdhX2N5c3RlcnPDs3cvTklELXBvbWhpcy1TdWxlam93LTAwMy5qcGc=" alt="Sulejów - zespół opactwa cyst..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Klasztor obronny w Sulejowie z kościołem, zabudowaniami i...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=208">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Paczków - zespół staromiejski...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=209'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvUGFjemvDs3dfLV96ZXNww7PFgl9zdGFyb21pZWpza2lfemVfxZtyZWRuaW93aWVjem55bV9zeXN0ZW1lbV9mb3J0eWZpa2FjamkvTklELXBvbWhpcy1QYWN6a293LTAwNC5qcGc=" alt="Paczków - zespół staromiejski..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Mury Paczkowa należą do najlepiej zachowanych średniowiecznych...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=209">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Strzegom - kościół pod wezwan...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=204'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvU3RyemVnb21fLV9rb8WbY2nDs8WCX3BvZF93ZXp3YW5pZW1fxZt3Ll9BcG9zdG/FgsOzd19QaW90cmFfaV9QYXfFgmEvTklELXBvbWhpcy1TdHJ6ZWdvbS0wMDEuanBn" alt="Strzegom - kościół pod wezwan..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Strzegomski kości&oacute;ł pod wezwaniem Świętych Apostoł&oacute;w...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=204">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Warszawa - Zamek Królewski</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=201'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDAyLmpwZw==" alt="Warszawa - Zamek Królewski" itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p class="Default"><strong>Zamek średniowieczny<br /></strong>Powstanie...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=201">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Tarnowskie Góry - podziemia z...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=71'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVGFybm93c2tpZV9Hw7NyeV8tX3BvZHppZW1pYV96YWJ5dGtvd2VqX2tvcGFsbmlfcnVkX3NyZWJyb25vxZtueWNoX29yYXpfc3p0b2xuaV9DemFybmVnb19Qc3RyxIVnYS9OSUQtcG9taGlzLVRhcm5vd3NraWVfR29yeS0wMDUuanBn" alt="Tarnowskie Góry - podziemia z..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Podziemia zabytkowej kopalni rud srebronośnych oraz sztolni...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=71">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Kalwaria Zebrzydowska - krajo...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=72'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS2Fsd2FyaWFfWmVicnp5ZG93c2thXy1fa3Jham9icmF6b3d5X3plc3DDs8WCX21hbmllcnlzdHljem5lZ29fcGFya3VfcGllbGdyenlta293ZWdvL05JRC1wb21oaXMtS2Fsd2FyaWFfWmVicnp5ZG93c2thLTAwMy5qcGc=" alt="Kalwaria Zebrzydowska - krajo..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Kalwaria Zebrzydowska &ndash; unikatowe sanktuarium pasyjno-maryjne...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=72">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Twierdza Srebrnogórska - nowo...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=73'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVHdpZXJkemFfU3JlYnJub2fDs3Jza2FfLV9ub3dvxbx5dG5hX3dhcm93bmlhX2fDs3Jza2Ffel9YVklJSV93aWVrdS9OSUQtcG9taGlzLVNyZWJybmFfR29yYS0wMDcuanBn" alt="Twierdza Srebrnogórska - nowo..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Twierdza Srebrnog&oacute;rska została uznana za pomnik historii...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=73">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Kazimierz Dolny</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=74'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS2F6aW1pZXJ6X0RvbG55L05JRC1wb21oaXMtS2F6aW1pZXJ6X0RvbG55LTAwNC5qcGc=" alt="Kazimierz Dolny" itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Kazimierz Dolny &ndash; niewielka miejscowość położona w...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=74">zabytek</a></p>	
+			    	</article>
+						
+			
+            
+            </div>
+         								</div><footer> 						 
+            <ul class="list h ls3"> 							 
+              <li class="next"><a href="zabytki.html" ><img width="10" height="25" alt="Pokaż następne zabytki" title="Pokaż następne zabytki" src="/gfx/arrRightRed1.png"  /></a></li>
+             							 
+              <li class="prev"><a href="zabytki.html" ><img width="10" height="25" alt="Pokaż poprzednie zabytki" title="Pokaż poprzednie zabytki" src="/gfx/arrLeftRed1.png"  /></a></li>
+             						</ul>
+           					</footer> 	
+       			</section> 		</div>
+   
+<!-- KONIEC -->
+		 </div>
+<div style="clear:both;"></div>
+</div></div>
+ 		<hr/> 		
+
+<div style="background-color:#1a0022; min-width:1146px;">
+<footer id="footer"> 			
+    <p class="copyright">Copyright &copy; 2011 <b>Portal Mapowy</b></p>
+   <div class="nagrody"><a href="/Nowosci/news.php?ID=1202"><img src="/gfx/nagrody1.png" width="354" height="35"></a></div>						
+    <div class="line"> 				
+      <div class="unit md3" itemtype="http://schema.org/GovernmentOrganization" itemscope="itemscope"> 					
+        <h1 class="h3" itemprop="name">Narodowy Instytut Dziedzictwa</h1>
+       					
+        <div class="md3-media"> 						<img itemprop="image" width="219" height="57" alt="Narodowy Instytut Dziedzictwa" src="/gfx/logoNID2.png"  /> 					</div>
+       					
+      <p itemtype="http://schema.org/PostalAddress" itemscope="" itemprop="address"><span itemprop="streetAddress">ul. Kopernika 36/40</span>, <span itemprop="postalCode">00-924</span> <span itemprop="addressLocality">Warszawa</span></p>
+       					
+        <p>tel. <span itemprop="telephone">+48 22 826 02 39</span>, <span itemprop="telephone">22 826 92 47</span>, fax: <span itemprop="faxNumber">+48 22 826 17 14</span></p>
+ <p>e-mail. <a href="mailto:portal_mapowy@nid.pl">portal_mapowy@nid.pl</a></p>
+ <p><a href="http://www.zabytek.pl">www.zabytek.pl</a>, <a href="http://www.nid.pl">www.nid.pl</a></p>
+       				</div>
+     				
+      <div class="unit md4"> 					
+        <h1 class="h2 C"><img width="209" height="18" alt="Czekamy na TwĂłj komentarz" src="/gfx/hCzekamyNaTwojKomentarz.png"  /></h1>
+       					
+        <p>Masz uwagi co do działania portalu lub chcesz skontaktować się z nami w innej sprawie? <a href="/Kontakt/" class="ln1" >Napisz do nas</a></p>
+       				</div>
+     				
+      <ul class="unit md5"> 					
+        <li><a href="/" ><img width="116" height="45" alt="Portal Mapowy" src="/gfx/logoPM2.png"  /></a></li>
+        <li><a href="http://tnij.org/nid_apk"><img width="119" height="41" src="/gfx/google_play_logo.png" alt="Google Play"></a></li>
+        <li class="rss"><a href="/news.php" ><img alt="RSS" src="/gfx/icoRSS.png"  /></a></li>
+       				</ul>
+     			</div>
+   			
+    <div class="widget_container"> 				
+      <div class="widget_social"> 					<img src="/gfx/ico_fcb.gif" border="0" id="facebookIco"  /> 					
+        <div style="float: left; margin: 0pt;"> 						
+<script type="text/javascript" src="/js/pl_PL"></script>
+ 						
+<script	type="text/javascript">FB.init();</script>
+ 						<fb:fan height="330" width="190" logobar="1" connections="6" stream="0" profile_id="200305476647255"></fb:fan> 					</div>
+       				</div>
+     			</div>
+   			 	<div class="yt_container"><a href="http://www.youtube.com/tvNID" target="_blank" ><img src="/gfx/youtube.gif" border="0" id="YouTubeIco"  /></a></div>
+<script	type="text/javascript">
+				$('.widget_container').hover(function() {
+					$('.widget_container').css('overflow', 'visible');
+					$(this).stop().animate({
+						width: '250px'
+					}, 1000, null, function() { $('.widget_container').css('overflow', 'hidden'); });
+				}, function() {
+					$('.widget_container').css('overflow', 'hidden');
+					$(this).stop().animate({
+						width: '38px'
+					}, 1000);
+				});
+			</script>
+ 		</footer>
+<div style="background-color:#1a0022;height:70px;border-top:1px solid #CE003A;"></div> 
+</div>
+
+		</div>
+ 
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="/js/jquery.scrollTo-min.js"></script>
+
+<script src="/js/jquery.serialScroll-min.js"></script>
+ 	
+<script src="/js/sliders.js"></script>
+ 
+<script language="javascript" src="/js/jquery.printElement.min.js"></script>
+ 
+<script language="javascript" src="/js/pixastic.custom.js"></script>
+ 
+<script language="javascript" src="/js/print.js"></script>
+<script language="javascript" src="/js/lightbox.js"></script> 
+<script language="javascript" src="/js/grayScale.js"></script>
+<script language="javascript" src="/js/nid.js"></script>
+<script type="text/javascript" src="/ajax/kontakt/jquery.colorbox.js"></script>
+
+<script language="javascript">
+$(document).ready(function () {
+
+        $(".inline-pop").colorbox({inline:true, width:"413", height:"195"});
+		
+		
+});
+
+
+
+        $("ul.subnav").parent().append(""); //Only shows drop down trigger when js is enabled (Adds empty span tag after ul.subnav*)  
+      
+        $("ul.topnav li a").hover(function() { //When trigger is clicked...  
+      
+            //Following events are applied to the subnav itself (moving subnav up and down)  
+            $(this).parent().find("ul.subnav").slideDown('fast').show(); //Drop down the subnav on click  
+      
+            $(this).parent().hover(function() {  
+            }, function(){  
+                $(this).parent().find("ul.subnav").slideUp('slow'); //When the mouse hovers out of the subnav, move it back up  
+            });  
+      
+            //Following events are applied to the trigger (Hover events for the trigger)  
+            }).hover(function() {  
+                $(this).addClass("subhover"); //On hover over, add class "subhover"  
+            }, function(){  //On Hover Out  
+                $(this).removeClass("subhover"); //On hover out, remove class "subhover"  
+        });  
+
+
+</script>
+
+<script type="text/javascript">
+ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37373671-1']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
+</script>
+
+ </body>
+</html>http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=194

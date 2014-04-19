@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+<html lang="pl" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width" /><!-- fixes CSS query min/max width on mobile -->
+<meta property="og:image" content='http://93.159.33.89/imgResize.php?scale=4&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDA0LmpwZw==' />
+<meta property="og:title" content="Krzeszów - opactwo cystersów" />
+<meta property="og:description" content="Krzeszów - opactwo cystersów" /> 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="Zabytki" />
+<meta name="description" content="NID Main Site" />
+<link href="/bitrix/js/main/core/css/core.css?1354612059" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/components/bitrix/menu/nid_horizontal_multilevel/style.css?1348129813" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/.default/components/bitrix/breadcrumb/.default/style.css?1333627633" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/styles.css?1389950861" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/template_styles.css?1389950861" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/bitrix/js/main/core/core.js?1390241314"></script>
+<script type="text/javascript">BX.message({'LANGUAGE_ID':'en','FORMAT_DATE':'DD/MM/YYYY','FORMAT_DATETIME':'DD/MM/YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','USER_ID':'','SERVER_TIME':'1397919476','SERVER_TZ_OFFSET':'7200','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'46e6d72c14df2af1f3b2e8f0723ae8e2','SITE_ID':'10','JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In'})</script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ajax.js?1390241314"></script>
+<script type="text/javascript" src="/bitrix/js/main/session.js?1390241314"></script>
+<script type="text/javascript">
+bxSession.Expand(1440, '46e6d72c14df2af1f3b2e8f0723ae8e2', false, '0342975d9472ea015452b99c6cf8549b');
+</script>
+<link rel="shortcut icon" href="/nid.ico" />
+<link href="/styles/lightbox.css" rel="stylesheet" />
+
+<!--[if lt IE 9]><script>;(function(e){for(var i=0;e[i]; i++){document.createElement(e[i]);}})("abbr,article,aside,audio,canvas,datalist,details,summary,figure,figcaption,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(','));</script><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="Zabytki" />
+<meta name="description" content="NID Main Site" />
+<link href="/bitrix/js/main/core/css/core.css?1354612059" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/components/bitrix/menu/nid_horizontal_multilevel/style.css?1348129813" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/.default/components/bitrix/breadcrumb/.default/style.css?1333627633" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/styles.css?1389950861" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/NID Informacja o zabytku/template_styles.css?1389950861" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/bitrix/js/main/core/core.js?1390241314"></script>
+<script type="text/javascript">BX.message({'LANGUAGE_ID':'en','FORMAT_DATE':'DD/MM/YYYY','FORMAT_DATETIME':'DD/MM/YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','USER_ID':'','SERVER_TIME':'1397919476','SERVER_TZ_OFFSET':'7200','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'46e6d72c14df2af1f3b2e8f0723ae8e2','SITE_ID':'10','JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In'})</script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ajax.js?1390241314"></script>
+<script type="text/javascript" src="/bitrix/js/main/session.js?1390241314"></script>
+<script type="text/javascript">
+bxSession.Expand(1440, '46e6d72c14df2af1f3b2e8f0723ae8e2', false, '0342975d9472ea015452b99c6cf8549b');
+</script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+
+
+</head>
+<body> 
+<div id="panel"></div>
+ 	
+<div id="main"> 		
+  <div class="skiplinks"><a href="#contentMain" >skocz do treści</a></div>
+ 		<hr/> 		<header id="header"> 			<hgroup> 				
+      <h1><a href="/" ><img width="180" height="70" alt="Portal Mapowy" src="/gfx/logoPortalMapowy.png"  /></a></h1>
+     				
+      <h2><a href="http://www.zabytek.pl" ><img width="275" height="73" alt="Narodowy Instytut Dziedzictwa" src="/gfx/logoNID.png"  /></a></h2>
+     			</hgroup> 			<nav class="nav"> 				
+
+<script src="/bitrix/templates/NID Informacja o zabytku/components/bitrix/menu/nid_horizontal_multilevel/script.js?1390241310" type="text/javascript"></script>
+<ul class="topnav">
+	<li class="strona-glowna "><a href="/" >Strona główna</a></li>    
+	
+		
+	
+	
+		
+							<li class="nowosci "><a href="/Nowosci/">Nowości</a></li>
+			
+		
+	
+	
+		
+	
+	
+		
+							<li class="o-portalu "><a href="/O_portalu/">O portalu</a></li>
+			
+		
+	
+	
+		
+	
+	
+					<li class="przewodnik "><a href="/Przewodnik/">Przewodnik</a>
+				<ul class="subnav">
+		
+	
+	
+		
+	
+	
+		
+												<li class="repo"><a href="/Przewodnik/Zrodla_danych/">Źródła danych</a></li>
+							
+		
+	
+	
+		
+	
+	
+		
+												<li class="mapy"><a href="http://geoportal.nid.pl/SDIPortal/" target="_blank" >Metadane</a></li>
+							
+		
+	
+	
+		
+	
+	
+		
+												<li class="repo"><a href="/Przewodnik/Wspolpraca/">Współpraca</a></li>
+							
+		
+	
+	
+		
+	
+	
+		
+												<li class="repo"><a href="/Przewodnik/Dokumentacja/">Dokumentacja</a></li>
+							
+		
+	
+	
+		
+	
+	
+		
+												<li class="repo"><a href="/Przewodnik/Faq/">FAQ</a></li>
+							
+		
+	
+	
+		
+			</ul></li>	
+	
+		
+							<li class="kalendarium "><a href="/Kalendarium/">Kalendarium</a></li>
+			
+		
+	
+	
+		
+	
+	
+		
+							<li class="sluzba-ochrony-zabytkow "><a href="/Sluzba_Ochrony_Zabytkow/">Służby konserwatorskie</a></li>
+			
+		
+	
+	
+		
+	
+	
+		
+							<li class="regulamin "><a href="/Regulamin/">Regulamin</a></li>
+			
+		
+	
+	
+		
+	
+	
+		
+							<li class="kontakt "><a href="/Kontakt/">Kontakt</a></li>
+			
+		
+	
+	
+
+
+</ul>
+<div class="menu-clear-left"></div>
+
+
+       		 		 
+        <div style="display: none;"> 			 
+          <div id="inline_popup" style="color: rgb(255, 255, 255);"> 
+			<div class="regulamin-pop">
+						<div class="m-20"><img src="/gfx/akceptacja_war.png" alt="" /></div>
+						<div class="ml-20 fs-13">Zapoznałem się z regulaminem, zgadzam się na jego warunki.</div>
+						<div class="mt-32">
+						   <div class="fl ml-20 mt-20"><a target="_blank" href="/Regulamin/">Przeczytaj regulamin</a></div>
+						   <div class="fl ml-20"><a target="_blank" href="http://geoportal.nid.pl"><img src="/gfx/yes_pop.png" alt="" /></a></div>
+						   <div class="fl ml-20"><a href="/"><img src="/gfx/no_pop.png" alt="" /></a></div>
+						   <div class="clr"></div>
+						</div>
+			</div>
+          </div>
+        </div>
+     			</nav> 			<form class="fo1" method="get" action="/Szukaj/"> 				<fieldset> 					<legend><span class="h0">Wyszukiwarka</span></legend> 					
+        <div> 						<label class="h0" for="FS-query">Szukana fraza</label> 						<input type="search" placeholder="Szukaj" id="FS-query" name="q" /> 					</div>
+       				</fieldset> 				
+      <div class="submit"> 					<input type="image" title="Szukaj" alt="Szukaj" src="/gfx/btnSearch.png" name="s" /> 				</div>
+     			</form> 		</header> 		<hr/> 
+
+<div style="background-image:url('/gfx/bgmc.jpg');background-repeat:repeat-x;background-position:bottom; ">				
+  <div id="contentWrapper">
+  
+  
+  
+  <div id="contentMain"><nav id="breadcrumbs"> Portal e-zabytek &gt; <span class="fat">Zabytek</span> </nav>
+ <hr/> 
+	<article class="pg3" itemscope="itemscope" itemtype="http://schema.org/LandmarksOrHistoricalBuildings">
+
+
+
+		
+		    <script language="javascript">
+    			document.title = "e-zabytek - Krzeszów - opactwo cystersów";
+   			 </script>
+
+
+		<header class="pg3-lc">
+			<hgroup> 						 
+				<h2><img width="383" height="57" alt="Informacja o zabytku" src="/gfx/hInformacjaOZabytku.png"  /></h2>
+				<h1 class="h1 E" itemprop="name">Krzeszów - opactwo cystersów</h1>
+	       	</hgroup>
+		</header>
+		<section class="pg3-rc"> 					 
+			<h2 class="h1"><img width="183" height="43" alt="Og&amp;oacute;lne informacje" src="/gfx/hOgolneInformacje.png"  /></h2>
+			<dl class="ls7">
+				<dt>Typ zabytku:</dt>
+				<dd>klasztor, zespół sakralny</dd>
+				<dt>Chronologia:</dt>
+				<dd>koniec XIII - XVIII w.</dd>
+				<dt>Forma ochrony:</dt>
+				<dd>pomnik historii</dd>
+				<dt>Lokalizacja:</dt>
+				<dd itemprop="address" itemscope="itemscope" itemtype="http://schema.org/PostalAddress">
+					<figure>
+					 						<iframe src="http://geoportal.nid.pl/SDIPortal/Map.aspx?gpm=9e29ba96-e450-4830-a87c-35b9f345bb25&navigator=false&scalebar=false&coords=false&bbox=291202.648914086,321540.176216375,293607.204945209,323507.478649517" style="border: medium none; height: 289px; width: 300px;"></iframe>
+					</figure>
+				</dd>
+				<dt>Właściciel praw autorskich:</dt>
+				<dd>Narodowy Instytut Dziedzictwa<br/>domena publiczna<br/>Romuald M. Sołdek<br/></dd>
+				<dt>Typ licencji:</dt>
+				<dd>CC Uznanie autorstwa-Użycie niekomercyjne-Bez utworów zależnych 3.0 Polska<br/>domena publiczna<br/>CC Uznanie autorstwa-Użycie niekomercyjne-Bez utworów zależnych 3.0 Polska<br/></dd>
+				<dt>Licencja:</dt>
+				<dd><a href="http://creativecommons.org/licenses/by-nc-nd/3.0/pl/legalcode" >http://creativecommons.org/licenses/by-nc-nd/3.0/pl/legalcode</a></dd>
+			</dl>
+			<section style="padding-bottom:15px;"> 						 
+				<h3 class="h6">Powiązane zabytki</h3>
+		        <ul class="ls8">
+		        					</ul>
+			</section>
+ 
+<div style="background:#ffffff; margin:0 0 -16px -20px; padding:30px; width:100%;"> 
+  <div class="md2 B"> 				<a href="http://geoportal.nid.pl/SDIPortal/?bbox=291202.648914086,321540.176216375,293607.204945209,323507.478649517" target="_blank"><img width="220" height="55" alt="Mapy" title="Mapy" src="/gfx/linkMapy3.png"  /></a> 			</div>
+ 
+  <div class="md2 B"> 				<a href="/Przewodnik/Repo/" target="_blank" ><img width="220" height="55" alt="Repo" title="Repo" src="/gfx/linkRepo.png"  /></a> 			</div>
+ 	 </div>
+ 	
+		</section>
+
+		<section class="md9"> 					 
+			<h2 class="h0">Galeria</h2>
+	 		<figure class="md9-img ln4">
+	 				 			<a href="/imgResize.php?scale=4&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDA0LmpwZw==" rel="lightbox" title="Krzeszów, kościół klasztorny pw. Wniebowzięcia NMP, 1728-1735"><img itemprop="image" alt="Krzeszów, kościół klasztorny pw. Wniebowzięcia NMP, 1728-1735" title="Krzeszów, kościół klasztorny pw. Wniebowzięcia NMP, 1728-1735" src="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDA0LmpwZw==" id="image-full"  /> </a>
+	 			<p id="pic_description" style="padding:10px;">Krzeszów, kościół klasztorny pw. Wniebowzięcia NMP, 1728-1735</p>
+	    		<h2 class="h0"> <br /></h2>
+			</figure> 					 
+	  		<div id="sliderGalleryWrapper"> 
+				<ol class="ls10" id="sliderGallery">
+					
+											<li><a href="/getDocument.php?doc=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDAxLnBkZg==&typ=PDF"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDAxLnBkZg==&typ=PDF" alt="Tekst prezentujący pomnik historii - Krzeszów - opactwo cystersów" title="Tekst prezentujący pomnik historii - Krzeszów - opactwo cystersów"  /></a></li>
+									
+											<li><a href="/getDocument.php?doc=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDAyLnBkZg==&typ=PDF"><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDAyLnBkZg==&typ=PDF" alt="Rozporządzenie Prezydenta RP uznające opactwo cystersów w Krzeszowie za pomnik historii" title="Rozporządzenie Prezydenta RP uznające opactwo cystersów w Krzeszowie za pomnik historii"  /></a></li>
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDAzLmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDAzLmpwZw==" alt="Krzeszów, aleja prowadząca do zespołu dawnego opactwa cystersów; po prawej stronie kościół klasztorny, na wprost kościół bracki św. Józefa, po lewej widoczny dom opata" title="Krzeszów, aleja prowadząca do zespołu dawnego opactwa cystersów; po prawej stronie kościół klasztorny, na wprost kościół bracki św. Józefa, po lewej widoczny dom opata"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrzesz%C3%B3w_-_opactwo_cysters%C3%B3w%2FNID-pomhis-Krzeszow-003.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrzesz%C3%B3w_-_opactwo_cysters%C3%B3w%2FNID-pomhis-Krzeszow-003.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDA1LmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDA1LmpwZw==" alt="Krzeszów, fragment fasady kościoła klasztornego, dekoracja rzeźbiarska – Ferdynand Maksymilian Brokoff, Anton Dorasil" title="Krzeszów, fragment fasady kościoła klasztornego, dekoracja rzeźbiarska – Ferdynand Maksymilian Brokoff, Anton Dorasil"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrzesz%C3%B3w_-_opactwo_cysters%C3%B3w%2FNID-pomhis-Krzeszow-005.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrzesz%C3%B3w_-_opactwo_cysters%C3%B3w%2FNID-pomhis-Krzeszow-005.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDA2LmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDA2LmpwZw==" alt="Krzeszów, fragment wieży w fasadzie kościoła klasztornego" title="Krzeszów, fragment wieży w fasadzie kościoła klasztornego"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrzesz%C3%B3w_-_opactwo_cysters%C3%B3w%2FNID-pomhis-Krzeszow-006.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrzesz%C3%B3w_-_opactwo_cysters%C3%B3w%2FNID-pomhis-Krzeszow-006.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDA3LmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDA3LmpwZw==" alt="Krzeszów, widok wnętrza nawy kościoła klasztornego" title="Krzeszów, widok wnętrza nawy kościoła klasztornego"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrzesz%C3%B3w_-_opactwo_cysters%C3%B3w%2FNID-pomhis-Krzeszow-007.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrzesz%C3%B3w_-_opactwo_cysters%C3%B3w%2FNID-pomhis-Krzeszow-007.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDA4LmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDA4LmpwZw==" alt="Wnętrze kościoła klasztornego w Krzeszowie, scena Ucieczki do Egiptu w jednym z przęseł sklepienia, Jerzy Wilhelm Neunhertz" title="Wnętrze kościoła klasztornego w Krzeszowie, scena Ucieczki do Egiptu w jednym z przęseł sklepienia, Jerzy Wilhelm Neunhertz"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrzesz%C3%B3w_-_opactwo_cysters%C3%B3w%2FNID-pomhis-Krzeszow-008.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrzesz%C3%B3w_-_opactwo_cysters%C3%B3w%2FNID-pomhis-Krzeszow-008.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDA5LmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDA5LmpwZw==" alt="Wnętrze kościoła klasztornego w Krzeszowie, jeden z ołtarzy bocznych" title="Wnętrze kościoła klasztornego w Krzeszowie, jeden z ołtarzy bocznych"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrzesz%C3%B3w_-_opactwo_cysters%C3%B3w%2FNID-pomhis-Krzeszow-009.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrzesz%C3%B3w_-_opactwo_cysters%C3%B3w%2FNID-pomhis-Krzeszow-009.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDEwLmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDEwLmpwZw==" alt="Wnętrze kościoła klasztornego w Krzeszowie, tabernakulum ołtarza głównego z umieszczoną nad nim XIII-wieczną ikoną Matki Boskiej Łaskawej" title="Wnętrze kościoła klasztornego w Krzeszowie, tabernakulum ołtarza głównego z umieszczoną nad nim XIII-wieczną ikoną Matki Boskiej Łaskawej"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrzesz%C3%B3w_-_opactwo_cysters%C3%B3w%2FNID-pomhis-Krzeszow-010.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrzesz%C3%B3w_-_opactwo_cysters%C3%B3w%2FNID-pomhis-Krzeszow-010.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDExLmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDExLmpwZw==" alt="Wnętrze kościoła klasztornego w Krzeszowie, ambona – Anton Stenzel, Joseph Lachel" title="Wnętrze kościoła klasztornego w Krzeszowie, ambona – Anton Stenzel, Joseph Lachel"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrzesz%C3%B3w_-_opactwo_cysters%C3%B3w%2FNID-pomhis-Krzeszow-011.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrzesz%C3%B3w_-_opactwo_cysters%C3%B3w%2FNID-pomhis-Krzeszow-011.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDEyLmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDEyLmpwZw==" alt="Wnętrze kościoła klasztornego w Krzeszowie, organy – 1733-1736 Michael Engler mł., prospekt – Ferdynand Maksymilian Brokoff, Anton Dorasil" title="Wnętrze kościoła klasztornego w Krzeszowie, organy – 1733-1736 Michael Engler mł., prospekt – Ferdynand Maksymilian Brokoff, Anton Dorasil"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrzesz%C3%B3w_-_opactwo_cysters%C3%B3w%2FNID-pomhis-Krzeszow-012.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrzesz%C3%B3w_-_opactwo_cysters%C3%B3w%2FNID-pomhis-Krzeszow-012.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDEzLmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDEzLmpwZw==" alt="Mauzoleum Piastów świdnicko-jaworskich przy kościele klasztornym w Krzeszowie, widok jednej z dwóch kopuł" title="Mauzoleum Piastów świdnicko-jaworskich przy kościele klasztornym w Krzeszowie, widok jednej z dwóch kopuł"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrzesz%C3%B3w_-_opactwo_cysters%C3%B3w%2FNID-pomhis-Krzeszow-013.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrzesz%C3%B3w_-_opactwo_cysters%C3%B3w%2FNID-pomhis-Krzeszow-013.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDE0LmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDE0LmpwZw==" alt="Fasada kościoła brackiego pw. św. Józefa w zespole dawnego opactwa cysterskiego w Krzeszowie, 1692-1695" title="Fasada kościoła brackiego pw. św. Józefa w zespole dawnego opactwa cysterskiego w Krzeszowie, 1692-1695"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrzesz%C3%B3w_-_opactwo_cysters%C3%B3w%2FNID-pomhis-Krzeszow-014.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrzesz%C3%B3w_-_opactwo_cysters%C3%B3w%2FNID-pomhis-Krzeszow-014.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDE1LmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDE1LmpwZw==" alt="Barokowy budynek klasztorny w Krzeszowie, Johann Gotlieb Feller" title="Barokowy budynek klasztorny w Krzeszowie, Johann Gotlieb Feller"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrzesz%C3%B3w_-_opactwo_cysters%C3%B3w%2FNID-pomhis-Krzeszow-015.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrzesz%C3%B3w_-_opactwo_cysters%C3%B3w%2FNID-pomhis-Krzeszow-015.jpg&width=60&height=60"/></li> -->
+									
+											<li><a class='isImg' href="/imgResize.php?scale=2&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDE2LmpwZw=="><img src="/imgResize.php?scale=3&img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS3J6ZXN6w7N3Xy1fb3BhY3R3b19jeXN0ZXJzw7N3L05JRC1wb21oaXMtS3J6ZXN6b3ctMDE2LmpwZw==" alt="Krzeszów, jedna ze stacji kalwaryjskich, tzw. Ratusz Piłata, przy zespole dawnego opactwa cysterskiego" title="Krzeszów, jedna ze stacji kalwaryjskich, tzw. Ratusz Piłata, przy zespole dawnego opactwa cysterskiego"/></a></li>
+						<!-- <li><a class='isImg' href="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrzesz%C3%B3w_-_opactwo_cysters%C3%B3w%2FNID-pomhis-Krzeszow-016.jpg&width=590&height=317"></a><img src="http://oai-pmh.nid.pl:5070/nid-ws/rest/oaipmh/getImg?url=http%3A%2F%2F192.168.10.22%2Fpublic%2Frepo%2Fcarare%2FPomniki_Historii%2FKrzesz%C3%B3w_-_opactwo_cysters%C3%B3w%2FNID-pomhis-Krzeszow-016.jpg&width=60&height=60"/></li> -->
+													</ol>
+				<footer> 							 
+		          	<ul class="ls9"> 								 
+		            	<li class="next"><a href="#sliderGallery" ><img width="25" height="10" alt="Pokaż kolejne zdjęcia" title="Pokaż kolejne zdjęcia" src="/gfx/arrBottomRed1.png"  /></a></li>
+		           		<li class="prev"><a href="#sliderGallery" ><img width="25" height="10" alt="Pokaż poprzednie zdjęcia" title="Pokaż poprzednie zdjęcia" src="/gfx/arrTopRed1.png"  /></a></li>
+					</ul>
+				</footer>
+			</div>
+		</section>
+		<section> 					 
+			<h2 class="h6">Opis zabytku:</h2>
+	     	<div class="text B" itemprop="description"><p>Dawne opactwo cysters&oacute;w w Krzeszowie zostało uznane za pomnik historii w 2004 roku. Jest ono jednym z najstarszych i najbardziej znaczących klasztor&oacute;w na Śląsku, XIII-wieczną fundacją książąt piastowskich świdnicko-jaworskich. Na skutek barokowej rozbudowy przekształcone zostało w ogromny, złożony z wielu uzupełniających się element&oacute;w zesp&oacute;ł, będący doskonałym wcieleniem ideał&oacute;w sztuki kontrreformacyjnej. Opactwo krzeszowskie stało się bowiem najważniejszym na Śląsku ośrodkiem kontrreformacji, a jego zewnętrzna forma to efekt typowej dla kraj&oacute;w monarchii habsburskiej rywalizacji międzywyznaniowej prowadzonej na polu sztuk plastycznych. Gł&oacute;wna świątynia zespołu jest najwyższej klasy realizacją architektoniczną, z wpisanym w nią bogatym programem ideowym wyrażonym za pomocą dzieł rzeźby i malarstwa. Przy ich wykonaniu zatrudnieni byli najwybitniejsi artyści śląskiego baroku. Splendoru przydaje miejscu ponadto istniejące przy kościele mauzoleum Piast&oacute;w. Uzupełnieniem zabytkowego kompleksu wpisującym się w nurt barokowej, kontrreformacyjnej pobożności są stacje drogi kalwaryjskiej &ndash; pierwsze tego rodzaju założenie na Śląsku.<br />Zesp&oacute;ł klasztorny w Krzeszowie nadal pełni funkcje sakralne, będąc ośrodkiem życia religijnego jako sanktuarium maryjne, rolę opiekun&oacute;w kt&oacute;rego przejęły po cystersach siostry benedyktynki.</p>
+<p><strong>Historia<br /></strong>Pierwszy klasztor planowano założyć w Krzeszowie w 1242 roku z zamiarem sprowadzenia benedyktyn&oacute;w z czeskich Opatowic &ndash; zabiegała o to księżna Anna, wdowa po Henryku II Pobożnym. Dopiero jednak w 1289 roku jego wnuk, książę świdnicko-jaworski Bolko I ustanowił nową fundację dla cysters&oacute;w z Henrykowa. Opactwo miało stać się miejscem poch&oacute;wku fundatora oraz jego następc&oacute;w, a także centrum gospodarczym nowo przyłączonych do Śląska ziem. Pierwsi zakonnicy przybyli do Krzeszowa w 1292 roku, zasiedlając istniejące już budowle (z dokumentu erekcyjnego wynika, że istniał tu już kości&oacute;ł). Włości klasztorne były sukcesywnie powiększane &ndash; ostatecznie należało do nich ponad czterdzieści miejscowości podzielonych na cztery dominia.<br />Dobra cysterskie zostały znacznie zniszczone podczas wojen husyckich. Kolejnym trudnym okresem była wojna trzydziestoletnia &ndash; doszło w&oacute;wczas do dewastacji opactwa. Po jej zakończeniu mnichom udało się odbudować uszczuplone na skutek rozprzestrzeniania się reformacji znaczenie gospodarcze i polityczne konwentu. Rozpoczęli jednocześnie prowadzenie silnej akcji kontrreformacyjnej, wykraczającej poza granice opactwa i należących do niego d&oacute;br. Podjęta została wtedy rozbudowa zespołu klasztornego: powstała kalwaria, wzniesiono kości&oacute;ł pomocniczy bractwa św. J&oacute;zefa, następnie nowy kości&oacute;ł klasztorny w miejsce średniowiecznego, powiększono budynek klasztoru. W okresie kontrreformacji rozpoczął się też w Krzeszowie kult ikony Matki Boskiej Łaskawej z połowy XIII wieku.<br />Po zdobyciu Śląska przez Prusy w 1741 roku nastąpił stopniowy upadek znaczenia opactwa, zakończony sekularyzacją w 1810 roku. Kości&oacute;ł klasztorny stał się kościołem parafialnym. W 1919 roku w klasztorze osiedlili się benedyktyni, kt&oacute;rzy rozpoczęli konserwację obu kościoł&oacute;w. Podczas II wojny światowej obiekt był częściowo zarekwirowany, służąc jako tymczasowy ob&oacute;z dla wysiedlonych, a następnie wrocławskich Żyd&oacute;w. W&nbsp;1946 roku, po wysiedleniu benedyktyn&oacute;w, klasztor zajęły przesiedlone ze Lwowa siostry benedyktynki; od 1970 do 2006 roku duszpasterstwo w parafii prowadzili cystersi z opactwa w Wąchocku.</p>
+<p><strong>Opis<br /></strong>W skład zespołu dawnego opactwa cysterskiego wchodzą: kości&oacute;ł klasztorny, do kt&oacute;rego od południa przylega klasztor i ogr&oacute;d, od p&oacute;łnocy zaś cmentarz, kości&oacute;ł bractwa św. J&oacute;zefa, dom gościnny opactwa oraz budowle pomocnicze. Mimo wielkiej barokowej przebudowy pozostał czytelny średniowieczny plan założenia.<br /><strong>Kości&oacute;ł klasztorny pw. Wniebowzięcia NMP</strong> powstał w latach 1728-1735 z inicjatywy opata Innocentego Fritscha. Autorstwo projektu wiązane jest z kręgiem architekta Kiliana Ignaca Dientzenhofera lub z Krzysztofem Tauschem. Kości&oacute;ł jest budowlą halową na planie krzyża łacińskiego, jednonawową, pięcioprzęsłową z rzędami kaplic, nad kt&oacute;rymi znajdują się empory. Elewacja zachodnia została założona na rzucie wklęsło-wypukłym, z dwiema smukłymi wieżami nakrytymi dekoracyjnymi, wolutowymi hełmami. Jej dynamikę i plastyczny efekt potęgują figuralne grupy rzeźbiarskie umieszczone na wszystkich kondygnacjach. Prace nad dekoracją fasady prowadził od 1729 roku Ferdynand Maksymilian Brokoff z Pragi, a po jego śmierci w 1731 roku kontynuował jego uczeń Anton Dorasil.<br /><strong>Wnętrze</strong> <strong>kościoła</strong> nakrywają sklepienia żaglaste, na skrzyżowaniu nawy z transeptem zaś znajduje się wsparta na pendentywach kopuła. Bogaty barokowy wystr&oacute;j i wyposażenie częściowo pochodzą z wcześniejszej świątyni. Przęsła sklepienia pokrywa rozbudowana tematycznie polichromia Jerzego Wilhelma Neunhertza, nawiązująca do siedmiu przymiot&oacute;w Emmanuela zawartych w proroctwie Izajasza. Większość rzeźb i ołtarzy bocznych wykonał Anton Dorasil, obraz&oacute;w &ndash; Feliks Anton Scheffler. Projekt ołtarza gł&oacute;wnego jest autorstwa Ferdynanda Brokoffa. W tabernakulum wysuniętym przed nastawę umieszczona jest ikona Matki Boskiej Łaskawej z połowy XIII wieku. Do jednorodnego stylistycznie wyposażenia należą ponadto stalle, ambona i&nbsp;ogromny prospekt organowy z instrumentem wykonanym przez Michaela Englera młodszego &ndash; jedyne dzieło tego organmistrza o&nbsp;zachowanych w większości oryginalnych barokowych głosach. Do&nbsp;kościoła przylega od wschodu r&oacute;wnież bogato dekorowane rzeźbą i polichromią mauzoleum Piast&oacute;w, wzniesione w latach 1735-1736, kryjące XIV-wieczne sarkofagi książąt świdnicko-jaworskich, Bolka I i Bolka II.<br />Drugi kości&oacute;ł w obrębie zespołu klasztornego to <strong>kości&oacute;ł bracki pw. św. J&oacute;zefa</strong> z lat 1692-1695. Jego fundatorem był opat Bernard Rosa. Jest to budowla jednonawowa, halowo-emporowa z rzędami kaplic bocznych. Fasada ozdobiona jest szczytem ze spływami bocznymi oraz umieszczonymi w&nbsp;niszach figurami Świętej Rodziny. Wnętrze pokrywa polichromia ze scenami z życia św. J&oacute;zefa wykonana przez Michaela Willmanna.<br /><strong>Klasztor</strong> &ndash; pierwotnie jako czworoboczna budowla &ndash; powstał przypuszczalnie około połowy XV wieku. Jedynie skrzydło wschodnie przylegające do ramienia transeptu kościoła jest w części zachowane, ze średniowieczną fraternią w przyziemiu. Barokowy budynek klasztorny wznoszony był od 1770 roku według projektu Johanna Gotlieba Fellera. We wnętrzu ryzalitu południowo-wschodniego znajduje się dwukondygnacyjna biblioteka z zachowanym klasycystycznym wystrojem. Barokową budowlą jest także dom gościnny opata na zach&oacute;d od kościoła św. J&oacute;zefa. Spośr&oacute;d licznych niegdyś zabudowań gospodarczych znajdujących się na otoczonym murem terenie klasztornym zachowały się: dom kanclerza, apteka, browar, wozownia i dom oficjalist&oacute;w.<br /><strong>32 stacje kalwaryjskie</strong> powstały na zach&oacute;d od zespołu klasztornego w latach 1675-1678 (ich obecny kształt pochodzi z XVIII i XIX w.). Droga rozpoczyna się i kończy przy kościele klasztornym &ndash; ostatnia stacja to kopia Świętego Grobu usytuowana pośrodku kaplicy św. Marii Magdaleny. W&nbsp;odległości 2 km na zach&oacute;d od opactwa, w przysi&oacute;łku Betlejem znajdują się ponadto kaplica Groty Narodzenia Pańskiego (dziś jedna ze stacji drogi kalwaryjskiej) i pawilon na wodzie.</p>
+<p><em>Oprac. A. Kucińska-Isaac</em></p></div>
+		</section>
+		<footer> 					 
+			<p style="margin-top:10px;"><a href="#" onclick="history.go(-1)" class="ln7" >Powr&oacute;t</a></p>
+		</footer>
+<section> 
+    <ul class="list h ls4" style="margin-top:20px;"> 						 
+      <li><a onclick="print('.pg3')" class="ln3 print" style="cursor:pointer;" >Drukuj artykuł</a></li>
+     						 
+      <li><a href="http://www.facebook.com/sharer.php?u=http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=76" class="ln3 fb" style="cursor:pointer;" >Publikuj na Facebooku</a></li>
+     						 					</ul>
+</section>
+	</article>
+
+
+	
+	
+	
+	
+	
+	
+	</div>
+  
+  
+  
+  <hr/> 		 
+  
+   		 		<hr/> 
+    <div id="sidebar2"> 			<section> 				 
+        <h1 class="h1 C"><img width="269" height="29" alt="Nowe zabytki" title="Nowe zabytki" src="/gfx/hNoweZabytki.png"  /></h1>
+       				 
+        <div id="sliderMonumetsWrapper" class="md7"> 					 
+          <div id="sliderMonumets"> 					 
+            <div class="line">
+            
+            			    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Frombork - zespół katedralny</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=60'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvRnJvbWJvcmtfLV96ZXNww7PFgl9rYXRlZHJhbG55L05JRC1wb21oaXMtRnJvbWJvcmstMDAzLmpwZw==" alt="Frombork - zespół katedralny" itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Zesp&oacute;ł katedralny we Fromborku został uznany za pomnik...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=60">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Bohoniki i Kruszyniany - mecz...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=205'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvQm9ob25pa2lfaV9LcnVzenluaWFueV8tX21lY3pldHlfaV9taXphcnkvTklELXBvbWhpcy1LcnVzenluaWFueS0wMDMuanBn" alt="Bohoniki i Kruszyniany - mecz..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Meczety i mizary (cmentarze) w Bohonikach i Kruszynianach...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=205">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Katowice - Gmach Województwa ...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=206'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS2F0b3dpY2VfLV9HbWFjaF9Xb2pld8OzZHp0d2FfaV9TZWptdV/FmmzEhXNraWVnby9OSUQtcG9taGlzLUthdG93aWNlX0dtYWNoLTAwMy5qcGc=" alt="Katowice - Gmach Województwa ..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Gmach Wojew&oacute;dztwa i Sejmu Śląskiego w Katowicach to...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=206">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Łowicz - Bazylika Katedralna ...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=207'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvxYFvd2ljel8tX0JhenlsaWthX0thdGVkcmFsbmFfKGRhd25hX0tvbGVnaWF0YV9QcnltYXNvd3NrYSlfcG9kX3dlendhbmllbV9XbmllYm93emnEmWNpYV9OYWrFm3dpxJl0c3plal9NYXJpaV9QYW5ueS9OSUQtcG9taGlzLUxvd2ljei0wMDMuanBn" alt="Łowicz - Bazylika Katedralna ..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Katedra łowicka jest zabytkiem o szczeg&oacute;lnym znaczeniu...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=207">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Sulejów - zespół opactwa cyst...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=208'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvU3VsZWrDs3dfLV96ZXNww7PFgl9vcGFjdHdhX2N5c3RlcnPDs3cvTklELXBvbWhpcy1TdWxlam93LTAwMy5qcGc=" alt="Sulejów - zespół opactwa cyst..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Klasztor obronny w Sulejowie z kościołem, zabudowaniami i...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=208">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Paczków - zespół staromiejski...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=209'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvUGFjemvDs3dfLV96ZXNww7PFgl9zdGFyb21pZWpza2lfemVfxZtyZWRuaW93aWVjem55bV9zeXN0ZW1lbV9mb3J0eWZpa2FjamkvTklELXBvbWhpcy1QYWN6a293LTAwNC5qcGc=" alt="Paczków - zespół staromiejski..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Mury Paczkowa należą do najlepiej zachowanych średniowiecznych...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=209">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Strzegom - kościół pod wezwan...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=204'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvU3RyemVnb21fLV9rb8WbY2nDs8WCX3BvZF93ZXp3YW5pZW1fxZt3Ll9BcG9zdG/FgsOzd19QaW90cmFfaV9QYXfFgmEvTklELXBvbWhpcy1TdHJ6ZWdvbS0wMDEuanBn" alt="Strzegom - kościół pod wezwan..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Strzegomski kości&oacute;ł pod wezwaniem Świętych Apostoł&oacute;w...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=204">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Warszawa - Zamek Królewski</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=201'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1phbWtpL1dhcnN6YXdhXy1fWmFtZWtfS3LDs2xld3NraS9OSUQtemFta2ktV2Fyc3phd2EtMDAyLmpwZw==" alt="Warszawa - Zamek Królewski" itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p class="Default"><strong>Zamek średniowieczny<br /></strong>Powstanie...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=201">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Tarnowskie Góry - podziemia z...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=71'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVGFybm93c2tpZV9Hw7NyeV8tX3BvZHppZW1pYV96YWJ5dGtvd2VqX2tvcGFsbmlfcnVkX3NyZWJyb25vxZtueWNoX29yYXpfc3p0b2xuaV9DemFybmVnb19Qc3RyxIVnYS9OSUQtcG9taGlzLVRhcm5vd3NraWVfR29yeS0wMDUuanBn" alt="Tarnowskie Góry - podziemia z..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Podziemia zabytkowej kopalni rud srebronośnych oraz sztolni...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=71">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Kalwaria Zebrzydowska - krajo...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=72'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS2Fsd2FyaWFfWmVicnp5ZG93c2thXy1fa3Jham9icmF6b3d5X3plc3DDs8WCX21hbmllcnlzdHljem5lZ29fcGFya3VfcGllbGdyenlta293ZWdvL05JRC1wb21oaXMtS2Fsd2FyaWFfWmVicnp5ZG93c2thLTAwMy5qcGc=" alt="Kalwaria Zebrzydowska - krajo..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Kalwaria Zebrzydowska &ndash; unikatowe sanktuarium pasyjno-maryjne...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=72">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Twierdza Srebrnogórska - nowo...</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=73'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvVHdpZXJkemFfU3JlYnJub2fDs3Jza2FfLV9ub3dvxbx5dG5hX3dhcm93bmlhX2fDs3Jza2Ffel9YVklJSV93aWVrdS9OSUQtcG9taGlzLVNyZWJybmFfR29yYS0wMDcuanBn" alt="Twierdza Srebrnogórska - nowo..." itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Twierdza Srebrnog&oacute;rska została uznana za pomnik historii...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=73">zabytek</a></p>	
+			    	</article>
+						    	<article itemtype="http://schema.org/LandmarksOrHistoricalBuildings" itemscope="itemscope" class="md1 B unit">
+			    		<h2 class="h2 B" itemprop="name">Kazimierz Dolny</h2>
+						<div class="md1-media" style="cursor:pointer;" onclick="document.location.href='/Zabytek/szczegoly.php?ID=74'">
+							<img src="/imgResize.php?img=aHR0cDovLzE5Mi4xNjguMTAuMjIvcHVibGljL3JlcG8vY2FyYXJlL1BvbW5pa2lfSGlzdG9yaWkvS2F6aW1pZXJ6X0RvbG55L05JRC1wb21oaXMtS2F6aW1pZXJ6X0RvbG55LTAwNC5qcGc=" alt="Kazimierz Dolny" itemprop="image">
+						</div>
+						<div itemprop="description" class="text"> 	
+							<p><p>Kazimierz Dolny &ndash; niewielka miejscowość położona w...</p>
+														</div>		 				
+						<p class="md1-more"><a class="ln2 A" itemprop="url" href="/Zabytek/szczegoly.php?ID=74">zabytek</a></p>	
+			    	</article>
+						
+			
+            
+            </div>
+         								</div><footer> 						 
+            <ul class="list h ls3"> 							 
+              <li class="next"><a href="zabytki.html" ><img width="10" height="25" alt="Pokaż następne zabytki" title="Pokaż następne zabytki" src="/gfx/arrRightRed1.png"  /></a></li>
+             							 
+              <li class="prev"><a href="zabytki.html" ><img width="10" height="25" alt="Pokaż poprzednie zabytki" title="Pokaż poprzednie zabytki" src="/gfx/arrLeftRed1.png"  /></a></li>
+             						</ul>
+           					</footer> 	
+       			</section> 		</div>
+   
+<!-- KONIEC -->
+		 </div>
+<div style="clear:both;"></div>
+</div></div>
+ 		<hr/> 		
+
+<div style="background-color:#1a0022; min-width:1146px;">
+<footer id="footer"> 			
+    <p class="copyright">Copyright &copy; 2011 <b>Portal Mapowy</b></p>
+   <div class="nagrody"><a href="/Nowosci/news.php?ID=1202"><img src="/gfx/nagrody1.png" width="354" height="35"></a></div>						
+    <div class="line"> 				
+      <div class="unit md3" itemtype="http://schema.org/GovernmentOrganization" itemscope="itemscope"> 					
+        <h1 class="h3" itemprop="name">Narodowy Instytut Dziedzictwa</h1>
+       					
+        <div class="md3-media"> 						<img itemprop="image" width="219" height="57" alt="Narodowy Instytut Dziedzictwa" src="/gfx/logoNID2.png"  /> 					</div>
+       					
+      <p itemtype="http://schema.org/PostalAddress" itemscope="" itemprop="address"><span itemprop="streetAddress">ul. Kopernika 36/40</span>, <span itemprop="postalCode">00-924</span> <span itemprop="addressLocality">Warszawa</span></p>
+       					
+        <p>tel. <span itemprop="telephone">+48 22 826 02 39</span>, <span itemprop="telephone">22 826 92 47</span>, fax: <span itemprop="faxNumber">+48 22 826 17 14</span></p>
+ <p>e-mail. <a href="mailto:portal_mapowy@nid.pl">portal_mapowy@nid.pl</a></p>
+ <p><a href="http://www.zabytek.pl">www.zabytek.pl</a>, <a href="http://www.nid.pl">www.nid.pl</a></p>
+       				</div>
+     				
+      <div class="unit md4"> 					
+        <h1 class="h2 C"><img width="209" height="18" alt="Czekamy na TwĂłj komentarz" src="/gfx/hCzekamyNaTwojKomentarz.png"  /></h1>
+       					
+        <p>Masz uwagi co do działania portalu lub chcesz skontaktować się z nami w innej sprawie? <a href="/Kontakt/" class="ln1" >Napisz do nas</a></p>
+       				</div>
+     				
+      <ul class="unit md5"> 					
+        <li><a href="/" ><img width="116" height="45" alt="Portal Mapowy" src="/gfx/logoPM2.png"  /></a></li>
+        <li><a href="http://tnij.org/nid_apk"><img width="119" height="41" src="/gfx/google_play_logo.png" alt="Google Play"></a></li>
+        <li class="rss"><a href="/news.php" ><img alt="RSS" src="/gfx/icoRSS.png"  /></a></li>
+       				</ul>
+     			</div>
+   			
+    <div class="widget_container"> 				
+      <div class="widget_social"> 					<img src="/gfx/ico_fcb.gif" border="0" id="facebookIco"  /> 					
+        <div style="float: left; margin: 0pt;"> 						
+<script type="text/javascript" src="/js/pl_PL"></script>
+ 						
+<script	type="text/javascript">FB.init();</script>
+ 						<fb:fan height="330" width="190" logobar="1" connections="6" stream="0" profile_id="200305476647255"></fb:fan> 					</div>
+       				</div>
+     			</div>
+   			 	<div class="yt_container"><a href="http://www.youtube.com/tvNID" target="_blank" ><img src="/gfx/youtube.gif" border="0" id="YouTubeIco"  /></a></div>
+<script	type="text/javascript">
+				$('.widget_container').hover(function() {
+					$('.widget_container').css('overflow', 'visible');
+					$(this).stop().animate({
+						width: '250px'
+					}, 1000, null, function() { $('.widget_container').css('overflow', 'hidden'); });
+				}, function() {
+					$('.widget_container').css('overflow', 'hidden');
+					$(this).stop().animate({
+						width: '38px'
+					}, 1000);
+				});
+			</script>
+ 		</footer>
+<div style="background-color:#1a0022;height:70px;border-top:1px solid #CE003A;"></div> 
+</div>
+
+		</div>
+ 
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="/js/jquery.scrollTo-min.js"></script>
+
+<script src="/js/jquery.serialScroll-min.js"></script>
+ 	
+<script src="/js/sliders.js"></script>
+ 
+<script language="javascript" src="/js/jquery.printElement.min.js"></script>
+ 
+<script language="javascript" src="/js/pixastic.custom.js"></script>
+ 
+<script language="javascript" src="/js/print.js"></script>
+<script language="javascript" src="/js/lightbox.js"></script> 
+<script language="javascript" src="/js/grayScale.js"></script>
+<script language="javascript" src="/js/nid.js"></script>
+<script type="text/javascript" src="/ajax/kontakt/jquery.colorbox.js"></script>
+
+<script language="javascript">
+$(document).ready(function () {
+
+        $(".inline-pop").colorbox({inline:true, width:"413", height:"195"});
+		
+		
+});
+
+
+
+        $("ul.subnav").parent().append(""); //Only shows drop down trigger when js is enabled (Adds empty span tag after ul.subnav*)  
+      
+        $("ul.topnav li a").hover(function() { //When trigger is clicked...  
+      
+            //Following events are applied to the subnav itself (moving subnav up and down)  
+            $(this).parent().find("ul.subnav").slideDown('fast').show(); //Drop down the subnav on click  
+      
+            $(this).parent().hover(function() {  
+            }, function(){  
+                $(this).parent().find("ul.subnav").slideUp('slow'); //When the mouse hovers out of the subnav, move it back up  
+            });  
+      
+            //Following events are applied to the trigger (Hover events for the trigger)  
+            }).hover(function() {  
+                $(this).addClass("subhover"); //On hover over, add class "subhover"  
+            }, function(){  //On Hover Out  
+                $(this).removeClass("subhover"); //On hover out, remove class "subhover"  
+        });  
+
+
+</script>
+
+<script type="text/javascript">
+ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37373671-1']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
+</script>
+
+ </body>
+</html>http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=76
