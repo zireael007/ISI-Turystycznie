@@ -8,8 +8,9 @@ cat tmp/baza-muzeow-w-polsce | grep 'page=' | sed 's/<a.*href="/http:\/\/www.nim
 cd tmp/tmptmp
 cp ../../linki.txt linki.txt
 wget -i linki.txt
-cat * | grep 'page=' | sed 's/<a.*href="/http:\/\/www.nimoz.pl\//' | sed 's/".*>//' | tr -s '\t' | sort -u > ../../linki.txt
+cat * | grep 'baza-muzeow-w-polsce?' | sed 's/<a.*href="/http:\/\/www.nimoz.pl\//' | sed 's/".*>//' | tr -s '\t' | sort -u > ../../linki.txt
 cd ..
 wget -i ../linki.txt
 rm tmptmp -r
+rm baza-muzeow-w-polsce
 cat * | python ../WSMuz.py | tr -s "\n" > ../informacje.xml

@@ -7,13 +7,13 @@ import operator
 for a in sys.stdin:
     obiekt = re.search(r'<strong class="red">', a)
     if obiekt:
-        print "<obiekt>"
-        print "<nazwa>"
+        print "<item>"
+        print "<title>"
         nazwa = re.sub("<.*?>", "\n", a)
         print nazwa
-        print "</nazwa> \n <kategoria>"
+        print "</title> \n <category>"
         print "Muzeum"
-        print "</kategoria> \n"
+        print "</category> \n"
         miasto = ""
         info = ""
         for a in sys.stdin:
@@ -30,8 +30,8 @@ for a in sys.stdin:
             else:
                 break
             
-        print "<miasto>" + miasto + "</miasto> \n"
-        print "<info>" + info + "</info>    s\n </obiekt>\n"
+        print "<city>" + miasto + "</city> \n"
+        print "<content>" + info + "</content>    \n </item>\n"
 
 
 

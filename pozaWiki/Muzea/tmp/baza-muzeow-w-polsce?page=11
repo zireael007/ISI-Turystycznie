@@ -50,7 +50,30 @@
     <div id="scrollbox">
 	   <div id="newsbox">
             <div id="topnews">
-                                <div class="one " onclick="window.location = 'http://www.nimoz.pl/pl/aktualnosci/informacje/prawo-ochrony-zabytkow'" >
+                                <div class="one " onclick="window.location = ''" >
+                    <img src="upload/modules/header/content/385x271/easter14_rot.jpg" alt="news one"/>
+                    <div class="tab_background" style="background-color:#86B318"></div>
+                    <dl class="topnews_one">
+                                                <dt class="title">Wielkanoc 2014</dt>
+                        						<dd class="art">
+						  <p class="orange"><p>Wesołych Świąt!</p></p>
+                          						</dd>
+                    </dl>
+				</div>
+                                <div class="one hide" onclick="window.location = 'http://www.dzielautracone.gov.pl/'" >
+                    <img src="upload/modules/header/content/385x271/straty_wojenne_strona_rot.jpg" alt="news one"/>
+                    <div class="tab_background" style="background-color:#000000"></div>
+                    <dl class="topnews_one">
+                        						<dt class="title"><a href="http://www.dzielautracone.gov.pl/">Nowa strona poświęcona stratom wojennym</a></dt>
+                        						<dd class="art">
+						  <p class="orange"><p>Serwis prowadzony przez <br />
+Wydział ds. Strat Wojennych<br />
+MKiDN</p></p>
+                                                    <a class="cw_scroll" href="http://www.dzielautracone.gov.pl/">Czytaj więcej</a>
+                          						</dd>
+                    </dl>
+				</div>
+                                <div class="one hide" onclick="window.location = 'http://www.nimoz.pl/pl/aktualnosci/informacje/prawo-ochrony-zabytkow'" >
                     <img src="upload/modules/header/content/385x271/prawo_ochroy_zabytkow_rot.jpg" alt="news one"/>
                     <div class="tab_background" style="background-color:#B10068"></div>
                     <dl class="topnews_one">
@@ -70,6 +93,17 @@
 						  <p class="orange"><p>26 kwietnia 2014<br />
 Zapraszamy muzea do udziału!</p></p>
                                                     <a class="cw_scroll" href="http://www.nimoz.pl/pl/aktualnosci/informacje/dzien-wolnej-sztuki">Czytaj więcej</a>
+                          						</dd>
+                    </dl>
+				</div>
+                                <div class="one hide" onclick="window.location = 'http://www.nimoz.pl/pl/bazy-danych/baza-dobrych-praktyk/raport-grupy-roboczej-ds-oceny-sposobow-i-srodkow-sluzacych-uproszczeniu-procesu-wypozyczen'" >
+                    <img src="upload/modules/header/content/385x271/BANEROMCReport_rot.jpg" alt="news one"/>
+                    <div class="tab_background" style="background-color:#936CA5"></div>
+                    <dl class="topnews_one">
+                        						<dt class="title"><a href="http://www.nimoz.pl/pl/bazy-danych/baza-dobrych-praktyk/raport-grupy-roboczej-ds-oceny-sposobow-i-srodkow-sluzacych-uproszczeniu-procesu-wypozyczen">Praktyczne sposoby zmniejszania kosztów wypożyczeń...</a></dt>
+                        						<dd class="art">
+						  <p class="orange"><p>Tłumaczenie robocze Raportu.</p></p>
+                                                    <a class="cw_scroll" href="http://www.nimoz.pl/pl/bazy-danych/baza-dobrych-praktyk/raport-grupy-roboczej-ds-oceny-sposobow-i-srodkow-sluzacych-uproszczeniu-procesu-wypozyczen">Czytaj więcej</a>
                           						</dd>
                     </dl>
 				</div>
@@ -105,6 +139,17 @@ do 30 kwietnia2014 r.</p></p>
 						  <p class="orange"><p>zgłoszenia do <br />
 20 czerwca 2014</p></p>
                                                     <a class="cw_scroll" href="http://www.nimoz.pl/pl/aktualnosci/informacje/europejska-nagroda-muzealna-emya-2015">Czytaj więcej</a>
+                          						</dd>
+                    </dl>
+				</div>
+                                <div class="one hide" onclick="window.location = 'http://www.nimoz.pl/pl/aktualnosci/informacje/all-our-yesterdays-wystawa-partnerow-projektu-europeanaphotography'" >
+                    <img src="upload/modules/header/content/385x271/euphot_logo_rot.jpg" alt="news one"/>
+                    <div class="tab_background" style="background-color:#E7810C"></div>
+                    <dl class="topnews_one">
+                        						<dt class="title"><a href="http://www.nimoz.pl/pl/aktualnosci/informacje/all-our-yesterdays-wystawa-partnerow-projektu-europeanaphotography">All Our Yesterdays </a></dt>
+                        						<dd class="art">
+						  <p class="orange"><p>&ndash; wystawa partnerów projektu EuropeanaPhotography</p></p>
+                                                    <a class="cw_scroll" href="http://www.nimoz.pl/pl/aktualnosci/informacje/all-our-yesterdays-wystawa-partnerow-projektu-europeanaphotography">Czytaj więcej</a>
                           						</dd>
                     </dl>
 				</div>
@@ -451,17 +496,6 @@ do 30 kwietnia2014 r.</p></p>
                           						</dd>
                     </dl>
 				</div>
-                                <div class="one hide" onclick="window.location = 'http://www.nimoz.pl/pl/aktualnosci/informacje/all-our-yesterdays-wystawa-partnerow-projektu-europeanaphotography'" >
-                    <img src="upload/modules/header/content/385x271/euphot_logo_rot.jpg" alt="news one"/>
-                    <div class="tab_background" style="background-color:#E7810C"></div>
-                    <dl class="topnews_one">
-                        						<dt class="title"><a href="http://www.nimoz.pl/pl/aktualnosci/informacje/all-our-yesterdays-wystawa-partnerow-projektu-europeanaphotography">All Our Yesterdays </a></dt>
-                        						<dd class="art">
-						  <p class="orange"><p>&ndash; wystawa partnerów projektu EuropeanaPhotography</p></p>
-                                                    <a class="cw_scroll" href="http://www.nimoz.pl/pl/aktualnosci/informacje/all-our-yesterdays-wystawa-partnerow-projektu-europeanaphotography">Czytaj więcej</a>
-                          						</dd>
-                    </dl>
-				</div>
                             </div>
             <ul id="newsPager">
                 				<li><a href="#">1</a></li>
@@ -472,6 +506,9 @@ do 30 kwietnia2014 r.</p></p>
                 				<li><a href="#">6</a></li>
                 				<li><a href="#">7</a></li>
                 				<li><a href="#">8</a></li>
+                				<li><a href="#">9</a></li>
+                				<li><a href="#">10</a></li>
+                				<li><a href="#">11</a></li>
                             </ul>
 			<a id="box_prev" href="#">&lt;</a>
 			<a id="box_next" href="#">&gt;</a>
