@@ -10,33 +10,69 @@ var client = new bot({
 
 var numberOfPages = 0;
 var allLinks = [];
+var allExternalLinks = [];
+var wikiLinksFile = 'wikiLinks';
+var wikiExternalLinksFile = 'wikiExternalLinks';
 
-fs.writeFile('wikiLinks', '', function(){console.log('Zawartośc pliku links została usunieta')});
+var clearFile = function (fileName) {
+	fs.writeFile(fileName, '', function(){console.log('Zawartośc pliku' + fileName +  'została usunieta')});
+};
 
-var writeToFile = function(dataName, data, cb) {
+clearFile(wikiLinksFile);
+clearFile(wikiExternalLinksFile);
+
+var appendToFile = function(fileName, dataName, data, cb) {
+	fs.appendFile(fileName, data.join('\n') + '\n', function(err) {
+		if(err) {
+		  	console.log(err);
+    	} else {
+        	console.log(dataName + " gotowe!!!");
+        	console.log('Liczba artykułów ' + (numberOfPages++) +'.');
+       		console.log('Zapisano ' + (allLinks.length) +' linków.\n');
+       		console.log('Zapisano ' + (allExternalLinks.length) +' zewnętrznych linków.\n');
+       		if (cb) {
+    			cb();
+    		}        			
+    	}
+	});
+};
+
+var prepareExternalToWrite = function (dataName, data) {
+	console.log('prepareExternalToWrite' + data);
+	if(!_.isEmpty(data)) {
+		var oldExternalLinks = _.clone(allExternalLinks);
+		allExternalLinks = _.union(allExternalLinks, data);
+		var diff = _.difference(allExternalLinks, oldExternalLinks);
+		if(!_.isEmpty(diff)) {
+			appendToFile(wikiExternalLinksFile, dataName, diff);
+		}
+	}
+};
+
+var prepareToWrite = function(dataName, data, cb) {
 	//write links to file
 	if (!_.isEmpty(data)) {
 		data = _.filter(data, function(item) {
-			return item.itemndexOf('Kategoria') == -1;
+			return item.indexOf('Kategoria') == -1;
 		});
 		var oldLinks = _.clone(allLinks);
 		allLinks = _.union(allLinks, data);
 		var diff = _.difference(allLinks, oldLinks);
 		if (!_.isEmpty(diff)) {
-			fs.appendFile('wikiLinks', diff.join('\n') + '\n', function(err) {
-	    		if(err) {
-		        	console.log(err);
-    			} else {
-        			console.log(dataName + " gotowe!!!");
-        			console.log('Liczba artykułów ' + (numberOfPages++) +'.');
-        			console.log('Zapisano ' + (allLinks.length) +' linków.\n');
-        			if (cb) {
-        				cb();
-        			}        			
-    			}
-			});
+			appendToFile(wikiLinksFile, dataName, diff, cb);
 		}
 	}
+};
+
+var getExternalLinks = function (articleName) {
+	console.log('Sciagamy linki zewnetrzne - ', articleName);
+	client.getExternalLinks(articleName, function(data) {
+		data = _.flatten(data, '*');
+		if (!_.isEmpty(data)) {
+			console.log(data);
+			prepareExternalToWrite(articleName, data);	
+		}
+	});
 };
 
 var getArticleLinks = function (articleName, deepStep) {
@@ -47,11 +83,12 @@ var getArticleLinks = function (articleName, deepStep) {
 	 	for (var link in links) {
 	 		if (deepStep != 0) {
 	 			getArticleLinks(links[link].slice(2).slice(0,-2).replace(/\s/g, "_"), deepStep - 1);
+	 			getExternalLinks(links[link].slice(2).slice(0,-2).replace(/\s/g, "_"));
 	 		}
 	 		links[link] = 'http://pl.wikipedia.org/wiki/' + links[link].slice(2).slice(0,-2).replace(/\s/g, "_");
 	 	}
 	 	links = _.uniq(links);
-	 	writeToFile('akrtykuł:'+ articleName, links.sort(), function () {
+	 	prepareToWrite('akrtykuł:'+ articleName, links.sort(), function () {
 	 		console.log(articleName + ' - ' + links.length);
 	 	});
 	});
@@ -68,11 +105,14 @@ var getCategoryLinks = function (categoryName, deepStep) {
 				}	
 			});
 		}
+		_.forEach(data, function (item) {
+			getExternalLinks(item);
+		});
 		data = _.map(data, function (elem) {
 			return 'http://pl.wikipedia.org/wiki/' + elem.replace(/\s/g, "_");
 		});
 		if (data.length != 0) {
-				writeToFile('kategoria:' + categoryName, data, function() {
+			prepareToWrite('kategoria:' + categoryName, data, function() {
 				console.log(categoryName + ' - ' + data.length);
 			});
 		}
