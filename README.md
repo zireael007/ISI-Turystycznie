@@ -4,7 +4,7 @@ ISI-Turystycznie
 Wyszukiwarka turystyczna
 
 
-##Download links from Wikipedia
+##Download links from Wikipedia and Wikivoyage
 
 ###Requirements:
  * nodejs
@@ -30,5 +30,10 @@ To install nodemw and lodash:
 
 To download the links from wikipedia:
 ```bash
-  node getArticlesLinks.js
+  node getWikiArticlesLinks.js
+```
+
+To download the links from wikivoyage:
+```bash
+  node getWikiVoyageArticlesLinks.js
 ```
