@@ -3,6 +3,7 @@ ISI-Turystycznie
 
 Wyszukiwarka turystyczna
 
+Web interface is available at http://54.186.183.152:8080/.
 
 ##Download links from Wikipedia and Wikivoyage
 
