@@ -2,7 +2,7 @@
 <doc>
 <field name="id">
 13441
-</field"> 
+</field> 
  <field name="title">
 Dobra k. Nowogardu - zamek
 </field> 
@@ -30,7 +30,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=1
 <doc>
 <field name="id">
 13442
-</field"> 
+</field> 
  <field name="title">
 Bodzentyn-zamek i stare miasto
 </field> 
@@ -159,7 +159,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=10
 <doc>
 <field name="id">
 13443
-</field"> 
+</field> 
  <field name="title">
 Radzyń Chełmiński - zamek
 </field> 
@@ -186,7 +186,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=100
 <doc>
 <field name="id">
 13444
-</field"> 
+</field> 
  <field name="title">
 Dębno - zamek
 </field> 
@@ -213,7 +213,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=101
 <doc>
 <field name="id">
 13445
-</field"> 
+</field> 
  <field name="title">
 Gołuchów - zamek
 </field> 
@@ -240,7 +240,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=102
 <doc>
 <field name="id">
 13446
-</field"> 
+</field> 
  <field name="title">
 Kórnik - zamek
 </field> 
@@ -268,7 +268,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=103
 <doc>
 <field name="id">
 13447
-</field"> 
+</field> 
  <field name="title">
 Święty Krzyż - miejsce kultu
 </field> 
@@ -311,7 +311,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=109
 <doc>
 <field name="id">
 13448
-</field"> 
+</field> 
  <field name="title">
 Podkotlice-grodzisko
 </field> 
@@ -351,7 +351,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=110
 <doc>
 <field name="id">
 13449
-</field"> 
+</field> 
  <field name="title">
 Sambory-grodzisko
 </field> 
@@ -388,7 +388,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=111
 <doc>
 <field name="id">
 13450
-</field"> 
+</field> 
  <field name="title">
 Sąsiadka-grodzisko
 </field> 
@@ -437,7 +437,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=112
 <doc>
 <field name="id">
 13451
-</field"> 
+</field> 
  <field name="title">
 Stupsk-grodzisko
 </field> 
@@ -473,7 +473,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=113
 <doc>
 <field name="id">
 13452
-</field"> 
+</field> 
  <field name="title">
 Szczebrzeszyn-wzgórze zamkowe
 </field> 
@@ -520,7 +520,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=114
 <doc>
 <field name="id">
 13453
-</field"> 
+</field> 
  <field name="title">
 Bolków - zamek
 </field> 
@@ -548,7 +548,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=115
 <doc>
 <field name="id">
 13454
-</field"> 
+</field> 
  <field name="title">
 Ślipcze-cmentarzysko kurhanowe
 </field> 
@@ -590,7 +590,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=116
 <doc>
 <field name="id">
 13455
-</field"> 
+</field> 
  <field name="title">
 Częstochowa - Jasna Góra, zespół klasztoru paulinów
 </field> 
@@ -621,7 +621,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=117
 <doc>
 <field name="id">
 13456
-</field"> 
+</field> 
  <field name="title">
 Dobra - zamek
 </field> 
@@ -648,7 +648,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=119
 <doc>
 <field name="id">
 13457
-</field"> 
+</field> 
  <field name="title">
 Kórnik - zespół zamkowo-parkowy wraz z kościołem parafialnym - nekropolią właścicieli
 </field> 
@@ -690,7 +690,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=12
 <doc>
 <field name="id">
 13458
-</field"> 
+</field> 
  <field name="title">
 Iłża - zamek
 </field> 
@@ -717,7 +717,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=120
 <doc>
 <field name="id">
 13459
-</field"> 
+</field> 
  <field name="title">
 Grodziec - zamek
 </field> 
@@ -744,7 +744,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=121
 <doc>
 <field name="id">
 13460
-</field"> 
+</field> 
  <field name="title">
 Ogrodzieniec - zamek
 </field> 
@@ -771,7 +771,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=122
 <doc>
 <field name="id">
 13461
-</field"> 
+</field> 
  <field name="title">
 Trzeszczany-cmentarzysko kurhanowe
 </field> 
@@ -810,7 +810,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=124
 <doc>
 <field name="id">
 13462
-</field"> 
+</field> 
  <field name="title">
 Wizna-grodzisko
 </field> 
@@ -867,7 +867,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=125
 <doc>
 <field name="id">
 13463
-</field"> 
+</field> 
  <field name="title">
 Poryte-Jabłoń, Konopki, Cieciorki-kompleks osadniczy
 </field> 
@@ -906,7 +906,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=126
 <doc>
 <field name="id">
 13464
-</field"> 
+</field> 
  <field name="title">
 Poryte-Jabłoń-grodzisko
 </field> 
@@ -941,7 +941,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=127
 <doc>
 <field name="id">
 13465
-</field"> 
+</field> 
  <field name="title">
 Poryte-Jabłoń-osada
 </field> 
@@ -975,7 +975,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=128
 <doc>
 <field name="id">
 13466
-</field"> 
+</field> 
  <field name="title">
 Konopki-osada
 </field> 
@@ -1009,7 +1009,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=129
 <doc>
 <field name="id">
 13467
-</field"> 
+</field> 
  <field name="title">
 Cieciorki-osada
 </field> 
@@ -1043,7 +1043,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=130
 <doc>
 <field name="id">
 13468
-</field"> 
+</field> 
  <field name="title">
 Stara Łomża-kompleks osadniczy
 </field> 
@@ -1090,7 +1090,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=131
 <doc>
 <field name="id">
 13469
-</field"> 
+</field> 
  <field name="title">
 Łagów - zamek
 </field> 
@@ -1117,7 +1117,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=132
 <doc>
 <field name="id">
 13470
-</field"> 
+</field> 
  <field name="title">
 Stara Łomża-grodzisko
 </field> 
@@ -1165,7 +1165,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=133
 <doc>
 <field name="id">
 13471
-</field"> 
+</field> 
  <field name="title">
 Stara Łomża-osada
 </field> 
@@ -1201,7 +1201,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=136
 <doc>
 <field name="id">
 13472
-</field"> 
+</field> 
  <field name="title">
 Niewiadoma-kompleks osadniczy
 </field> 
@@ -1248,7 +1248,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=137
 <doc>
 <field name="id">
 13473
-</field"> 
+</field> 
  <field name="title">
 Niewiadoma-cmentarzysko
 </field> 
@@ -1285,7 +1285,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=138
 <doc>
 <field name="id">
 13474
-</field"> 
+</field> 
  <field name="title">
 Niewiadoma-osada, nr rej. 1033
 </field> 
@@ -1329,7 +1329,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=140
 <doc>
 <field name="id">
 13475
-</field"> 
+</field> 
  <field name="title">
 Niewiadoma-osada, nr rej. 887
 </field> 
@@ -1373,7 +1373,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=141
 <doc>
 <field name="id">
 13476
-</field"> 
+</field> 
  <field name="title">
 Niewiadoma-grodzisko
 </field> 
@@ -1413,7 +1413,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=142
 <doc>
 <field name="id">
 13477
-</field"> 
+</field> 
  <field name="title">
 Sypniewo-kompleks osadniczy
 </field> 
@@ -1453,7 +1453,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=143
 <doc>
 <field name="id">
 13478
-</field"> 
+</field> 
  <field name="title">
 Sypniewo-osada
 </field> 
@@ -1492,7 +1492,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=144
 <doc>
 <field name="id">
 13479
-</field"> 
+</field> 
  <field name="title">
 Sypniewo-grodzisko
 </field> 
@@ -1530,7 +1530,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=145
 <doc>
 <field name="id">
 13480
-</field"> 
+</field> 
  <field name="title">
 Kraków - historyczny zespół miasta
 </field> 
@@ -1564,7 +1564,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=146
 <doc>
 <field name="id">
 13481
-</field"> 
+</field> 
  <field name="title">
 Guciów-kompleks osadniczy
 </field> 
@@ -1598,7 +1598,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=147
 <doc>
 <field name="id">
 13482
-</field"> 
+</field> 
  <field name="title">
 Guciów-cmentarzysko kurhanowe, nr rej. C/100
 </field> 
@@ -1640,7 +1640,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=148
 <doc>
 <field name="id">
 13483
-</field"> 
+</field> 
  <field name="title">
 Guciów-cmentarzysko kurhanowe, nr rej. C/101
 </field> 
@@ -1682,7 +1682,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=149
 <doc>
 <field name="id">
 13484
-</field"> 
+</field> 
  <field name="title">
 Golub-zamek
 </field> 
@@ -1709,7 +1709,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=15
 <doc>
 <field name="id">
 13485
-</field"> 
+</field> 
  <field name="title">
 Guciów-cmentarzysko kurhanowe, nr rej. C/102
 </field> 
@@ -1750,7 +1750,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=150
 <doc>
 <field name="id">
 13486
-</field"> 
+</field> 
  <field name="title">
 Guciów-cmentarzysko kurhanowe, nr rej. C/103
 </field> 
@@ -1791,7 +1791,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=151
 <doc>
 <field name="id">
 13487
-</field"> 
+</field> 
  <field name="title">
 Guciów-cmentarzysko kurhanowe, nr rej. Aa 72
 </field> 
@@ -1833,7 +1833,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=152
 <doc>
 <field name="id">
 13488
-</field"> 
+</field> 
  <field name="title">
 Ujazd - zamek
 </field> 
@@ -1860,7 +1860,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=153
 <doc>
 <field name="id">
 13489
-</field"> 
+</field> 
  <field name="title">
 Guciów-grodzisko
 </field> 
@@ -1907,7 +1907,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=154
 <doc>
 <field name="id">
 13490
-</field"> 
+</field> 
  <field name="title">
 Siewierz - zamek
 </field> 
@@ -1934,7 +1934,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=155
 <doc>
 <field name="id">
 13491
-</field"> 
+</field> 
  <field name="title">
 Stargard Szczeciński - zespół kościoła pw. NMP Królowej Świata i średniowieczne mury obronne miasta
 </field> 
@@ -1964,7 +1964,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=156
 <doc>
 <field name="id">
 13492
-</field"> 
+</field> 
  <field name="title">
 Bronisławka-grodzisko
 </field> 
@@ -2004,7 +2004,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=157
 <doc>
 <field name="id">
 13493
-</field"> 
+</field> 
  <field name="title">
 Człuchów - zamek
 </field> 
@@ -2032,7 +2032,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=158
 <doc>
 <field name="id">
 13494
-</field"> 
+</field> 
  <field name="title">
 Bogatynia - dom przysłupowy ul. 1 Maja 3
 </field> 
@@ -2061,7 +2061,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=159
 <doc>
 <field name="id">
 13495
-</field"> 
+</field> 
  <field name="title">
 Wojnicz-osada
 </field> 
@@ -2097,7 +2097,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=16
 <doc>
 <field name="id">
 13496
-</field"> 
+</field> 
  <field name="title">
 Turzańsk - cerkiew p.w. Św. Michała Archanioła
 </field> 
@@ -2125,7 +2125,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=160
 <doc>
 <field name="id">
 13497
-</field"> 
+</field> 
  <field name="title">
 Miękisz Stary - Cerkiew p.w. Pokrow Bogarodzicy
 </field> 
@@ -2153,7 +2153,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=162
 <doc>
 <field name="id">
 13498
-</field"> 
+</field> 
  <field name="title">
 Binarowa - kościół p.w. św. Michała Archanioła
 </field> 
@@ -2181,7 +2181,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=163
 <doc>
 <field name="id">
 13499
-</field"> 
+</field> 
  <field name="title">
 Bogatynia - dom przysłupowy ul Waryńskiego 32
 </field> 
@@ -2209,7 +2209,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=164
 <doc>
 <field name="id">
 13500
-</field"> 
+</field> 
  <field name="title">
 Kozłówka - zespół pałacowo-parkowy
 </field> 
@@ -2240,7 +2240,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=165
 <doc>
 <field name="id">
 13501
-</field"> 
+</field> 
  <field name="title">
 Tenczyn - zamek
 </field> 
@@ -2267,7 +2267,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=166
 <doc>
 <field name="id">
 13502
-</field"> 
+</field> 
  <field name="title">
 Stara Kuźnica - kuźnia
 </field> 
@@ -2295,7 +2295,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=167
 <doc>
 <field name="id">
 13503
-</field"> 
+</field> 
  <field name="title">
 Gnojewo - kościół
 </field> 
@@ -2334,7 +2334,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=168
 <doc>
 <field name="id">
 13504
-</field"> 
+</field> 
  <field name="title">
 Kraków, Wawel - zamek
 </field> 
@@ -2361,7 +2361,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=169
 <doc>
 <field name="id">
 13505
-</field"> 
+</field> 
  <field name="title">
 Grunwald - pole bitwy
 </field> 
@@ -2398,7 +2398,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=17
 <doc>
 <field name="id">
 13506
-</field"> 
+</field> 
  <field name="title">
 Brzeg - zamek
 </field> 
@@ -2425,7 +2425,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=170
 <doc>
 <field name="id">
 13507
-</field"> 
+</field> 
  <field name="title">
 Żyrardów - XIX-wieczna osada fabryczna
 </field> 
@@ -2456,7 +2456,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=171
 <doc>
 <field name="id">
 13508
-</field"> 
+</field> 
  <field name="title">
 Smolnik - dawna cerkiew
 </field> 
@@ -2485,7 +2485,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=172
 <doc>
 <field name="id">
 13509
-</field"> 
+</field> 
  <field name="title">
 Żarnów - kościół p.w. św. Mikołaja
 </field> 
@@ -2513,7 +2513,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=173
 <doc>
 <field name="id">
 13510
-</field"> 
+</field> 
  <field name="title">
 Wieliczka - kopalnia soli
 </field> 
@@ -2544,7 +2544,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=174
 <doc>
 <field name="id">
 13511
-</field"> 
+</field> 
  <field name="title">
 Łańcut - zespół zamkowo-parkowy
 </field> 
@@ -2575,7 +2575,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=175
 <doc>
 <field name="id">
 13512
-</field"> 
+</field> 
  <field name="title">
 Sękowa - kościół p.w. śś Filipa i Jakuba
 </field> 
@@ -2604,7 +2604,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=176
 <doc>
 <field name="id">
 13513
-</field"> 
+</field> 
  <field name="title">
 Gdańsk - mur miejski
 </field> 
@@ -2640,7 +2640,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=177
 <doc>
 <field name="id">
 13514
-</field"> 
+</field> 
  <field name="title">
 Żółkiew - pałac
 </field> 
@@ -2669,7 +2669,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=179
 <doc>
 <field name="id">
 13515
-</field"> 
+</field> 
  <field name="title">
 Warszawa - zespół Stacji Filtrów Williama Lindleya
 </field> 
@@ -2700,7 +2700,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=182
 <doc>
 <field name="id">
 13516
-</field"> 
+</field> 
  <field name="title">
 Głogówek - zamek
 </field> 
@@ -2727,7 +2727,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=183
 <doc>
 <field name="id">
 13517
-</field"> 
+</field> 
  <field name="title">
 Warszawa - Wilanów pałac, antykamera królowej
 </field> 
@@ -2755,7 +2755,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=184
 <doc>
 <field name="id">
 13518
-</field"> 
+</field> 
  <field name="title">
 Warszawa - Wilanów pałac, sypialnia króla
 </field> 
@@ -2786,7 +2786,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=185
 <doc>
 <field name="id">
 13519
-</field"> 
+</field> 
  <field name="title">
 Legnickie Pole - pobenedyktyński zespół klasztorny
 </field> 
@@ -2816,7 +2816,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=186
 <doc>
 <field name="id">
 13520
-</field"> 
+</field> 
  <field name="title">
 Warszawa - Łazienki Królewskie, ermitaż
 </field> 
@@ -2844,7 +2844,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=187
 <doc>
 <field name="id">
 13521
-</field"> 
+</field> 
  <field name="title">
 Wicina-osada obronna
 </field> 
@@ -2905,7 +2905,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=188
 <doc>
 <field name="id">
 13522
-</field"> 
+</field> 
  <field name="title">
 Pałace i parki krajobrazowe Kotliny Jeleniogórskiej
 </field> 
@@ -2935,7 +2935,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=189
 <doc>
 <field name="id">
 13523
-</field"> 
+</field> 
  <field name="title">
 Baranów - zamek
 </field> 
@@ -2962,7 +2962,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=19
 <doc>
 <field name="id">
 13524
-</field"> 
+</field> 
  <field name="title">
 Olsztyn - mosty kolejowe
 </field> 
@@ -2991,7 +2991,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=191
 <doc>
 <field name="id">
 13525
-</field"> 
+</field> 
  <field name="title">
 Szydłów-twierdza
 </field> 
@@ -3026,7 +3026,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=192
 <doc>
 <field name="id">
 13526
-</field"> 
+</field> 
  <field name="title">
 Gdańsk-mury obronne
 </field> 
@@ -3071,7 +3071,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=194
 <doc>
 <field name="id">
 13527
-</field"> 
+</field> 
  <field name="title">
 Ostrów lednicki - palatium
 </field> 
@@ -3106,7 +3106,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=197
 <doc>
 <field name="id">
 13528
-</field"> 
+</field> 
  <field name="title">
 Biskupin - rezerwat archeologiczny
 </field> 
@@ -3138,7 +3138,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=198
 <doc>
 <field name="id">
 13529
-</field"> 
+</field> 
  <field name="title">
 Łańcut - zamek
 </field> 
@@ -3165,7 +3165,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=199
 <doc>
 <field name="id">
 13530
-</field"> 
+</field> 
  <field name="title">
 Gdańsk - miasto w zasięgu obwarowań z XVII wieku
 </field> 
@@ -3202,7 +3202,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=2
 <doc>
 <field name="id">
 13531
-</field"> 
+</field> 
  <field name="title">
 Racławice - teren historycznej Bitwy Racławickiej
 </field> 
@@ -3241,7 +3241,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=20
 <doc>
 <field name="id">
 13532
-</field"> 
+</field> 
  <field name="title">
 Wałbrzych - zamek Książ
 </field> 
@@ -3268,7 +3268,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=200
 <doc>
 <field name="id">
 13533
-</field"> 
+</field> 
  <field name="title">
 Warszawa - Zamek Królewski
 </field> 
@@ -3303,7 +3303,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=201
 <doc>
 <field name="id">
 13534
-</field"> 
+</field> 
  <field name="title">
 Haćki-kompleks osadniczy
 </field> 
@@ -3352,7 +3352,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=202
 <doc>
 <field name="id">
 13535
-</field"> 
+</field> 
  <field name="title">
 Strzegom - kościół pod wezwaniem św. Apostołów Piotra i Pawła
 </field> 
@@ -3383,7 +3383,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=204
 <doc>
 <field name="id">
 13536
-</field"> 
+</field> 
  <field name="title">
 Bohoniki i Kruszyniany - meczety i mizary
 </field> 
@@ -3414,7 +3414,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=205
 <doc>
 <field name="id">
 13537
-</field"> 
+</field> 
  <field name="title">
 Katowice - Gmach Województwa i Sejmu Śląskiego
 </field> 
@@ -3445,7 +3445,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=206
 <doc>
 <field name="id">
 13538
-</field"> 
+</field> 
  <field name="title">
 Łowicz - Bazylika Katedralna (dawna Kolegiata Prymasowska) pod wezwaniem Wniebowzięcia Najświętszej Marii Panny
 </field> 
@@ -3476,7 +3476,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=207
 <doc>
 <field name="id">
 13539
-</field"> 
+</field> 
  <field name="title">
 Sulejów - zespół opactwa cystersów
 </field> 
@@ -3507,7 +3507,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=208
 <doc>
 <field name="id">
 13540
-</field"> 
+</field> 
  <field name="title">
 Paczków - zespół staromiejski ze średniowiecznym systemem fortyfikacji
 </field> 
@@ -3538,7 +3538,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=209
 <doc>
 <field name="id">
 13541
-</field"> 
+</field> 
  <field name="title">
 Gdańsk - pole bitwy na Westerplatte
 </field> 
@@ -3588,7 +3588,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=25
 <doc>
 <field name="id">
 13542
-</field"> 
+</field> 
  <field name="title">
 Zatoka Gdańska-wrak Solen
 </field> 
@@ -3624,7 +3624,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=26
 <doc>
 <field name="id">
 13543
-</field"> 
+</field> 
  <field name="title">
 Puck-port średniowieczny
 </field> 
@@ -3667,7 +3667,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=27
 <doc>
 <field name="id">
 13544
-</field"> 
+</field> 
  <field name="title">
 Łęknica - Park Mużakowski
 </field> 
@@ -3710,7 +3710,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=28
 <doc>
 <field name="id">
 13545
-</field"> 
+</field> 
  <field name="title">
 Ostrów Lednicki-grodzisko
 </field> 
@@ -3769,7 +3769,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=29
 <doc>
 <field name="id">
 13546
-</field"> 
+</field> 
  <field name="title">
 Osieczek-grodzisko
 </field> 
@@ -3813,7 +3813,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=3
 <doc>
 <field name="id">
 13547
-</field"> 
+</field> 
  <field name="title">
 Ostrów Radzimski - grodzisko
 </field> 
@@ -3862,7 +3862,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=30
 <doc>
 <field name="id">
 13548
-</field"> 
+</field> 
  <field name="title">
 Gostyń-Głogówko - zespół klasztorny Kongregacji Oratorium św. Filipa Neri
 </field> 
@@ -3903,7 +3903,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=31
 <doc>
 <field name="id">
 13549
-</field"> 
+</field> 
  <field name="title">
 Chęciny-zamek
 </field> 
@@ -3945,7 +3945,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=32
 <doc>
 <field name="id">
 13550
-</field"> 
+</field> 
  <field name="title">
 Lubiń - zespół opactwa benedyktynów
 </field> 
@@ -3980,7 +3980,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=33
 <doc>
 <field name="id">
 13551
-</field"> 
+</field> 
  <field name="title">
 Kamień Pomorski - zespół katedralny
 </field> 
@@ -4015,7 +4015,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=34
 <doc>
 <field name="id">
 13552
-</field"> 
+</field> 
  <field name="title">
 Giecz-grodzisko
 </field> 
@@ -4072,7 +4072,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=36
 <doc>
 <field name="id">
 13553
-</field"> 
+</field> 
  <field name="title">
 Żagań - poaugustiański zespół klasztorny
 </field> 
@@ -4111,7 +4111,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=37
 <doc>
 <field name="id">
 13554
-</field"> 
+</field> 
  <field name="title">
 Chęciny - zamek
 </field> 
@@ -4138,7 +4138,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=39
 <doc>
 <field name="id">
 13555
-</field"> 
+</field> 
  <field name="title">
 Podolina-grodzisko
 </field> 
@@ -4178,7 +4178,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=4
 <doc>
 <field name="id">
 13556
-</field"> 
+</field> 
  <field name="title">
 Ląd nad Wartą - zespół dawnego opactwa cysterskiego
 </field> 
@@ -4215,7 +4215,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=40
 <doc>
 <field name="id">
 13557
-</field"> 
+</field> 
  <field name="title">
 Grądy Woniecko-osada wydmowa
 </field> 
@@ -4260,7 +4260,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=41
 <doc>
 <field name="id">
 13558
-</field"> 
+</field> 
  <field name="title">
 Wrocław - Hala Stulecia
 </field> 
@@ -4304,7 +4304,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=42
 <doc>
 <field name="id">
 13559
-</field"> 
+</field> 
  <field name="title">
 Wrocław - zespół historycznego centrum
 </field> 
@@ -4346,7 +4346,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=43
 <doc>
 <field name="id">
 13560
-</field"> 
+</field> 
  <field name="title">
 Zamość - historyczny zespół miasta w zasięgu obwarowań z XIX wieku
 </field> 
@@ -4387,7 +4387,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=44
 <doc>
 <field name="id">
 13561
-</field"> 
+</field> 
  <field name="title">
 Maleniec - zakład metalurgiczny
 </field> 
@@ -4416,7 +4416,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=45
 <doc>
 <field name="id">
 13562
-</field"> 
+</field> 
  <field name="title">
 Bogatynia - dom przysłupowy ul. Strumykowa 1
 </field> 
@@ -4444,7 +4444,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=46
 <doc>
 <field name="id">
 13563
-</field"> 
+</field> 
  <field name="title">
 Warszawa - historyczny zespół miasta z Traktem Królewskim i Wilanowem
 </field> 
@@ -4483,7 +4483,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=47
 <doc>
 <field name="id">
 13564
-</field"> 
+</field> 
  <field name="title">
 Dębno - kościół
 </field> 
@@ -4512,7 +4512,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=48
 <doc>
 <field name="id">
 13565
-</field"> 
+</field> 
  <field name="title">
 Gniezno - katedra pw. Wniebowzięcia NMP i św. Wojciecha
 </field> 
@@ -4555,7 +4555,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=49
 <doc>
 <field name="id">
 13566
-</field"> 
+</field> 
  <field name="title">
 Lidzbark Warmiński - zamek
 </field> 
@@ -4586,7 +4586,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=5
 <doc>
 <field name="id">
 13567
-</field"> 
+</field> 
  <field name="title">
 Lipnica Murowana - kościół
 </field> 
@@ -4614,7 +4614,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=50
 <doc>
 <field name="id">
 13568
-</field"> 
+</field> 
  <field name="title">
 Nysa - zespół kościoła farnego pw. św. Jakuba i św. Agnieszki
 </field> 
@@ -4654,7 +4654,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=51
 <doc>
 <field name="id">
 13569
-</field"> 
+</field> 
  <field name="title">
 Leżajsk - zespół klasztoru bernardynów
 </field> 
@@ -4696,7 +4696,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=52
 <doc>
 <field name="id">
 13570
-</field"> 
+</field> 
  <field name="title">
 Grodzisk-grodzisko
 </field> 
@@ -4743,7 +4743,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=53
 <doc>
 <field name="id">
 13571
-</field"> 
+</field> 
  <field name="title">
 Grodzisk-osada przygrodowa
 </field> 
@@ -4777,7 +4777,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=54
 <doc>
 <field name="id">
 13572
-</field"> 
+</field> 
  <field name="title">
 Smolany-Żardawy-groble
 </field> 
@@ -4809,7 +4809,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=55
 <doc>
 <field name="id">
 13573
-</field"> 
+</field> 
  <field name="title">
 Gródek-grodzisko
 </field> 
@@ -4857,7 +4857,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=56
 <doc>
 <field name="id">
 13574
-</field"> 
+</field> 
  <field name="title">
 Grzybnica-cmentarzysko
 </field> 
@@ -4898,7 +4898,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=57
 <doc>
 <field name="id">
 13575
-</field"> 
+</field> 
  <field name="title">
 Malbork - zespół zamku krzyżackiego
 </field> 
@@ -4928,7 +4928,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=58
 <doc>
 <field name="id">
 13576
-</field"> 
+</field> 
  <field name="title">
 Górzno - spichlerz
 </field> 
@@ -4957,7 +4957,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=59
 <doc>
 <field name="id">
 13577
-</field"> 
+</field> 
  <field name="title">
 Rudaw-grodzisko
 </field> 
@@ -4994,7 +4994,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=6
 <doc>
 <field name="id">
 13578
-</field"> 
+</field> 
  <field name="title">
 Frombork - zespół katedralny
 </field> 
@@ -5025,7 +5025,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=60
 <doc>
 <field name="id">
 13579
-</field"> 
+</field> 
  <field name="title">
 Grzybowo-grodzisko
 </field> 
@@ -5071,7 +5071,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=62
 <doc>
 <field name="id">
 13580
-</field"> 
+</field> 
  <field name="title">
 Świniarc-grodzisko
 </field> 
@@ -5105,7 +5105,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=63
 <doc>
 <field name="id">
 13581
-</field"> 
+</field> 
  <field name="title">
 Gutowo-grodzisko
 </field> 
@@ -5140,7 +5140,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=64
 <doc>
 <field name="id">
 13582
-</field"> 
+</field> 
  <field name="title">
 Kanał Augustowski
 </field> 
@@ -5172,7 +5172,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=65
 <doc>
 <field name="id">
 13583
-</field"> 
+</field> 
  <field name="title">
 Kanał Elbląski
 </field> 
@@ -5203,7 +5203,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=66
 <doc>
 <field name="id">
 13584
-</field"> 
+</field> 
  <field name="title">
 Wyspa - Ostrów Lednicki
 </field> 
@@ -5236,7 +5236,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=67
 <doc>
 <field name="id">
 13585
-</field"> 
+</field> 
  <field name="title">
 Lublin - historyczny zespół architektoniczno-urbanistyczny
 </field> 
@@ -5267,7 +5267,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=68
 <doc>
 <field name="id">
 13586
-</field"> 
+</field> 
  <field name="title">
 Chełmno - Stare Miasto
 </field> 
@@ -5298,7 +5298,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=69
 <doc>
 <field name="id">
 13587
-</field"> 
+</field> 
  <field name="title">
 Ruże-grodzisko
 </field> 
@@ -5339,7 +5339,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=7
 <doc>
 <field name="id">
 13588
-</field"> 
+</field> 
  <field name="title">
 Katowice - osiedle robotnicze Nikiszowiec
 </field> 
@@ -5370,7 +5370,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=70
 <doc>
 <field name="id">
 13589
-</field"> 
+</field> 
  <field name="title">
 Tarnowskie Góry - podziemia zabytkowej kopalni rud srebronośnych oraz sztolni Czarnego Pstrąga
 </field> 
@@ -5401,7 +5401,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=71
 <doc>
 <field name="id">
 13590
-</field"> 
+</field> 
  <field name="title">
 Kalwaria Zebrzydowska - krajobrazowy zespół manierystycznego parku pielgrzymkowego
 </field> 
@@ -5432,7 +5432,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=72
 <doc>
 <field name="id">
 13591
-</field"> 
+</field> 
  <field name="title">
 Twierdza Srebrnogórska - nowożytna warownia górska z XVIII wieku
 </field> 
@@ -5463,7 +5463,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=73
 <doc>
 <field name="id">
 13592
-</field"> 
+</field> 
  <field name="title">
 Kazimierz Dolny
 </field> 
@@ -5494,7 +5494,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=74
 <doc>
 <field name="id">
 13593
-</field"> 
+</field> 
  <field name="title">
 Besiekiery - zamek
 </field> 
@@ -5521,7 +5521,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=75
 <doc>
 <field name="id">
 13594
-</field"> 
+</field> 
  <field name="title">
 Krzeszów - opactwo cystersów
 </field> 
@@ -5551,7 +5551,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=76
 <doc>
 <field name="id">
 13595
-</field"> 
+</field> 
  <field name="title">
 Góra Świętej Anny - komponowany krajobraz kulturowo-przyrodniczy
 </field> 
@@ -5581,7 +5581,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=77
 <doc>
 <field name="id">
 13596
-</field"> 
+</field> 
  <field name="title">
 Malbork - zamek
 </field> 
@@ -5609,7 +5609,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=78
 <doc>
 <field name="id">
 13597
-</field"> 
+</field> 
  <field name="title">
 Węgielsztyn-grodzisko
 </field> 
@@ -5642,7 +5642,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=79
 <doc>
 <field name="id">
 13598
-</field"> 
+</field> 
  <field name="title">
 Gdańsk-browar
 </field> 
@@ -5707,7 +5707,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=8
 <doc>
 <field name="id">
 13599
-</field"> 
+</field> 
  <field name="title">
 Krzemionki - kopalnie krzemienia z epoki neolitu
 </field> 
@@ -5738,7 +5738,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=80
 <doc>
 <field name="id">
 13600
-</field"> 
+</field> 
  <field name="title">
 Jarosławiec-cmentarzyska kurhanowe
 </field> 
@@ -5792,7 +5792,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=81
 <doc>
 <field name="id">
 13601
-</field"> 
+</field> 
  <field name="title">
 Duszniki-Zdrój - młyn papierniczy
 </field> 
@@ -5825,7 +5825,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=82
 <doc>
 <field name="id">
 13602
-</field"> 
+</field> 
  <field name="title">
 Bochnia - kopalnia soli
 </field> 
@@ -5856,7 +5856,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=83
 <doc>
 <field name="id">
 13603
-</field"> 
+</field> 
  <field name="title">
 Jaskinia "Raj"-obozowisko
 </field> 
@@ -5895,7 +5895,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=84
 <doc>
 <field name="id">
 13604
-</field"> 
+</field> 
  <field name="title">
 Matcze-cmentarzysko kurhanowe
 </field> 
@@ -5933,7 +5933,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=85
 <doc>
 <field name="id">
 13605
-</field"> 
+</field> 
  <field name="title">
 Mokrzk-grodzisko
 </field> 
@@ -5970,7 +5970,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=86
 <doc>
 <field name="id">
 13606
-</field"> 
+</field> 
  <field name="title">
 Proboszczewice-grodzisko
 </field> 
@@ -6011,7 +6011,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=87
 <doc>
 <field name="id">
 13607
-</field"> 
+</field> 
  <field name="title">
 Bogatynia - dom przysłupowy ul. Waryńskiego 30
 </field> 
@@ -6039,7 +6039,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=88
 <doc>
 <field name="id">
 13608
-</field"> 
+</field> 
  <field name="title">
 Nowe Wymysle - zbór mennonicki
 </field> 
@@ -6067,7 +6067,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=89
 <doc>
 <field name="id">
 13609
-</field"> 
+</field> 
  <field name="title">
 Toruń - Stare i Nowe Miasto
 </field> 
@@ -6115,7 +6115,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=9
 <doc>
 <field name="id">
 13610
-</field"> 
+</field> 
  <field name="title">
 Kazimierz Dolny - zamek
 </field> 
@@ -6142,7 +6142,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=91
 <doc>
 <field name="id">
 13611
-</field"> 
+</field> 
  <field name="title">
 Toruń - zamek
 </field> 
@@ -6169,7 +6169,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=93
 <doc>
 <field name="id">
 13612
-</field"> 
+</field> 
  <field name="title">
 Oporów - zamek
 </field> 
@@ -6196,7 +6196,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=94
 <doc>
 <field name="id">
 13613
-</field"> 
+</field> 
  <field name="title">
 Kwidzyn - zamek
 </field> 
@@ -6223,7 +6223,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=95
 <doc>
 <field name="id">
 13614
-</field"> 
+</field> 
  <field name="title">
 Krasiczyn - zamek
 </field> 
@@ -6250,7 +6250,7 @@ http://e-zabytek.nid.pl/Zabytek/szczegoly.php?ID=96
 <doc>
 <field name="id">
 13615
-</field"> 
+</field> 
  <field name="title">
 Poznań - historyczny zespół miasta
 </field> 
